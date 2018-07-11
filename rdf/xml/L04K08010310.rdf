@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010310">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rücktritt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abberufung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Abwahl</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030302"/>
+        <skos:scopeNote xml:lang="de">Mit entsprechender Behörde verbinden</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4178654-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08060110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">parastaatliche Verwaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">parastaatlicher Bereich</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806011001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040315"/>
+        <skos:scopeNote xml:lang="de">Verselbständigte Verwaltungseinheiten, halbstaatliche oder private</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

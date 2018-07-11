@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140108010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kuh</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010801010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010801010302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4637" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4165939-9" />
+    </skos:Concept>
+</rdf:RDF>

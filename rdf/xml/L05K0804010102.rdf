@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0804010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schweizerische Nationalbibliothek</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Landesbibliothek</skos:altLabel>
+        <skos:altLabel xml:lang="de">Literaturarchiv</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nationalbibliothek</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerische Landesbibliothek</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerisches Literaturarchiv</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatsbibliothek</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12040102"/>
+        <skos:scopeNote xml:lang="de">Geändert 2007</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4867" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4166544-2" />
+    </skos:Concept>
+</rdf:RDF>

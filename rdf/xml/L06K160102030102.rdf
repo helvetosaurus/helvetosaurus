@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K160102030102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Elementarteilchen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektron</skos:altLabel>
+        <skos:altLabel xml:lang="de">Neutron</skos:altLabel>
+        <skos:altLabel xml:lang="de">Photon</skos:altLabel>
+        <skos:altLabel xml:lang="de">Proton</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601020301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5298" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4014413-6" />
+    </skos:Concept>
+</rdf:RDF>

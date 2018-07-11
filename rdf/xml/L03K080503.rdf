@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080503">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">politische Partei (speziell)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Partei</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0805"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050313"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050317"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050309"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050310"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050311"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050312"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050314"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050315"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050316"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020327"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020319"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050201"/>
+        <skos:scopeNote xml:lang="de">Für ausländische Parteien kombiniere "politische Partei (speziell)", mit dem</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100164" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044737-6" />
+    </skos:Concept>
+</rdf:RDF>

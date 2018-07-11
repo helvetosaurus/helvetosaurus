@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050201010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">passives Wahlrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Nichtwählbarkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wählbarkeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010311"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/717" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4173499-3" />
+    </skos:Concept>
+</rdf:RDF>

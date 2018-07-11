@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020309">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Luftverunreinigung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">atmosphärische Verunreinigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Luftbelastung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Luftverschmutzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Smog</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602030901"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602030902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2527" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15743-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4074381-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4182972-4" />
+    </skos:Concept>
+</rdf:RDF>

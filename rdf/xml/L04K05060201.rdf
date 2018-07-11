@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05060201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Seerecht</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050602"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140106030504"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060103010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020318"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/542" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4054176-9" />
+    </skos:Concept>
+</rdf:RDF>

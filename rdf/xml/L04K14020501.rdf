@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fleisch</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fleischmarkt [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140101030401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4681" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14122-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4352756-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4315998-9" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">gefriergetrocknetes Lebensmittel</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140204010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060110"/>
+        <skos:scopeNote xml:lang="de">Lebensmittel, das zunächst bei minus 60 Grad Celsius schockgefroren und dann</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2764" />
+    </skos:Concept>
+</rdf:RDF>

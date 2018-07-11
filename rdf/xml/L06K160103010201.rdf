@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K160103010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Eugenik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eugenetik</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105020801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020401"/>
+        <skos:scopeNote xml:lang="de">Erbgesundheitslehre. Wissenschaft von der "Verbesserung", bzw. Veränderung des</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6744" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015656-4" />
+    </skos:Concept>
+</rdf:RDF>

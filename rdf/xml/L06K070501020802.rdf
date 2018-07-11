@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070501020802">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">organische Säure</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Acrylsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Alkoholsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ameisensäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aromasäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Azetat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Essigsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ester</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fettsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Oxalsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Phthalsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Salicylsäure</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zitronensäure</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010208"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5055" />
+    </skos:Concept>
+</rdf:RDF>

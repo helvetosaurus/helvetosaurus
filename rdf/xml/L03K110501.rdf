@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Agrarpreis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">EG-Agrarpreis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erntejahrpreis</skos:altLabel>
+        <skos:altLabel xml:lang="de">gemeinsamer Agrarpreis</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050114"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010403010101"/>
+        <skos:scopeNote xml:lang="de">Im Rahmen der GAP festgelegter Preis. Für die Preise auf nationaler Ebene den</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2639" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/19330-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4141644-2" />
+    </skos:Concept>
+</rdf:RDF>

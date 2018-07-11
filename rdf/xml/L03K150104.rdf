@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K150104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">APF</skos:prefLabel>
+        <skos:altLabel xml:lang="de">AIPLF</skos:altLabel>
+        <skos:altLabel xml:lang="de">Assemblée internationale des parlementaires de langue française</skos:altLabel>
+        <skos:altLabel xml:lang="de">Assemblée parlementaire de la Francophonie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Internationale Versammlung der Parlamentarier französischer Sprache</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentarische Versammlung der Frankophonie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010202"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2003; ersetzt "AIPLF" (rückwirkend verwendet in Curia Vista).</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703020105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Buchhalter/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bilanzbuchhalter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bilanzbuchhalterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bilanzprüfer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bilanzprüferin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Buchhalter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Buchhalterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungsführer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungsführerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungsprüfer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungsprüferin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/60" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29760-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4122969-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4122921-6" />
+    </skos:Concept>
+</rdf:RDF>

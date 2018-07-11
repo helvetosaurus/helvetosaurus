@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K08070102010708">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">regionale Zusammenarbeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">interregionale Zusammenarbeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020335"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/221" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4455020-0" />
+    </skos:Concept>
+</rdf:RDF>

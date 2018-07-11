@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K140203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Nahrungsmittel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Lebensmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nahrungsmittelerzeugung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nahrungsmittelproduktion</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106020303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100257" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034870-2" />
+    </skos:Concept>
+</rdf:RDF>

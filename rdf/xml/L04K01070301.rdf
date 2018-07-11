@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01070301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Sterblichkeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Sterberate</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sterblichkeitsziffer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1991" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15949-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057312-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4236133-3" />
+    </skos:Concept>
+</rdf:RDF>

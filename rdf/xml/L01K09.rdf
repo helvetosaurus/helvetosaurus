@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K09">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Europapolitik</skos:prefLabel>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0902"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0903"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0904"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K10"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010105"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4071013-0" />
+    </skos:Concept>
+</rdf:RDF>

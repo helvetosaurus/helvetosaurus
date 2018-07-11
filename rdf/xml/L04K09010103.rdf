@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Angleichung der Rechtsvorschriften</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Harmonisierung der Rechtsvorschriften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsangleichung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsanpassung EU</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0503020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070310"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010217"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2897" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/19705-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048849-4" />
+    </skos:Concept>
+</rdf:RDF>

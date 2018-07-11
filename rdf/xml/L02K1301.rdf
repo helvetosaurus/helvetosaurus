@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Organisation des Unterrichtswesens (allgemein)</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K13"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100219" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701010311">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vermarktungsnorm</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eichung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kalibrierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010305"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2081" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4198762-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703040104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmer/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Industrielle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industrieller</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensinhaber</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensinhaberin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050702"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3542" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13992-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4061949-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4134128-4" />
+    </skos:Concept>
+</rdf:RDF>

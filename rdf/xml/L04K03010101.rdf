@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schweiz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Schweiz (allgemein)</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerische Eidgenossenschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerkreuz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010114"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010116"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010117"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010118"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010119"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010120"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010121"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010122"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010123"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010601020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010601020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010601020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020222"/>
+        <skos:scopeNote xml:lang="de">In der Geschäftsdatenbank Curia Vista nur verwenden, wenn die Schweiz in einem</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

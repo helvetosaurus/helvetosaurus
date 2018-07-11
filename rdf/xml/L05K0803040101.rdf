@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803040101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Entschädigung der Parlamentsmitglieder</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufwandsentschädigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Taggeld für Parlamentsmitglieder</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unkostenpauschale des Abgeordneten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Bezüge der Mitglieder der eidgenössischen Räte und über die Beiträge an die Fraktionen [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Entschädigungsgesetz [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsressourcengesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1344" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003570-0" />
+    </skos:Concept>
+</rdf:RDF>

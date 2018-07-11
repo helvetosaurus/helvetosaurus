@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070101030901">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verbrauchsforschung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040405"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/771" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4187567-9" />
+    </skos:Concept>
+</rdf:RDF>

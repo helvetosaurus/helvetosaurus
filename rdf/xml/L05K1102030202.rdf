@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1102030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Subvention</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausgleichszahlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesbeiträge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundeshilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundessubvention</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliche Hilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentlicher Zuschuss</skos:altLabel>
+        <skos:altLabel xml:lang="de">staatliche Beihilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">staatliche Hilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">staatliche Unterstützung</skos:altLabel>
+        <skos:altLabel xml:lang="de">staatlicher Zuschuss</skos:altLabel>
+        <skos:altLabel xml:lang="de">Subventionierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Subventionspolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuschuss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/712" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4058345-4" />
+    </skos:Concept>
+</rdf:RDF>

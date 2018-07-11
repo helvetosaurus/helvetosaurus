@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701010104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ausstandspflicht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausstand</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801031101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1186" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4267935-7" />
+    </skos:Concept>
+</rdf:RDF>

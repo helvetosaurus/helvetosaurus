@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationales Abkommen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abkommen zwischen Staaten</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationaler Vertrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">multilateraler Vertrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">weltweites Abkommen</skos:altLabel>
+        <skos:altLabel xml:lang="de">zwischenstaatliches Abkommen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Alpenkonvention [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Auslieferungsvertrag [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Basler Konvention über die Kontrolle der grenzüberschreitenden Beförderung gefährlicher Güter [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rückübernahmeabkommen [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040213"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040110"/>
+        <skos:scopeNote xml:lang="de">nur verwenden für internationale Übereinkommen zwischen Staaten und nicht bei</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3461" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16184-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063696-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7708477-9" />
+    </skos:Concept>
+</rdf:RDF>

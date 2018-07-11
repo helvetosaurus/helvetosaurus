@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1504030402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">IIPE</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Internationales Institut für Erziehungsplanung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1286" />
+    </skos:Concept>
+</rdf:RDF>

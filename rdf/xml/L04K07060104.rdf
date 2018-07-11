@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07060104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Materialtechnologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ermüdungsbruch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Materialbruch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Materialermüdung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Materialfestigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Materialforschung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Werkstoffermüdung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Werkstofftechnologie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010403"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4418" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18783-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4079184-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4200188-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401060310">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fischfang</skos:prefLabel>
+        <skos:altLabel xml:lang="de">angelandete Fangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufteilung der Fangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fang</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fangertrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fangmenge nach Arten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesamtfangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regulierung der Fangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">zulässige Fangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">zulässige Gesamtfangmenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">zurückgeworfener Fang</skos:altLabel>
+        <skos:altLabel xml:lang="de">zusätzliche Fangmenge</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010603"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5255" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4154473-0" />
+    </skos:Concept>
+</rdf:RDF>

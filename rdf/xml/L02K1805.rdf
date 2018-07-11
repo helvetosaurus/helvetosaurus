@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1805">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">See- und Binnenschiffsverkehr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Schiffsverkehr</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K18"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180503"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4116383-7" />
+    </skos:Concept>
+</rdf:RDF>

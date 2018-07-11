@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16010404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Hydrologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Flusskunde</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hydrographie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Limnologie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0603030209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030409"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1278" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29599-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026309-5" />
+    </skos:Concept>
+</rdf:RDF>

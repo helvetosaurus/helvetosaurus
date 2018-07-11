@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12010203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Public Relations</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Manipulation der Meinung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Öffentlichkeitsarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Propaganda</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020340"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010302"/>
+        <skos:scopeNote xml:lang="de">Verschoben 1999 (vorher NT zu Kommunikationspolitik)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5891" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4043188-5" />
+    </skos:Concept>
+</rdf:RDF>

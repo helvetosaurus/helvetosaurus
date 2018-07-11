@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070203030301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Jobsharing</skos:prefLabel>
+        <skos:altLabel xml:lang="de">geteilter Arbeitsplatz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030213"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3520" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11199-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4073043-8" />
+    </skos:Concept>
+</rdf:RDF>

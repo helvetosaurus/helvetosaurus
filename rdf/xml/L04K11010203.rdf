@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11010203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beistandsmechanismus</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1851" />
+    </skos:Concept>
+</rdf:RDF>

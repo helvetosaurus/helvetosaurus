@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1302050102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fachhochschule</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Höhere Technische Lehranstalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Höhere Wirtschafts- und Verwaltungsschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">HTL</skos:altLabel>
+        <skos:altLabel xml:lang="de">HWV</skos:altLabel>
+        <skos:altLabel xml:lang="de">Technikum</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K130205010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/800" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11379-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4058216-4" />
+    </skos:Concept>
+</rdf:RDF>

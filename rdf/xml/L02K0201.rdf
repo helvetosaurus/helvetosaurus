@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">behandelter Zeitraum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">historischer Rahmen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K02"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010310"/>
+        <skos:scopeNote xml:lang="de">für Dokumente, die sich nicht auf die jeweilige Gegenwart beziehen. Die</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

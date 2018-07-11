@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030311">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stärke</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Getreidestärke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kartoffelstärke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sago</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stärke für die Nahrungsmittelindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">stärkehaltiges Erzeugnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stärkeprodukt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1654" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4286967-5" />
+    </skos:Concept>
+</rdf:RDF>

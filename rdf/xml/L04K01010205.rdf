@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Drogenhandel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Dealer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dealerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Drogenhändler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Drogenhändlerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Drogenschmuggler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Drogenschmugglerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rauschgifthandel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rauschgifthändler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rauschgifthändlerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rauschgiftschmuggel</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3355" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/20409-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139162-7" />
+    </skos:Concept>
+</rdf:RDF>

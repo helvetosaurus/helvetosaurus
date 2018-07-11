@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Auslandsschuld</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aussenschuld</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aussenverschuldung</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Schulden</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110803"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1104030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050702010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/423" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4027383-0" />
+    </skos:Concept>
+</rdf:RDF>

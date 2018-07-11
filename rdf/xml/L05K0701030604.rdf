@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030604">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">innergemeinschaftlicher Handel</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/619" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18536-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4248349-9" />
+    </skos:Concept>
+</rdf:RDF>

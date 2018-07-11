@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Modal Split</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Verkehrsteilung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010213"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020211"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001. Aufteilung des Verkehrs auf verschiedene Transportsysteme</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4242346-6" />
+    </skos:Concept>
+</rdf:RDF>

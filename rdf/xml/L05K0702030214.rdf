@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030214">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Temporärarbeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aushilfsarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aushilfskraft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aushilfspersonal</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bedienstete auf Zeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bediensteter auf Zeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ersatzkraft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Interimsarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertragsarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zeitarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zeitbeschäftigung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202030403"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3527" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18792-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4005233-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4190589-1" />
+    </skos:Concept>
+</rdf:RDF>

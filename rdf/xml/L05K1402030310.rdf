@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030310">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Obsterzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fruchtmark</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fruchtpülpe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konfitüre</skos:altLabel>
+        <skos:altLabel xml:lang="de">Marmelade</skos:altLabel>
+        <skos:altLabel xml:lang="de">Most</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Obstmost</skos:altLabel>
+        <skos:altLabel xml:lang="de">Traubenmost</skos:altLabel>
+        <skos:altLabel xml:lang="de">Traubensaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140201010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140201010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2730" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4227084-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Entwicklungsland</skos:prefLabel>
+        <skos:altLabel xml:lang="de">armes Land</skos:altLabel>
+        <skos:altLabel xml:lang="de">dritte Welt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Land der dritten Welt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Trikont</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010511"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2295" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10492-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4438995-4" />
+    </skos:Concept>
+</rdf:RDF>

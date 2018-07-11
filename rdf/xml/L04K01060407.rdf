@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060407">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Musik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Musikunterricht [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010604"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050806"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2023" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15661-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4040802-4" />
+    </skos:Concept>
+</rdf:RDF>

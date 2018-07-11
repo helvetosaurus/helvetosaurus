@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Geflügel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ente</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fleischgeflügel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gans</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hahn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hähnchen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Huhn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Küken</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mastgeflügel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pute</skos:altLabel>
+        <skos:altLabel xml:lang="de">Puter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Truthahn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Truthenne</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140101030201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140101030202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140101030203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402050104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4743" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4019681-1" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14135-0" />
+    </skos:Concept>
+</rdf:RDF>

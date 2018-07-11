@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020506">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Volksschule</skos:prefLabel>
+        <skos:altLabel xml:lang="de">allgemeine Schulpflicht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dauer der Schulpflicht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulpflicht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030115"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/789" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063861-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120205010803">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">RSI</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Radiotelevisione svizzera di lingua italiana</skos:altLabel>
+        <skos:altLabel xml:lang="de">RTSI</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202050108"/>
+    </skos:Concept>
+</rdf:RDF>

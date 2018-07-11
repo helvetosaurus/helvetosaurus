@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020502010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arbeitgeber-/ Arbeitnehmerbeziehung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arbeitgeberverhalten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arbeitnehmerverhalten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Betriebsklima</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020401"/>
+        <skos:scopeNote xml:lang="de">Zu verwenden für die Ebene des einzelnen Betriebs (vgl. RT)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006188-7" />
+    </skos:Concept>
+</rdf:RDF>

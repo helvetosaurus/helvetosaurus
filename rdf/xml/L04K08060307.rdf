@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08060307">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wirtschaftsverwaltungsrecht</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806011001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030311"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4012" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4124920-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K14010802020101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Erntemaschine</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mähdrescher</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140108020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401020306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1722" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4274396-5" />
+    </skos:Concept>
+</rdf:RDF>

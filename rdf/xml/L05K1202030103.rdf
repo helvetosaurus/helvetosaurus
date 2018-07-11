@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202030103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">audiovisuelles Programm</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fernsehprogramm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fernsehsendung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hörfunksendung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Radioprogramm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Radiosendung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rundfunksendung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sendezeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">TV-Programm</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020334"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5186" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016837-2" />
+    </skos:Concept>
+</rdf:RDF>

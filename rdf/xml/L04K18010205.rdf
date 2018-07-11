@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beförderungspersonal</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020503"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2350" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13979-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7628045-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4352376-6" />
+    </skos:Concept>
+</rdf:RDF>

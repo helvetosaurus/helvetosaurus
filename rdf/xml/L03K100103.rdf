@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K100103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ausland</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1001"/>
+        <skos:scopeNote xml:lang="de">Nur zu verwenden als Gegensatz zum Inland oder wenn kein spezifischer Begriff</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4068999-2" />
+    </skos:Concept>
+</rdf:RDF>

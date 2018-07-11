@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gleichbehandlung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Chancengleichheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gleichheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gleichheitsgrundsatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Grundsatz der Nichtdiskriminierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">ungleiche Behandlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ungleichheit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704050205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020507"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502040802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030117"/>
+        <skos:scopeNote xml:lang="de">Allenfalls auch zutreffende RT's benutzen.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/688" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4318364-5" />
+    </skos:Concept>
+</rdf:RDF>

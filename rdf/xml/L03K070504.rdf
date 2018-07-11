@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070504">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Holzindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Holzbearbeitung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Holzbehandlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">holzverarbeitende Industrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Holzverarbeitung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Holzwirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0705"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140107010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140107010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401070105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140107"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100274" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4025713-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0101030401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Euthanasie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Recht auf Euthanasie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sterbehilfe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050213"/>
+        <skos:scopeNote xml:lang="de">aktive oder passive Sterbehilfe</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6277" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077877-0" />
+    </skos:Concept>
+</rdf:RDF>

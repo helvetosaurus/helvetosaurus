@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechnungshof EU</skos:prefLabel>
+        <skos:altLabel xml:lang="de">EG-Rechnungshof</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Rechnungshof</skos:altLabel>
+        <skos:altLabel xml:lang="de">Europäischer Rechnungshof</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungshof EG</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/256" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060405">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">literarischer Beruf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Autor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Autorin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dichter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dichterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schriftsteller</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schriftstellerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010604"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3601" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003982-1" />
+    </skos:Concept>
+</rdf:RDF>

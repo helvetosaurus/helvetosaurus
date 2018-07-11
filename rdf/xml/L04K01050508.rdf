@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050508">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gesundheitspass</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Patientenkarte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050517"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3364" />
+    </skos:Concept>
+</rdf:RDF>

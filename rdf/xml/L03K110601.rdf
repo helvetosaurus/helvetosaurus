@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Finanzmarkt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">internationaler Finanzmarkt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Finanzmarktaufsicht [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060114"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040513"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010204"/>
+        <skos:scopeNote xml:lang="de">Der Finanzmarkt kann nach dem Kriterium der Fristigkeit der gehandelten</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1804" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13723-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029578-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4124366-3" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/10807-4" />
+    </skos:Concept>
+</rdf:RDF>

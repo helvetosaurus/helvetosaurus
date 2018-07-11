@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07040502050201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vermögensverteilung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070405020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L08K0704050205020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010901"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3310" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11751-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063086-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4192150-1" />
+    </skos:Concept>
+</rdf:RDF>

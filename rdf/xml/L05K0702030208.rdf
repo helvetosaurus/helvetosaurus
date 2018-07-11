@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030208">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">freiwillige Arbeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Freiwilligenarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fronarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">unbezahlte Tätigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">unentgeltliche Tätigkeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030205"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001; vorher Synonym zu unentgeltliche Tätigkeit (rückwirkend</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3525" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4013673-5" />
+    </skos:Concept>
+</rdf:RDF>

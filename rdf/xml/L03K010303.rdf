@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Familie (speziell)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Angehörige</skos:altLabel>
+        <skos:altLabel xml:lang="de">Familienangehörige</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verwandtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100208" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016397-0" />
+    </skos:Concept>
+</rdf:RDF>

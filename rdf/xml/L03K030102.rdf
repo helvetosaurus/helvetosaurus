@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Südosteuropa</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Balkan</skos:altLabel>
+        <skos:altLabel xml:lang="de">Balkanhalbinsel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Balkanländer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010208"/>
+    </skos:Concept>
+</rdf:RDF>

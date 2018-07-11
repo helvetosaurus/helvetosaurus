@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16020103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Forschungsmethode</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Methode der Wissenschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1894" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16727-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4004038-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4155046-8" />
+    </skos:Concept>
+</rdf:RDF>

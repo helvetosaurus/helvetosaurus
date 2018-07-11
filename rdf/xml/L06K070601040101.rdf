@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070601040101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Barren</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bramme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Breiteisen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Knüppel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Massel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Metallblock</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rohblock</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rohling</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorblock</skos:altLabel>
+        <skos:altLabel xml:lang="de">vorgewalzter Block</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1669" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4321898-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechtsschutz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Antrag auf Wiederaufnahme eines Verfahrens</skos:altLabel>
+        <skos:altLabel xml:lang="de">ausserordentliches Rechtsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beschwerderecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einspruch</skos:altLabel>
+        <skos:altLabel xml:lang="de">gerichtlicher Rechtsbehelf</skos:altLabel>
+        <skos:altLabel xml:lang="de">Klagerecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rekurs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Revisionseinlegung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202050107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05050110"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2939" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048835-4" />
+    </skos:Concept>
+</rdf:RDF>

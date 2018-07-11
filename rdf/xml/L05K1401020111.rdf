@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020111">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rebfläche</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Rebland</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rebsorte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rebstock</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weinbaugebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weinberg</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weinrebe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140104010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010116"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4708" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177156-4" />
+    </skos:Concept>
+</rdf:RDF>

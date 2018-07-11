@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K01">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">soziale Fragen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">gesellschaftliche Fragen</skos:altLabel>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100149" />
+    </skos:Concept>
+</rdf:RDF>

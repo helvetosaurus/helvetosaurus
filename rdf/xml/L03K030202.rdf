@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Italien Regionen</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020211"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020212"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020213"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020214"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020215"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020216"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020217"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020218"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020219"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020220"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020221"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020222"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010503"/>
+    </skos:Concept>
+</rdf:RDF>

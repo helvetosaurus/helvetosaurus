@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07030301010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Aktienrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Depotstimmrecht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070303010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060115"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070204"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4246380-4" />
+    </skos:Concept>
+</rdf:RDF>

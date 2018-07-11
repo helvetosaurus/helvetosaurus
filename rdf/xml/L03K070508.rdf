@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070508">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">verschiedene Industriezweige</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0705"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050802"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050805"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050806"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050807"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050808"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050809"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050810"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050811"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100276" />
+    </skos:Concept>
+</rdf:RDF>

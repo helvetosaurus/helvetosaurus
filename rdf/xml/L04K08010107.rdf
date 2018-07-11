@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stimm- und Wahlrechtsbeschwerde</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Wahlanfechtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlprüfung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlstreitigkeiten</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801010701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801010702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3035" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4188929-0" />
+    </skos:Concept>
+</rdf:RDF>

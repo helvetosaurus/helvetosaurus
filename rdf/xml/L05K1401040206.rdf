@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040206">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">landwirtschaftliche Beratung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agrarberater</skos:altLabel>
+        <skos:altLabel xml:lang="de">Agrarberaterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliche Beraterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftlicher Berater</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4771" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034407-1" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10576-4" />
+    </skos:Concept>
+</rdf:RDF>

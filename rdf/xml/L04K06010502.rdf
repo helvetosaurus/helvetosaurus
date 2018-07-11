@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wasseraufbereitung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Chlorung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Entsalzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wasserreinigung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010407"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4485" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13327-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064698-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4169262-7" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13331-5" />
+    </skos:Concept>
+</rdf:RDF>

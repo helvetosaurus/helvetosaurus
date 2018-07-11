@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17040202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Erdöl</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mineralöl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Naphtha</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rohbenzin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schwerbenzin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erdölpreis [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1704020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07050103020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2366" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14197-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015179-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4140852-4" />
+    </skos:Concept>
+</rdf:RDF>

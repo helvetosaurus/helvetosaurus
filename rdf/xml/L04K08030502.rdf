@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">kantonales Parlament</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Grosser Rat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kantonsrat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landrat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landtag</skos:altLabel>
+        <skos:altLabel xml:lang="de">regionales Parlament</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102020102"/>
+        <skos:scopeNote xml:lang="de">für ausländisches Gliedstaatenparlament mit entsprechender Nation verbinden</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2245" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4166616-1" />
+    </skos:Concept>
+</rdf:RDF>

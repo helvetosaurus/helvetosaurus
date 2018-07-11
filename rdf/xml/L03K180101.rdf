@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K180101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrsraum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Lokalisierung des Verkehrs</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010107"/>
+        <skos:scopeNote xml:lang="de">Gebiet, in dem eine Beförderung durchgeführt wird.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3098" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4267585-6" />
+    </skos:Concept>
+</rdf:RDF>

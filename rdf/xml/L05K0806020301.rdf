@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0806020301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Regierungsmitglied</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundesrätin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesratsmitglied</skos:altLabel>
+        <skos:altLabel xml:lang="de">Departementsvorsteher</skos:altLabel>
+        <skos:altLabel xml:lang="de">Departementsvorsteherin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Exekutivmitglied</skos:altLabel>
+        <skos:altLabel xml:lang="de">Minister</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ministerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungsrätin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungsratsmitglied</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801031101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1939" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177412-7" />
+    </skos:Concept>
+</rdf:RDF>

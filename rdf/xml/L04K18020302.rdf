@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fahrkarte</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beförderungsausweis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Billett</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eurailpass</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrschein</skos:altLabel>
+        <skos:altLabel xml:lang="de">Flugticket</skos:altLabel>
+        <skos:altLabel xml:lang="de">Generalabonnement</skos:altLabel>
+        <skos:altLabel xml:lang="de">Halbtaxabonnement</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4464" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4240942-1" />
+    </skos:Concept>
+</rdf:RDF>

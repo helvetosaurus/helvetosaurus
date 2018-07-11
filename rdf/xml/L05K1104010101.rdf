@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1104010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Entwicklungsbank</skos:prefLabel>
+        <skos:altLabel xml:lang="de">regionale Entwicklungsbank</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110401010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110401010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1001040203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4806" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10550-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4152437-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4236437-1" />
+    </skos:Concept>
+</rdf:RDF>

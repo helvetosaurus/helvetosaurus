@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1107010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuer auf Finanztransaktionen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Tobin-Steuer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1106020108"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4493448-8" />
+    </skos:Concept>
+</rdf:RDF>

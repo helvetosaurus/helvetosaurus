@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01040401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">fürsorgerische Freiheitsentziehung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">FFE</skos:altLabel>
+        <skos:altLabel xml:lang="de">fürsorgerische Unterbringung</skos:altLabel>
+        <skos:altLabel xml:lang="de">fürsorgerischer Freiheitsentzug</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030402"/>
+    </skos:Concept>
+</rdf:RDF>

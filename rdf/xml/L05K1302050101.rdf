@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1302050101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">ETH</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eidgenössische Technische Hochschule</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080406010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020202"/>
+        <skos:scopeNote xml:lang="de">Nicht verwenden für Annex-Anstalten und Schulrat (siehe RT's)</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

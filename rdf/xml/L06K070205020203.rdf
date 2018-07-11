@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070205020203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arbeitsunfähigkeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erwerbsfähigkeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702050202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104010302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1334" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002792-2" />
+    </skos:Concept>
+</rdf:RDF>

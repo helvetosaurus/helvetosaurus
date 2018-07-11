@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020230">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verantwortung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Pflichten</skos:altLabel>
+        <skos:altLabel xml:lang="de">politische Verantwortung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010208"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3517" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062547-3" />
+    </skos:Concept>
+</rdf:RDF>

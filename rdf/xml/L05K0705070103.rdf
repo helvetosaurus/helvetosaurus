@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705070103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Industrialisierung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausbreitung der Industrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Förderung der Industrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industrialisierungspolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industrieförderung</skos:altLabel>
+        <skos:altLabel xml:lang="de">industrielle Entwicklung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industriewachstum</skos:altLabel>
+        <skos:altLabel xml:lang="de">zunehmende Industrialisierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1356" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10500-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026776-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4204883-7" />
+    </skos:Concept>
+</rdf:RDF>

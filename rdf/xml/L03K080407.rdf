@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080407">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">UVEK</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Verkehrs- und Energiewirtschaftsdepartement</skos:altLabel>
+        <skos:altLabel xml:lang="de">EVED</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040702"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040704"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040705"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040706"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040708"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040713"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040709"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040707"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040710"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040711"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040712"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021103"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999 (vorher EVED)</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

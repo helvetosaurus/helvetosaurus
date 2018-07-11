@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Erweiterung der Gemeinschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausbau der Gemeinschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natali-Bericht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0902"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030604"/>
+    </skos:Concept>
+</rdf:RDF>

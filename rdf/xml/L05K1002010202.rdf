@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1002010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">diplomatischer Schutz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">konsularischer Schutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schutz von schweizerischen Staatsangehörigen im Ausland</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2835" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4150094-5" />
+    </skos:Concept>
+</rdf:RDF>

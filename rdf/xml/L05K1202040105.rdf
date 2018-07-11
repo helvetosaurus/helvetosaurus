@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202040105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Radio- und Fernsehgebühren</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Empfangskonzession</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konzessionsgebühr für Radio- und Fernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rundfunkgebühr</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1107020401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2230" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4178707-9" />
+    </skos:Concept>
+</rdf:RDF>

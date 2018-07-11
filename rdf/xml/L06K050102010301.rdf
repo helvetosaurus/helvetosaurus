@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050102010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Freiheitsberaubung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Entführung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geisel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geiselnahme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kindsentführung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3945" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4018330-0" />
+    </skos:Concept>
+</rdf:RDF>

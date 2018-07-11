@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K02020601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Expertise</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Expertenbericht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gutachten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsgutachten [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602020101"/>
+        <skos:scopeNote xml:lang="de">entstanden im Auftrag (vgl. Forschungsbericht)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4351590-3" />
+    </skos:Concept>
+</rdf:RDF>

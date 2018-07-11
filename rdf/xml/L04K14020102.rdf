@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zucker</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402040207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020207"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4314" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14934-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4799345-5" />
+    </skos:Concept>
+</rdf:RDF>

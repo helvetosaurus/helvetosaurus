@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K060105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wasserbewirtschaftung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030107"/>
+        <skos:scopeNote xml:lang="de">Im Unterschied zur Wasserwirtschaft, deren Gegenstand Bau und Betrieb von</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3144" />
+    </skos:Concept>
+</rdf:RDF>

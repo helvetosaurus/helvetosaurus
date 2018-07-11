@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401050601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Landwirt/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agronom</skos:altLabel>
+        <skos:altLabel xml:lang="de">Agronomin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bauer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bäuerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">hauptberuflich tätige Landwirtin</skos:altLabel>
+        <skos:altLabel xml:lang="de">hauptberuflich tätiger Landwirt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landwirt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landwirtin</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliche Betriebsinhaberin</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftlicher Betriebsinhaber</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weinbauer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weinbäuerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Winzer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Winzerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140105060101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140105060102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/936" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034399-6" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13436-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuerwesen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Besteuerung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fiskus</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K11"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110704"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110702"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110706"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110705"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110802"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100206" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057399-0" />
+    </skos:Concept>
+</rdf:RDF>

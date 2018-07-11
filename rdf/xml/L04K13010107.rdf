@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13010107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zurückbleiben in der Schule</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Förderkurs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Förderunterricht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hausaufgabenbetreuung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nachhilfeunterricht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stützkurs</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3615" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017776-2" />
+    </skos:Concept>
+</rdf:RDF>

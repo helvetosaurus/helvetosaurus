@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Güterverkehr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Warenbeförderung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Warenverkehr</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102040401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4509" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13621-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4022492-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4145573-3" />
+    </skos:Concept>
+</rdf:RDF>

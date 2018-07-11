@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K180401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beförderung auf dem Luftweg</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Flugdienst</skos:altLabel>
+        <skos:altLabel xml:lang="de">Luftfahrt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020703"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802040301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4505" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13246-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4036597-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4168280-4" />
+    </skos:Concept>
+</rdf:RDF>

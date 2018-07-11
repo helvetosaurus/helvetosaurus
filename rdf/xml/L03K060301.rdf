@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K060301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">geophysikalische Umwelt</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0603"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030111"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3146" />
+    </skos:Concept>
+</rdf:RDF>

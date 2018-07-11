@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wettbewerbsbeschränkung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">diskriminierende Handelspraktiken</skos:altLabel>
+        <skos:altLabel xml:lang="de">missbräuchliche Handelspraktiken</skos:altLabel>
+        <skos:altLabel xml:lang="de">restriktive Handelspraktiken</skos:altLabel>
+        <skos:altLabel xml:lang="de">unerlaubter Wettbewerb</skos:altLabel>
+        <skos:altLabel xml:lang="de">unlautere Handelspraktiken</skos:altLabel>
+        <skos:altLabel xml:lang="de">unlauterer Wettbewerb</skos:altLabel>
+        <skos:altLabel xml:lang="de">unvollkommene Konkurrenz</skos:altLabel>
+        <skos:altLabel xml:lang="de">unvollkommener Wettbewerb</skos:altLabel>
+        <skos:altLabel xml:lang="de">verfälschter Wettbewerb</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wettbewerbsverzerrung</skos:altLabel>
+        <skos:altLabel xml:lang="de">wettbewerbswidrige Praktiken</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz gegen den unlauteren Wettbewerb [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">UWG [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3581" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10942-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4138547-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4170480-0" />
+    </skos:Concept>
+</rdf:RDF>

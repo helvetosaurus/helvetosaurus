@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020203010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">gemeinsame Aussenpolitik der EU</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aussenpolitik der EU-Staaten</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K090202030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K10"/>
+        <skos:scopeNote xml:lang="de">Verschoben 1999 (vorher NT zu Europäische Politische Zusammenarbeit)</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

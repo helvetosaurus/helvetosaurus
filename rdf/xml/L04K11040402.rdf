@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11040402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Diskont</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Diskontierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110404"/>
+        <skos:scopeNote xml:lang="de">Geschäft, bei dem eine Bank einen später fälligen Wechsel unter Abzug von Zinsen</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/858" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19536-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4205165-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4150164-0" />
+    </skos:Concept>
+</rdf:RDF>

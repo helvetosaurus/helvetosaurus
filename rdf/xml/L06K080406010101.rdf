@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080406010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">ETH-Rat</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Schweizerischer Schulrat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020202"/>
+    </skos:Concept>
+</rdf:RDF>

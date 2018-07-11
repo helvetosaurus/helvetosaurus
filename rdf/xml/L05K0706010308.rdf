@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010308">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Produktionskontrolle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fertigungsüberwachung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktkontrolle</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/179" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12760-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4076362-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4335524-9" />
+    </skos:Concept>
+</rdf:RDF>

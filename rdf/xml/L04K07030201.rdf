@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Buchführung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Betriebsbuchhaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Buchhaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">kalkulatorische Buchhaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungsführung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnungswesen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703060207"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/54" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12307-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048732-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4129428-2" />
+    </skos:Concept>
+</rdf:RDF>

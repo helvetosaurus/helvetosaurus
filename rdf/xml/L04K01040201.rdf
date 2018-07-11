@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01040201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Behinderte/r</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Behinderte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Behinderter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Behinderung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070203030501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160103010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020107"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1231" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15908-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4005279-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4125177-5" />
+    </skos:Concept>
+</rdf:RDF>

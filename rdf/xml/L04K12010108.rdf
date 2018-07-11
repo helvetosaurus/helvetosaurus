@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12010108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Reproduktion</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fotokopie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kopie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reprographie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vervielfältigung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020111"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3404" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4115749-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bankgeschäft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bankdienstleistung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Banktransaktion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bankwirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040211"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040213"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040212"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1103020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110302010203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2149" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13756-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112667-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4458090-3" />
+    </skos:Concept>
+</rdf:RDF>

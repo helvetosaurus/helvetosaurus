@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701060207">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Produktionsgut</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anlagevermögen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gut höherer Ordnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktivgut</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktivkapital</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010602"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3195" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10027-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4325484-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4236096-1" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/10007-1" />
+    </skos:Concept>
+</rdf:RDF>

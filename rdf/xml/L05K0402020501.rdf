@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0402020501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Waffenausfuhr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kriegsmaterialausfuhr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kriegsmaterialexport</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rüstungsexport</skos:altLabel>
+        <skos:altLabel xml:lang="de">Waffenexport</skos:altLabel>
+        <skos:altLabel xml:lang="de">Waffenlieferung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402040402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2303" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4050897-3" />
+    </skos:Concept>
+</rdf:RDF>

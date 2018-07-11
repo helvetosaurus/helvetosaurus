@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K12">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Medien und Kommunikation</skos:prefLabel>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1202"/>
+    </skos:Concept>
+</rdf:RDF>

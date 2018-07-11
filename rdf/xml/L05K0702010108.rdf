@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Teuerungsausgleich</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Indexautomatismus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Indexbindung der Löhne</skos:altLabel>
+        <skos:altLabel xml:lang="de">Indexierung der Renten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lohnindexierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Teuerungszulage</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050306"/>
+        <skos:scopeNote xml:lang="de">Zu verwenden für den Teuerungsausgleich bei Löhnen, Renten, Sozialbeiträgen und</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1349" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11510-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4168071-6" />
+    </skos:Concept>
+</rdf:RDF>

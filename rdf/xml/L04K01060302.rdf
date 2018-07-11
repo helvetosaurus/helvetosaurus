@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Denkmalpflege</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Heimatschutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konservierung von Kulturgütern</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kulturgüterschutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ortsbildschutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schutz des kulturellen Erbes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natur- und Heimatschutzgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106030104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2840" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4011455-7" />
+    </skos:Concept>
+</rdf:RDF>

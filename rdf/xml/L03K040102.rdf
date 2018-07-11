@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationaler Konflikt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">internationale Frage</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Krise</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Streitigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konflikt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltkrise</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010211"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010212"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010213"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020339"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050602"/>
+        <skos:scopeNote xml:lang="de">Gegebenenfalls zu verbinden mit dem entsprechenden Land</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/99" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/16288-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4162071-9" />
+    </skos:Concept>
+</rdf:RDF>

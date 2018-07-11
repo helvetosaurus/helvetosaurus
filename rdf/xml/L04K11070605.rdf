@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070605">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuerpflichtige/r</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Steuerpflichtige</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerpflichtiger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerschuldner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerschuldnerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerzahler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerzahlerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110706"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/170" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4183201-2" />
+    </skos:Concept>
+</rdf:RDF>

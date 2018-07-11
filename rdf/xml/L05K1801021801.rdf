@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1801021801">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrslinie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Alpentransversale</skos:altLabel>
+        <skos:altLabel xml:lang="de">Linienführung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010218"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803020701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020208"/>
+        <skos:scopeNote xml:lang="de">Zu verwenden für sämtliche Verbindungen und Verkehrslinien im allgemeinen Sinn,</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4237739-0" />
+    </skos:Concept>
+</rdf:RDF>

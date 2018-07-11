@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">EU-Vertrag</skos:prefLabel>
+        <skos:altLabel xml:lang="de">EG-Vertrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertrag der Europäischen Union</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertrag EG</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertrag EU</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0901"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050301"/>
+    </skos:Concept>
+</rdf:RDF>

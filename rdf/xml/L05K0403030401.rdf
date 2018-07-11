@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0403030401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Polizeikontrolle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Identitätskontrolle</skos:altLabel>
+        <skos:altLabel xml:lang="de">KIS</skos:altLabel>
+        <skos:altLabel xml:lang="de">kriminalpolizeiliches Informationssystem</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personenkontrolle</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050602030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0504010204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3055" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4681247-7" />
+    </skos:Concept>
+</rdf:RDF>

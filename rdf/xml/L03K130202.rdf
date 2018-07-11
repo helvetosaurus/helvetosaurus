@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K130202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">berufliche Bildung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">alternierende Ausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ausbildung von Arbeitskräften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsbildungsjahr</skos:altLabel>
+        <skos:altLabel xml:lang="de">berufsvorbereitende Ausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufswahl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fachausbildung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070403020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030120"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1074" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11360-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4069342-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4144782-7" />
+    </skos:Concept>
+</rdf:RDF>

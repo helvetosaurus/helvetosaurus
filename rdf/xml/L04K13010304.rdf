@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schülerberatung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Orientierungsstufe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schülerlenkung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2196" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4053452-2" />
+    </skos:Concept>
+</rdf:RDF>

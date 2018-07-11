@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703010601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">nuklearer Unfall</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kernkraftwerksunfall</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernreaktorunfall</skos:altLabel>
+        <skos:altLabel xml:lang="de">nuklearer Schaden</skos:altLabel>
+        <skos:altLabel xml:lang="de">nukleares Risiko</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reaktorunfall</skos:altLabel>
+        <skos:altLabel xml:lang="de">Störfall in Kernkraftwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strahlenrisiko</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strahlenschaden</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strahlenunfall</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/921" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4120559-5" />
+    </skos:Concept>
+</rdf:RDF>

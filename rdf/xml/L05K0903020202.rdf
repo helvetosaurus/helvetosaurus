@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0903020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Europäische/r Beamter/-in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beamter EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beamtin EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">EG-Grundamtsbezeichnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Europäische Beamtin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Europäischer Beamter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Grundamtsbezeichnung EG</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08060103010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080601030102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1048" />
+    </skos:Concept>
+</rdf:RDF>

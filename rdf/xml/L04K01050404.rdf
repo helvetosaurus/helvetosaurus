@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Veterinär/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Tierarzt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tierärztin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Veterinär</skos:altLabel>
+        <skos:altLabel xml:lang="de">Veterinärin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010504"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3595" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4128774-5" />
+    </skos:Concept>
+</rdf:RDF>

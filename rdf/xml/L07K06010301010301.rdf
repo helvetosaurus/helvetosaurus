@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K06010301010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Festlandsockel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kontinentalsockel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schelf</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060103010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020102"/>
+        <skos:scopeNote xml:lang="de">Vom Meer bis zu 200 m bedeckter Rand der Kontinente, über den ein Küstenstaat</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2423" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4130941-8" />
+    </skos:Concept>
+</rdf:RDF>

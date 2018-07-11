@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020317">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verunreinigung durch die Landwirtschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Überdüngung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140108020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601040701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2538" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4228254-8" />
+    </skos:Concept>
+</rdf:RDF>

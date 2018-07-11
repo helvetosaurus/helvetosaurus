@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703010305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kartellgesetzgebung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kartellrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Massnahme gegen die Monopolbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Massnahme gegen Zusammenschlüsse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kartellgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301030501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301030502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3145" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29548-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029788-3" />
+    </skos:Concept>
+</rdf:RDF>

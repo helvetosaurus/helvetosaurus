@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050111">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wellenbereich</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Amateurfunk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bürger-Band</skos:altLabel>
+        <skos:altLabel xml:lang="de">CB Funk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Funkgerät</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nahbereichs-Funkverkehr</skos:altLabel>
+        <skos:altLabel xml:lang="de">offener Kanal</skos:altLabel>
+        <skos:altLabel xml:lang="de">Radiofrequenz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020501"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5320" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4155398-6" />
+    </skos:Concept>
+</rdf:RDF>

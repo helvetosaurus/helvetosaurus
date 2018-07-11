@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Volksinitiative</skos:prefLabel>
+        <skos:altLabel xml:lang="de">eidgenössische Initiative</skos:altLabel>
+        <skos:altLabel xml:lang="de">eidgenössische Volksinitiative</skos:altLabel>
+        <skos:altLabel xml:lang="de">Initiative</skos:altLabel>
+        <skos:altLabel xml:lang="de">Volksbegehren</skos:altLabel>
+        <skos:altLabel xml:lang="de">kantonale Volksinitiative [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020406"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020407"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020408"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020409"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020410"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020411"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020320"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0503010203"/>
+        <skos:scopeNote xml:lang="de">Wenn es um die Volksinitiative als politisches Mittel und politisches Recht</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2363" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063810-8" />
+    </skos:Concept>
+</rdf:RDF>

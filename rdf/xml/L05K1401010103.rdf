@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Anbau von Handelsgewächsen</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020203"/>
+        <skos:scopeNote xml:lang="de">Anbau von Pflanzen in grossem Massstab unter intensivem Einsatz von Maschinen</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

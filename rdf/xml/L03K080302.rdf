@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Aufgaben des Parlaments</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Zuständigkeit des Parlaments</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080704"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010315"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/41" />
+    </skos:Concept>
+</rdf:RDF>

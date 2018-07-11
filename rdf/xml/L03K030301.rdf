@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Naher und Mittlerer Osten</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mittlerer Osten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Naher Osten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Westasien</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030116"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030119"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401020103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2705" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/17608-3" />
+    </skos:Concept>
+</rdf:RDF>

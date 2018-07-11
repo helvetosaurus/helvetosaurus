@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010211">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrsunternehmen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Befrachter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Charterer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Frachtführer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reeder</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spediteur</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transportgewerbe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transportunternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verfrachter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrsbetrieb</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Personenbeförderung und die Zulassung als Strassentransportunternehmen [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fluggesellschaft [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Luftfahrtunternehmen [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030602"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4542" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062911-9" />
+    </skos:Concept>
+</rdf:RDF>

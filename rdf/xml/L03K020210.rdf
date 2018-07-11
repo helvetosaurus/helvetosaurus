@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K020210">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Datenträger</skos:prefLabel>
+        <skos:altLabel xml:lang="de">CD-ROM</skos:altLabel>
+        <skos:altLabel xml:lang="de">Magnetband</skos:altLabel>
+        <skos:altLabel xml:lang="de">Magnetbandkassette</skos:altLabel>
+        <skos:altLabel xml:lang="de">magnetischer Datenträger</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02020502"/>
+        <skos:scopeNote xml:lang="de">verwenden für Datenspeicher im EDV-Bereich.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4330" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4011148-9" />
+    </skos:Concept>
+</rdf:RDF>

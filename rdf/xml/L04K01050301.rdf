@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">pharmazeutisches Erzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Desinfektionsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Heilmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pharmakon</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pharmaprodukt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pharmazeutikum</skos:altLabel>
+        <skos:altLabel xml:lang="de">pharmazeutisches Präparat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tablette</skos:altLabel>
+        <skos:altLabel xml:lang="de">Interkantonale Vereinbarung über die Kontrolle der Heilmittel [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105030106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804011001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010507"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040110"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2773" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14728-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047729-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4060615-6" />
+    </skos:Concept>
+</rdf:RDF>

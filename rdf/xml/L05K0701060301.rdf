@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701060301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Konsumentenschutz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Verbraucherrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbraucherschutz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010603"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050523"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020310"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2836" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4117338-7" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16485-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080403">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">VBS</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Militärdepartement</skos:altLabel>
+        <skos:altLabel xml:lang="de">EMD</skos:altLabel>
+        <skos:altLabel xml:lang="de">PUK EMD [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040309"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040308"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999 (ersetzt EMD)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7694532-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">radioaktiver Stoff</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Actinium</skos:altLabel>
+        <skos:altLabel xml:lang="de">Deuterium</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernmaterialien</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lithium</skos:altLabel>
+        <skos:altLabel xml:lang="de">radioaktive Substanz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Radium</skos:altLabel>
+        <skos:altLabel xml:lang="de">Thorium</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tritium</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010602"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1840" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048193-1" />
+    </skos:Concept>
+</rdf:RDF>

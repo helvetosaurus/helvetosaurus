@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ausschreibung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bekanntmachung der Auftragsvergabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliche Ausschreibung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070301"/>
+        <skos:scopeNote xml:lang="de">Ausschreibung eines Auftrags der öffentlichen Hand</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2218" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003822-1" />
+    </skos:Concept>
+</rdf:RDF>

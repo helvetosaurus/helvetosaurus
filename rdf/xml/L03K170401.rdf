@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Petrochemie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">petrochemische Industrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1704"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2364" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13001-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4126319-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4152705-7" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/14218-3" />
+    </skos:Concept>
+</rdf:RDF>

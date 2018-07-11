@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fahrzeugausrüstung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Autozubehör</skos:altLabel>
+        <skos:altLabel xml:lang="de">Katalysator</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kraftfahrzeugzubehör</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070501030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010413"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/848" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029919-3" />
+    </skos:Concept>
+</rdf:RDF>

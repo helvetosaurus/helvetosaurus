@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K18">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehr</skos:prefLabel>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1805"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1802"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100154" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062901-6" />
+    </skos:Concept>
+</rdf:RDF>

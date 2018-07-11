@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">bergbauliches Erzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mineral</skos:altLabel>
+        <skos:altLabel xml:lang="de">Montanprodukt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1702"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601040204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K09020101010307"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2767" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14236-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4039441-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4651179-9" />
+    </skos:Concept>
+</rdf:RDF>

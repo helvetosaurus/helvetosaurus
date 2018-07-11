@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K15040201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ecosoc</skos:prefLabel>
+        <skos:altLabel xml:lang="de">CCASTD</skos:altLabel>
+        <skos:altLabel xml:lang="de">ECA</skos:altLabel>
+        <skos:altLabel xml:lang="de">ECAFE</skos:altLabel>
+        <skos:altLabel xml:lang="de">ECLAC</skos:altLabel>
+        <skos:altLabel xml:lang="de">ESCAP</skos:altLabel>
+        <skos:altLabel xml:lang="de">EWG UNO</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschafts- und Sozialrat UNO</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftskommission der Vereinten Nationen für Afrika</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftskommission der Vereinten Nationen für Lateinamerika und die Karibik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftskommission der Vereinten Nationen für Westasien</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftskommission für Europa</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3709" />
+    </skos:Concept>
+</rdf:RDF>

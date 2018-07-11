@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11060108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Finanzberuf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anlageberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Anlagenberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Börsenmakler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Börsenmaklerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Broker</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2787" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002094-0" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01090203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">religiöse Gruppe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">religiöse Minderheit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020509"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060210"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3486" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13399-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177711-6" />
+    </skos:Concept>
+</rdf:RDF>

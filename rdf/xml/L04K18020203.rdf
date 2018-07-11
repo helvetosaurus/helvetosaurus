@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrssicherheit</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020104"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062962-4" />
+    </skos:Concept>
+</rdf:RDF>

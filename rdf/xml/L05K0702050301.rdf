@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702050301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arbeitsstudie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arbeitsplatzstudie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arbeitszeitstudie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/896" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112579-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080405">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">EFD</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Finanzdepartement</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040512"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040513"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040507"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040508"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040509"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040510"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040511"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040514"/>
+    </skos:Concept>
+</rdf:RDF>

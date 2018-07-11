@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05070204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Obligationenrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">OR</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07030301010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0503010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070303"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001 (vorher ND zu OR)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4115429-0" />
+    </skos:Concept>
+</rdf:RDF>

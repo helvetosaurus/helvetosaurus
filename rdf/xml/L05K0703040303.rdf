@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703040303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmensleitung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Geschäftsleitung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050103"/>
+        <skos:scopeNote xml:lang="de">verwenden für personelle Fragen der Unternehmensleitung und nicht für die Art</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/447" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4233771-9" />
+    </skos:Concept>
+</rdf:RDF>

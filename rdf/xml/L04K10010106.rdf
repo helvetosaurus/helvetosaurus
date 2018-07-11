@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10010106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">technologische Unabhängigkeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">technologische Abhängigkeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010511"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1347" />
+    </skos:Concept>
+</rdf:RDF>

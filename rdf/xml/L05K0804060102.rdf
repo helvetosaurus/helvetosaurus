@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0804060102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bundesamt für Berufsbildung und Technologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">BBT</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040601"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999. Per 1.1.2013 mit dem Staatssekretariat für Bildung und</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

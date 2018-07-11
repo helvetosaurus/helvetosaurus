@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010504">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wassernutzung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Konzession für Wassernutzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Restwasser</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wasserrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wasserzins</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140102030701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170507"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4628" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4138608-5" />
+    </skos:Concept>
+</rdf:RDF>

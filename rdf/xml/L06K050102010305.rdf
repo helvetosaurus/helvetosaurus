@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050102010305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">sexuelle Gewalt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Inzest</skos:altLabel>
+        <skos:altLabel xml:lang="de">Notzucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sexualstrafrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sexualstraftat</skos:altLabel>
+        <skos:altLabel xml:lang="de">sexuelle Nötigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">sexueller Missbrauch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vergewaltigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pädophilie [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010211"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020408"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020510"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010213"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4727" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7506032-2" />
+    </skos:Concept>
+</rdf:RDF>

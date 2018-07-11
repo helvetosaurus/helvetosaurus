@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703010602">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Radioaktivität</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Strahlenwirkung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160102030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2882" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048198-0" />
+    </skos:Concept>
+</rdf:RDF>

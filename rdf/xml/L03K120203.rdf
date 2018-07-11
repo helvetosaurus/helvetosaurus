@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K120203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kommunikationsindustrie</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020309"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020310"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1370" />
+    </skos:Concept>
+</rdf:RDF>

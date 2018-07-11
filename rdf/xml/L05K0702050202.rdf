@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702050202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arbeitssicherheit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arbeitsschutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsrisiko</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesundheitsschutz am Arbeitsplatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sicherheit am Arbeitsplatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sicherheit des Arbeitnehmers</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unfallverhütung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verhütung von Arbeitsunfällen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010603"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4039" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12609-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4220288-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4122056-0" />
+    </skos:Concept>
+</rdf:RDF>

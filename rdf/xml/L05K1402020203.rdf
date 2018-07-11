@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Frischgemüse</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Marktgemüse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010109"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1608" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/14105-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4343445-9" />
+    </skos:Concept>
+</rdf:RDF>

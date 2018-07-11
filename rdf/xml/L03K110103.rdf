@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zahlungsbilanz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Devisenbilanz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kapitalbilanz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kapitalverkehrsbilanz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070103010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4671" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10791-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4067281-5" />
+    </skos:Concept>
+</rdf:RDF>

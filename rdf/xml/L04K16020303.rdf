@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16020303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Raumfahrzeug</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Raumgleiter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Raumschiff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Raumsonde</skos:altLabel>
+        <skos:altLabel xml:lang="de">Raumtransporter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Space Shuttle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Trägerrakete</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltraumrakete</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K040204010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020704"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3093" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048579-1" />
+    </skos:Concept>
+</rdf:RDF>

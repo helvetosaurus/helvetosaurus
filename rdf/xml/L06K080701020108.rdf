@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701020108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kanton</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundesland</skos:altLabel>
+        <skos:altLabel xml:lang="de">Grafschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Provinz</skos:altLabel>
+        <skos:altLabel xml:lang="de">kantonale Abstimmung [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">kantonale Volksinitiative [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">kantonales Referendum [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungsrat als Behörde [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010101"/>
+        <skos:scopeNote xml:lang="de">Nicht zu verwenden, wenn es um einen bestimmten Kanton geht; dann ist der</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/65" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13414-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139533-5" />
+    </skos:Concept>
+</rdf:RDF>

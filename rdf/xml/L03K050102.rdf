@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Strafrecht (speziell)</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010211"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/573" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16198-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057795-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4268641-6" />
+    </skos:Concept>
+</rdf:RDF>

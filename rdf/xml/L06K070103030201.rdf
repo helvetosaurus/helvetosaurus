@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070103030201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">betrügerisches Handelsgeschäft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">betrügerischer Handel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schleichhandel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schmuggel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schwarzhandel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schwarzmarkt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704060212"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040405"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3169" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10845-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4179825-9" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4125175-1" />
+    </skos:Concept>
+</rdf:RDF>

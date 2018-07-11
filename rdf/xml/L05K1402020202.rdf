@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Blattgemüse</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Blumenkohl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Chicorée</skos:altLabel>
+        <skos:altLabel xml:lang="de">Endivie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kabis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kohl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kraut</skos:altLabel>
+        <skos:altLabel xml:lang="de">Krautsellerie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lauch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mangold</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rosenkohl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Salat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sellerie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spinat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zichorie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1604" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4329369-4" />
+    </skos:Concept>
+</rdf:RDF>

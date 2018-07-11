@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L08K0705010302040101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Polymer</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Spezialpolymer</skos:altLabel>
+        <skos:altLabel xml:lang="de">synthetische Polymere</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07050103020401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2545" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4033676-1" />
+    </skos:Concept>
+</rdf:RDF>

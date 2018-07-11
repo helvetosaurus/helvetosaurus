@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070302020901">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vorauszahlung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anzahlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leistung einer Anzahlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorschuss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020209"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2217" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4188634-3" />
+    </skos:Concept>
+</rdf:RDF>

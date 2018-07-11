@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Telekommunikation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fernmeldetechnologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fernmeldewesen</skos:altLabel>
+        <skos:altLabel xml:lang="de">KMG</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kommunikationsmodellgemeinde</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nachrichtenübermittlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fernmeldegesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020115"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702050304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203010108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4424" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13682-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4041066-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4154039-6" />
+    </skos:Concept>
+</rdf:RDF>

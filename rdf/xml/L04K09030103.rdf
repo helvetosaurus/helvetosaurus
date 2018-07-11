@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Europäisches Parlament</skos:prefLabel>
+        <skos:altLabel xml:lang="de">EG-Parlament</skos:altLabel>
+        <skos:altLabel xml:lang="de">EP</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Parlament</skos:altLabel>
+        <skos:altLabel xml:lang="de">Europäische Parlamentarische Versammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Europäische Versammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlament EG</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlament EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versammlung EG</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901010405"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2243" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4070891-3" />
+    </skos:Concept>
+</rdf:RDF>

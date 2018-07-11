@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1101010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Goldstandard</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Goldbarrenwährung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Goldkernwährung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Goldumlaufwährung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Goldwährung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010101"/>
+        <skos:scopeNote xml:lang="de">Internationales Währungssystem, in dem Gold als Devisenstandard, Zahlungsmittel</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/882" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11430-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4157897-1" />
+    </skos:Concept>
+</rdf:RDF>

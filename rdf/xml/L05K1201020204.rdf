@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1201020204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Whistleblowing</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufdecken von Missständen in der Arbeitswelt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120102020201"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2011.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/c_2f00dd5a" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7734841-2" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/27615-0" />
+    </skos:Concept>
+</rdf:RDF>

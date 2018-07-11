@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Forschungsstelle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Forschungsinstitut</skos:altLabel>
+        <skos:altLabel xml:lang="de">Forschungslabor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Forschungsunternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Forschungszentrum</skos:altLabel>
+        <skos:altLabel xml:lang="de">EAWAG [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1602020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804060203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020109"/>
+        <skos:scopeNote xml:lang="de">ohne landwirtschaftliche Forschungsanstalten, EG-Forschungsstellen und teilweise</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3660" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4155045-6" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13343-5" />
+    </skos:Concept>
+</rdf:RDF>

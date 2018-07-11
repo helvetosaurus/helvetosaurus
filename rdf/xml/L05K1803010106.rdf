@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1803010106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Hybridfahrzeug</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Hybridantrieb</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010413"/>
+        <skos:scopeNote xml:lang="de">Antrieb bestehend aus einer Kombination verschiedener Antriebsprinzipien oder</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7524499-8" />
+    </skos:Concept>
+</rdf:RDF>

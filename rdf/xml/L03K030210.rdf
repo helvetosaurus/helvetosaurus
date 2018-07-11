@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030210">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Niederlande Regionen</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021001"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021002"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021003"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021004"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021005"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021006"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021007"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021008"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021009"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021010"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03021011"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010113"/>
+    </skos:Concept>
+</rdf:RDF>

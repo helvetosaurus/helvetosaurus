@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010212">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Widerstandsbewegung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Guerillabewegung</skos:altLabel>
+        <skos:altLabel xml:lang="de">nationale Befreiungsbewegung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802011601"/>
+        <skos:scopeNote xml:lang="de">Widerstand der Bevölkerung gegen eine fremde Besatzungsmacht oder gegen ein</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4730" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4079262-6" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030508">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">verwitwete Person</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kriegerwitwe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Witwe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Witwenstand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Witwer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2341" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4417148-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010504">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">ärztlicher Beruf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beruf im Gesundheitswesen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Chirurg</skos:altLabel>
+        <skos:altLabel xml:lang="de">Chirurgin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Medizinalperson</skos:altLabel>
+        <skos:altLabel xml:lang="de">medizinisches Personal</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz betreffend die Freizügigkeit des Medizinalpersonals in der Schweizerischen Eidgenossenschaft [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050217"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5487" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4009985-4" />
+    </skos:Concept>
+</rdf:RDF>

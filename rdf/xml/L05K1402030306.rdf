@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030306">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fleischerzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fleischwaren</skos:altLabel>
+        <skos:altLabel xml:lang="de">Froschschenkel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gänsestopfleber</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schinken</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schinkenspeck</skos:altLabel>
+        <skos:altLabel xml:lang="de">Speck</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verarbeitungserzeugnis aus Fleisch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wurstwaren</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2738" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14964-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017499-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4067094-6" />
+    </skos:Concept>
+</rdf:RDF>

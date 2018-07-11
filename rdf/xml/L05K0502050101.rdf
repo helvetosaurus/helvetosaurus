@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0502050101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Brief-, Post- und Fernmeldegeheimnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abhörschutz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Postgeheimnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2832" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4046899-9" />
+    </skos:Concept>
+</rdf:RDF>

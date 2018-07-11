@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0803">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Parlament</skos:prefLabel>
+        <skos:altLabel xml:lang="de">gesetzgebende Gewalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Legislative</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsparlament [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Milizparlament [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K08"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0807"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100166" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044685-2" />
+    </skos:Concept>
+</rdf:RDF>

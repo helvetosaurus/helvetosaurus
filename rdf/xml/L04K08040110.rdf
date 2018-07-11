@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schweizerisches Heilmittelinstitut</skos:prefLabel>
+        <skos:altLabel xml:lang="de">SHI</skos:altLabel>
+        <skos:altLabel xml:lang="de">swissmedic</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804011001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050301"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4263902-5" />
+    </skos:Concept>
+</rdf:RDF>

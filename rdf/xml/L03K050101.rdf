@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Strafe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bestrafung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sanktion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strafmass</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strafmassnahme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verurteilung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010114"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020236"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010503"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3878" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/19813-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057785-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040607">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">seco</skos:prefLabel>
+        <skos:altLabel xml:lang="de">BIGA</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesamt für Aussenwirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesamt für Industrie, Gewerbe und Arbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesamt für Wirtschaft und Arbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">BWA</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatssekretariat für Wirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804090401"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

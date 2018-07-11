@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05050203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechtsanwalt/-anwältin</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Advokat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Advokatin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Anwalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Anwältin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fürsprecher</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fürsprecherin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsanwalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsanwältin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0505020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5141" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048755-6" />
+    </skos:Concept>
+</rdf:RDF>

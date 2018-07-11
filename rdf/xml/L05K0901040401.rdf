@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0901040401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">unmittelbare Anwendbarkeit von EU-Recht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">sofortige Wirkung von EU-Recht</skos:altLabel>
+        <skos:altLabel xml:lang="de">unmittelbare Wirkung von EU-Recht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901020101"/>
+        <skos:scopeNote xml:lang="de">Eigenschaft bestimmter Rechtsakte der Gemeinschaft, welche nicht erst in</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

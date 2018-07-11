@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070312">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuerrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Steuergericht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuergesetzgebung</skos:altLabel>
+        <skos:altLabel xml:lang="de">steuerrechtliche Bestimmung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerrekurskommission</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110703"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010205"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/561" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11640-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4116614-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4183227-9" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11525-2" />
+    </skos:Concept>
+</rdf:RDF>

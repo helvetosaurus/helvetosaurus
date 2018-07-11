@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13030305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">neue Pädagogik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gesamtschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Modellschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Musterschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">pädagogische Forschung</skos:altLabel>
+        <skos:altLabel xml:lang="de">pädagogische Reform</skos:altLabel>
+        <skos:altLabel xml:lang="de">pädagogischer Versuch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulversuch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versuchsschule</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K130205010501"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2313" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11394-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4122926-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4124391-2" />
+    </skos:Concept>
+</rdf:RDF>

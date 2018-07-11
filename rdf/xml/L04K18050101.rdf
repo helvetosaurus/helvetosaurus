@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18050101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wasserfahrzeug</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Boot</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kahn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Passagierschiff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schiff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schleppschiff</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401060307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020705"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4827" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14455-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4052385-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4054232-4" />
+    </skos:Concept>
+</rdf:RDF>

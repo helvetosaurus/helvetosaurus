@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1803020701">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">NEAT</skos:prefLabel>
+        <skos:altLabel xml:lang="de">AlpTransit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Neue Eisenbahn-Alpentransversale</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K18020202010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021801"/>
+    </skos:Concept>
+</rdf:RDF>

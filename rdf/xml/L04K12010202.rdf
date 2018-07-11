@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Informationsverbreitung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Information der Öffentlichkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informationsfluss</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informationspraxis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informationszugang</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120102010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010106"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2003; vorher Synonym zu Informationszugang (= Suchbegriff für</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/441" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4161668-6" />
+    </skos:Concept>
+</rdf:RDF>

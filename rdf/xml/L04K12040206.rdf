@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12040206">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Speicherung von Dokumenten</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ablage von Dokumenten</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4295" />
+    </skos:Concept>
+</rdf:RDF>

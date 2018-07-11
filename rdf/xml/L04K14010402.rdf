@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Agrarstrukturpolitik</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103020601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2493" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4129835-4" />
+    </skos:Concept>
+</rdf:RDF>

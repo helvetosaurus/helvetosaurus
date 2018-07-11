@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16020304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Weltraumforschung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Forschung im All</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltraumlabor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltraummedizin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5238" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/15900-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4117629-7" />
+    </skos:Concept>
+</rdf:RDF>

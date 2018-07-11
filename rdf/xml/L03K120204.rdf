@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K120204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kommunikationspolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Entwicklung der Kommunikationssysteme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Medienpolitik</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2473" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4232471-3" />
+    </skos:Concept>
+</rdf:RDF>

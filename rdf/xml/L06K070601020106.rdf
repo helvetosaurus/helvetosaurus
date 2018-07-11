@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070601020106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Sicherheitsnorm</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Sicherheitsvorschrift</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5234" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4278243-0" />
+    </skos:Concept>
+</rdf:RDF>

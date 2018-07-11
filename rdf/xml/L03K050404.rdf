@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gerichtsverfahren</skos:prefLabel>
+        <skos:altLabel xml:lang="de">öffentliche Urteilsberatung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05040403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030208"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2701" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047577-3" />
+    </skos:Concept>
+</rdf:RDF>

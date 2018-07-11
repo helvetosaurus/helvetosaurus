@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">gemeinsame Agrarpolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">GAP</skos:altLabel>
+        <skos:altLabel xml:lang="de">gemeinsamer Agrarmarkt</skos:altLabel>
+        <skos:altLabel xml:lang="de">gemeinsamer Markt für landwirtschaftliche Produkte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030310"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070401020801"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2443" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18332-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4998436-6" />
+    </skos:Concept>
+</rdf:RDF>

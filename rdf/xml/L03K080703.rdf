@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080703">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vollzug von Beschlüssen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anwendung des Gesetzes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Durchführung des Gesetzes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesetzesvollzug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vollzug der Gesetzgebung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vollzugsproblem</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0807"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030201"/>
+        <skos:scopeNote xml:lang="de">Allenfalls mit entspechendem Gremium ergänzen (z.B. Parlament, Regierung).</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2236" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19728-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4020675-0" />
+    </skos:Concept>
+</rdf:RDF>

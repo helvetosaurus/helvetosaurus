@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705020705">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schiffbau</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Schiffbauindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Werft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Werftindustrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401060307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18050101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/155" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13066-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4128183-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4219675-9" />
+    </skos:Concept>
+</rdf:RDF>

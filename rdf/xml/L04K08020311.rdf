@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020311">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Interessenvertretung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Einfluss von Interessengruppen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lobby</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbandseinfluss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020338"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1192" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10984-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4123438-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4369764-1" />
+    </skos:Concept>
+</rdf:RDF>

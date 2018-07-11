@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0106020104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Protestantismus</skos:prefLabel>
+        <skos:altLabel xml:lang="de">evangelische Kirche</skos:altLabel>
+        <skos:altLabel xml:lang="de">protestantische Kirche</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5165" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19740-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047538-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4168344-4" />
+    </skos:Concept>
+</rdf:RDF>

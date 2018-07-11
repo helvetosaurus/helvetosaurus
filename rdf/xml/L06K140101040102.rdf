@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140101040102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Produkt der Futtermittelindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">eiweissreiches Futter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mischfuttermittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ölkuchen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1233" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4170107-0" />
+    </skos:Concept>
+</rdf:RDF>

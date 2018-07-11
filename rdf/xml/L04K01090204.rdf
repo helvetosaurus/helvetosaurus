@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01090204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">sprachliche Gruppe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">englisch-sprachiges Gebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">portugiesisch-sprachiges Gebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sprachgemeinschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sprachgruppe</skos:altLabel>
+        <skos:altLabel xml:lang="de">sprachliche Minderheit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1205" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4310282-7" />
+    </skos:Concept>
+</rdf:RDF>

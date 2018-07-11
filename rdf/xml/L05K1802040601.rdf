@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1802040601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrszeichengebung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ampelanlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beschilderung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lichtsignalanlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Signalisation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrsschild</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrssignalanlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrszeichen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18050204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18050105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4162" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4144865-0" />
+    </skos:Concept>
+</rdf:RDF>

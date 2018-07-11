@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703030102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stromerzeugung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektrizitätsproduktion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leistungserhöhung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromexport [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromimport [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K170101060701"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4133665-3" />
+    </skos:Concept>
+</rdf:RDF>

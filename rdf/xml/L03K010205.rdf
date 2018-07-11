@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wohnmilieu</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ansiedlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Siedlungsweise</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnverhältnisse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020503"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1221" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11879-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4054858-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4142867-5" />
+    </skos:Concept>
+</rdf:RDF>

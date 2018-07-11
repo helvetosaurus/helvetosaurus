@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Staatsaufgaben</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Staatsinteresse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602010101"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077776-5" />
+    </skos:Concept>
+</rdf:RDF>

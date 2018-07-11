@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020243">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unabhängigkeit</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020339"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010108"/>
+        <skos:scopeNote xml:lang="de">Allenfalls mit entsprechendem Thema/Begriff verbinden. Nicht für Nationen</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4186820-1" />
+    </skos:Concept>
+</rdf:RDF>

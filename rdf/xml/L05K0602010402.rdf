@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0602010402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Giftstoff</skos:prefLabel>
+        <skos:altLabel xml:lang="de">giftige Substanz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Giftigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">schädliche Substanz</skos:altLabel>
+        <skos:altLabel xml:lang="de">schädlicher Stoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">toxischer Stoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Toxizität</skos:altLabel>
+        <skos:altLabel xml:lang="de">Chemikaliengesetz [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Giftgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140108020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050216"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3135" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4078372-8" />
+    </skos:Concept>
+</rdf:RDF>

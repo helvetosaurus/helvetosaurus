@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wohnung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Unterkunft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohngebäude</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnhaus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnraum</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnungswesen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020310"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1690" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13829-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4066768-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4189681-6" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05050107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Jugendgerichtsbarkeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Jugendgericht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Jugendkammer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101020801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050702030202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1546" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4162832-9" />
+    </skos:Concept>
+</rdf:RDF>

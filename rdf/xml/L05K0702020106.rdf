@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">berufliche Eignung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">arbeitsplatzspezifische Qualifikation</skos:altLabel>
+        <skos:altLabel xml:lang="de">berufliche Befähigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">berufliche Qualifikation</skos:altLabel>
+        <skos:altLabel xml:lang="de">berufliche Ungeeignetheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufserfahrung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsfähigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Qualifikationsniveau</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010211"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020344"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2868" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19112-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4125835-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4503324-9" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10010501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Blockfreiheit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">blockfreier Staat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040101"/>
+        <skos:scopeNote xml:lang="de">Weigerung eines Staates, sich einem der beiden von den Supermächten dominierten</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2071" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/16417-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4126732-1" />
+    </skos:Concept>
+</rdf:RDF>

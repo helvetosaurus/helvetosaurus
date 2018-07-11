@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K110401010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Europäische Bank für Wiederaufbau und Entwicklung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">BERD</skos:altLabel>
+        <skos:altLabel xml:lang="de">EBRD</skos:altLabel>
+        <skos:altLabel xml:lang="de">Osteuropabank</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1104010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010218"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5460" />
+    </skos:Concept>
+</rdf:RDF>

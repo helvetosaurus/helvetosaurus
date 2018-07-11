@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K060203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Umweltbelastung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Immission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kontamination</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schadstoffemission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umweltverschmutzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verseuchung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0602"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020309"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020310"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020311"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020312"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020313"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020314"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020315"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020316"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020317"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020318"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020319"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2524" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15763-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4061619-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4555381-6" />
+    </skos:Concept>
+</rdf:RDF>

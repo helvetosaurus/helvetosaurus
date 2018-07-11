@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">öffentliche Ordnung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bewachung</skos:altLabel>
+        <skos:altLabel xml:lang="de">innere Sicherheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Krawall</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landfriedensbruch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unruhen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010212"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020225"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2162" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4276243-1" />
+    </skos:Concept>
+</rdf:RDF>

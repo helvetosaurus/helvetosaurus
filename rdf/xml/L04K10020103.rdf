@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10020103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationale Organisation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">internationale Behörde</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Einrichtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Institution</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale öffentliche Verwaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Verwaltung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K15"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010211"/>
+        <skos:scopeNote xml:lang="de">Verwenden für generelle Fragen betreffend internationale Organisationen (z.B.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2189" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16439-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4027366-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4184148-7" />
+    </skos:Concept>
+</rdf:RDF>

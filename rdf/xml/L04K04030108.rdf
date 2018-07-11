@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04030108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Terrorismus</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bekämpfung des Terrorismus</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403010801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4452" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16395-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4059534-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4127407-6" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/30064-5" />
+    </skos:Concept>
+</rdf:RDF>

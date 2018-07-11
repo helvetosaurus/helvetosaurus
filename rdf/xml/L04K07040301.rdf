@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07040301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wirtschaftsraum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftsgebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftsregion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftsstandort</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirtschaftszone</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030207"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3058" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11916-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4066508-2" />
+    </skos:Concept>
+</rdf:RDF>

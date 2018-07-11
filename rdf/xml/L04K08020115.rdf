@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020115">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">soziale Bewegung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bürgerinitiative</skos:altLabel>
+        <skos:altLabel xml:lang="de">Neue soziale Bewegung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2011" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15711-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4055707-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/1025508335" />
+    </skos:Concept>
+</rdf:RDF>

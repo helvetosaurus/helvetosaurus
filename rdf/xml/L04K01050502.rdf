@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arzneimittelrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arzneibuch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arzneimittelgesetz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arzneimittelkontrolle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Heilmittelgesetz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pharmakopöe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1594" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18259-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003139-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K020208">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Biographie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Biografie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nachruf</skos:altLabel>
+        <skos:altLabel xml:lang="de">Porträt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02020801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02020802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020234"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4905" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006804-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">selbstständig Erwerbstätige/r</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Freelance</skos:altLabel>
+        <skos:altLabel xml:lang="de">freie Mitarbeiterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">freier Beruf</skos:altLabel>
+        <skos:altLabel xml:lang="de">freier Mitarbeiter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Freischaffende</skos:altLabel>
+        <skos:altLabel xml:lang="de">Freischaffender</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gutachter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gutachterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sachverständige</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sachverständiger</skos:altLabel>
+        <skos:altLabel xml:lang="de">selbständig Erwerbstätige</skos:altLabel>
+        <skos:altLabel xml:lang="de">selbständig Erwerbstätiger</skos:altLabel>
+        <skos:altLabel xml:lang="de">selbstständig Erwerbstätige</skos:altLabel>
+        <skos:altLabel xml:lang="de">selbstständig Erwerbstätiger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Selbstständige</skos:altLabel>
+        <skos:altLabel xml:lang="de">Selbstständiger</skos:altLabel>
+        <skos:altLabel xml:lang="de">selbstständiger Beruf</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010504"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070203030901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703030701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05050203"/>
+        <skos:scopeNote xml:lang="de">Der Rechtschreibung angepasst 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3545" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4018300-2" />
+    </skos:Concept>
+</rdf:RDF>

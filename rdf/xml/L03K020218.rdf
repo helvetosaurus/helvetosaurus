@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K020218">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Statistik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">amtliche Statistik</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Analyse</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Beobachtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Daten</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Erhebung</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Information</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Quelle</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Tabelle</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistische Überwachung</skos:altLabel>
+        <skos:altLabel xml:lang="de">statistischer Nachweis</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021802"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021804"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02021805"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401060504"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020217"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060212"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040401"/>
+        <skos:scopeNote xml:lang="de">für einzelne Bereiche beachte RTs</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4256" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18769-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4211390-8" />
+    </skos:Concept>
+</rdf:RDF>

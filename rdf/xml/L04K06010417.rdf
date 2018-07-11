@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010417">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verursacherprinzip</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Internalisierung der Kosten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Prinzip der Verursacherhaftung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1107020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020109"/>
+        <skos:scopeNote xml:lang="de">Prinzip, nach dem derjenige für Massnahmen - vornehmlich im Umweltbereich -</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2626" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063311-1" />
+    </skos:Concept>
+</rdf:RDF>

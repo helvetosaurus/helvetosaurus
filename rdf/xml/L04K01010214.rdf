@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010214">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Straffälligkeit</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070203030501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040211"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/374" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4033178-7" />
+    </skos:Concept>
+</rdf:RDF>

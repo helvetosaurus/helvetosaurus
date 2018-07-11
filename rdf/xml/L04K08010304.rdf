@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">europäische Wahl</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Europawahl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahl zum Europäischen Parlament</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0801030302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/697" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4113482-5" />
+    </skos:Concept>
+</rdf:RDF>

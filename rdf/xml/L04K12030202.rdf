@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Software</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anwendungssoftware</skos:altLabel>
+        <skos:altLabel xml:lang="de">EDV-Programm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Programmierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechnerprogramm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Software-Engineering</skos:altLabel>
+        <skos:altLabel xml:lang="de">Softwareindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Softwaretechnologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Standardsoftware</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020334"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120301010101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1696" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15621-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4691865-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4546895-3" />
+    </skos:Concept>
+</rdf:RDF>

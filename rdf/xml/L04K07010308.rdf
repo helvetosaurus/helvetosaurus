@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010308">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Handelsrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Handelsgesetzbuch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Handelsgesetzgebung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701050103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05050105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160204020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/524" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13464-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4023249-9" />
+    </skos:Concept>
+</rdf:RDF>

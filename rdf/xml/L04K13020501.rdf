@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Hochschulwesen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">akademische Ausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesamthochschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hochschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hochschulinstitut</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lehre und Forschung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Technische Hochschule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hochschulfinanzierung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302050105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030119"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1204010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K16"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030118"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/800" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11379-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4058216-4" />
+    </skos:Concept>
+</rdf:RDF>

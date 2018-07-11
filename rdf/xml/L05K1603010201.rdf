@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1603010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Berufspädagogik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eidgenössisches Hochschulinstitut für Berufsbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerisches Institut für Berufspädagogik</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020304"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4005924-8" />
+    </skos:Concept>
+</rdf:RDF>

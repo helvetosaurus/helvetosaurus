@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1701010606">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Energiereserven</skos:prefLabel>
+        <skos:altLabel xml:lang="de">verfügbare Energiemenge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorkommen an Energieträgern</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/466" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4070814-7" />
+    </skos:Concept>
+</rdf:RDF>

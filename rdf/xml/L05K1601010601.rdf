@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1601010601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Spektrometrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Emissionsspektrometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Massenspektrometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">molekulare Spektrometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">nukleare Spektrometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">optische Spektrometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spektrografie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spektrophotometrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">spektroskopische Analyse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5301" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4056138-0" />
+    </skos:Concept>
+</rdf:RDF>

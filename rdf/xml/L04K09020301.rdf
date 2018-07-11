@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09020301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beitritt zur Gemeinschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beitrittsakte</skos:altLabel>
+        <skos:altLabel xml:lang="de">EG-Beitritt</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Beitritt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Folge des Beitritts</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0902030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/12" />
+    </skos:Concept>
+</rdf:RDF>

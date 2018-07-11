@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01020419">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vermessung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">amtliche Vermessung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geoinformation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landesvermessung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geoinformationsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050701090101"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2007</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063048-1" />
+    </skos:Concept>
+</rdf:RDF>

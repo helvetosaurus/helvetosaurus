@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030403">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmenspolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Betriebspolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensstrategie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010111"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2469" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12089-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4078610-9" />
+    </skos:Concept>
+</rdf:RDF>

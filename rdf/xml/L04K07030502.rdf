@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Managementtechnik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">dynamische Programmierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">lineare Programmierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Netzplantechnik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Operations Research</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020502"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4413" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7518341-9" />
+    </skos:Concept>
+</rdf:RDF>

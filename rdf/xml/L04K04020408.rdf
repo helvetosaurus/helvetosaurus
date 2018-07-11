@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04020408">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Weltraumwaffe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Antisatellitenwaffe</skos:altLabel>
+        <skos:altLabel xml:lang="de">militärische Nutzung des Weltraums</skos:altLabel>
+        <skos:altLabel xml:lang="de">Militarisierung des Weltraums</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltraumrüstung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020704"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3431" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4475743-8" />
+    </skos:Concept>
+</rdf:RDF>

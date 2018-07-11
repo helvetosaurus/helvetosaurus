@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0103010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Eheschliessung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Heirat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010301030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030507"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1818" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15937-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4013630-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4013657-7" />
+    </skos:Concept>
+</rdf:RDF>

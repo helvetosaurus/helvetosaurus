@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020206">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ölpflanze</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ölfrucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">ölhaltige Frucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ölsaat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020602"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020603"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020604"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020605"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020606"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020607"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020608"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020609"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2414" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4172424-0" />
+    </skos:Concept>
+</rdf:RDF>

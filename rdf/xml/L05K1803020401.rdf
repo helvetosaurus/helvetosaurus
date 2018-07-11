@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1803020401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">künftige Bahninfrastruktur</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bahn 2030</skos:altLabel>
+        <skos:altLabel xml:lang="de">STEP</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strategisches Entwicklungsprogramm Bahninfrastruktur</skos:altLabel>
+        <skos:altLabel xml:lang="de">ZEB</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zukünftige Entwicklung der Bahninfrastruktur</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010213"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020202"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

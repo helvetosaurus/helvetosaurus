@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701010105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Immunität</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die politischen und polizeilichen Garantien zugunsten der Eidgenossenschaft [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K100201020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806020301"/>
+        <skos:scopeNote xml:lang="de">Allenfalls zu verbinden mit dem entsprechenden Amtsträger</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

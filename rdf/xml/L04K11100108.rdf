@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11100108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Transportversicherung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K111001"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1110010801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1110010802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3706" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13299-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4054198-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4737918-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705060201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">elektrischer Leuchtkörper</skos:prefLabel>
+        <skos:altLabel xml:lang="de">elektrische Lampe</skos:altLabel>
+        <skos:altLabel xml:lang="de">elektrische Leuchte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Glühbirne</skos:altLabel>
+        <skos:altLabel xml:lang="de">Glühlampe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Halogenlampe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lampe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leuchtstofflampe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leuchtstoffröhre</skos:altLabel>
+        <skos:altLabel xml:lang="de">Neonröhre</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1828" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14486-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4213323-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4171451-9" />
+    </skos:Concept>
+</rdf:RDF>

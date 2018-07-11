@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070203030902">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Freizügigkeit der Arbeitnehmer/innen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Freizügigkeit der Arbeitnehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Freizügigkeit der Arbeitnehmerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personenfreizügigkeit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020343"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020309"/>
+        <skos:scopeNote xml:lang="de">Abschaffung jeder auf der Staatsangehörigkeit beruhenden unterschiedlichen</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1634" />
+    </skos:Concept>
+</rdf:RDF>

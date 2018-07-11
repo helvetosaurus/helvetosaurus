@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120102010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Auskunftspflicht der Verwaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Akteneinsicht bei der Verwaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Öffentlichkeit der Verwaltung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Öffentlichkeitsprinzip</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080601"/>
+    </skos:Concept>
+</rdf:RDF>

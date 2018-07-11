@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K160101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">angewandte Wissenschaften</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3949" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4142447-5" />
+    </skos:Concept>
+</rdf:RDF>

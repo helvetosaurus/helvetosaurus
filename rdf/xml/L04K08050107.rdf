@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08050107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Parteiprogramm</skos:prefLabel>
+        <skos:altLabel xml:lang="de">politische Plattform</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020334"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/149" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044764-9" />
+    </skos:Concept>
+</rdf:RDF>

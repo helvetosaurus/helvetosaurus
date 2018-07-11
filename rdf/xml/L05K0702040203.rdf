@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702040203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Berufsgeheimnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">ärztliche Schweigepflicht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050517"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050401050201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4000" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4180447-8" />
+    </skos:Concept>
+</rdf:RDF>

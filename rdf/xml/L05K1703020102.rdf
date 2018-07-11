@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kernreaktor</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Atommeiler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Atomreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Druckwasserreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fusionsreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">gasgekühlter Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">graphitmoderierter Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hochtemperaturreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leichtwasserreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Leistungsreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schneller Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schnellneutronenreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schwerwasserreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Siedewasserreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">thermischer Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">thermonuklearer Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">wassermoderierter Reaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wasserreaktor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reaktorforschung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2903" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4030344-5" />
+    </skos:Concept>
+</rdf:RDF>

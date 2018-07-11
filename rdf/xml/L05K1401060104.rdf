@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401060104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Meeressäugetier</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Delphin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Robbe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Seehund</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wal</skos:altLabel>
+        <skos:altLabel xml:lang="de">Walfang</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1775" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064438-8" />
+    </skos:Concept>
+</rdf:RDF>

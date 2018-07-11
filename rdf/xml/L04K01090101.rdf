@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01090101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">soziale Schicht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gesellschaftsschicht</skos:altLabel>
+        <skos:altLabel xml:lang="de">soziale Klasse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010901"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109040101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6002" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15717-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077574-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7590592-9" />
+    </skos:Concept>
+</rdf:RDF>

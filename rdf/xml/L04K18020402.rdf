@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Geschwindigkeitsregelung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fahrtenschreiber</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geschwindigkeitsbegrenzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geschwindigkeitsbeschränkung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Höchstgeschwindigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mindestgeschwindigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Raser</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tempolimite</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020207"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3143" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11826-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4157038-8" />
+    </skos:Concept>
+</rdf:RDF>

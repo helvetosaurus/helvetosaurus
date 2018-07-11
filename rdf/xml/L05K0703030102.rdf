@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703030102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">GmbH</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gesellschaft mit beschränkter Haftung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3896" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12182-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4021365-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7634239-6" />
+    </skos:Concept>
+</rdf:RDF>

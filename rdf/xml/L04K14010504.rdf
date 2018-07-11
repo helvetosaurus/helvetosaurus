@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010504">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bewirtschaftungsform</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010502"/>
+        <skos:scopeNote xml:lang="de">Beziehungen zwischen dem Grundbesitzer und dem Landwirt, der die Nutzfläche</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/962" />
+    </skos:Concept>
+</rdf:RDF>

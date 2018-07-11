@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06030102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Berggebiet</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Berg</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gebirge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Verbesserung der Wohnverhältnisse in Berggebieten [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0603010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0603010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0603010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103020703"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3051" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4019535-1" />
+    </skos:Concept>
+</rdf:RDF>

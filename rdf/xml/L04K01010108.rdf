@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Veranstaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anlass</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101010208"/>
+        <skos:scopeNote xml:lang="de">Mit spezifischem Thema ergänzen; hinzugefügt 2009.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4125453-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701020404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Liberalisierung des Handels</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufhebung der Beschränkungen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beseitigung von Handelsschranken</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102040401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020315"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040113"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1616" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19317-4" />
+    </skos:Concept>
+</rdf:RDF>

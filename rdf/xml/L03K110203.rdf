@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Haushaltsausgabe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausgaben des Bundes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Haushaltausgaben</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliche Ausgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatsausgabe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020109"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/394" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K140107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Waldwirtschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Forstwesen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Forstwirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070504"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/651" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18988-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4155061-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Psychiatrie</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105051103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050107"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2855" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/19013-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047667-4" />
+    </skos:Concept>
+</rdf:RDF>

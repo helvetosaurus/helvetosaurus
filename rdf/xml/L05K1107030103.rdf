@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1107030103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuertarif</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Steuersatz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070301"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2007</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1310" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11547-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057399-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4483507-3" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/19408-1" />
+    </skos:Concept>
+</rdf:RDF>

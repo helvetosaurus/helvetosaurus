@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Steuerausweichung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bekämpfung der Steuerflucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerevasion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerflucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steueroase</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerparadies</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuerumgehung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuervermeidung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110706"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1106020106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110602010801"/>
+        <skos:scopeNote xml:lang="de">Legales Ausnutzen von Möglichkeiten der Steuerersparnis sowie von Löchern in der</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/924" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11709-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4121725-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1203010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Büroautomation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bürokommunikation</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120301010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020110"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5071" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13671-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4123132-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112848-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11100117">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Versicherungsberuf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Versicherungsagent</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versicherungsagentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versicherungsmakler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versicherungsmaklerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versicherungsvertreter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Versicherungsvertreterin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K111001"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3590" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063205-2" />
+    </skos:Concept>
+</rdf:RDF>

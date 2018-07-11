@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K010801020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ausschaffung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abschiebung von abgewiesenen Asylbewerbern/-innen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Non-Refoulement</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rückführung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rückschaffung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rückübernahme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wegweisung von Asylbewerbern/-innen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0108010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K01080102010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0108030603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030402"/>
+        <skos:scopeNote xml:lang="de">Ausschaffung von abgewiesenen Asylbewerbern/-innen.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/950" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4226850-3" />
+    </skos:Concept>
+</rdf:RDF>

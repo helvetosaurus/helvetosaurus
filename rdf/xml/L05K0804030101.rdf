@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0804030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Dienst für Analyse und Prävention</skos:prefLabel>
+        <skos:altLabel xml:lang="de">DAP</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040301"/>
+        <skos:scopeNote xml:lang="de">Wurde per 1.1.2010 mit dem strategischen Nachrichtendienst zum Nachrichtendienst</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

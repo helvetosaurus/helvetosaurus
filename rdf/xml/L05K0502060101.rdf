@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0502060101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Handels- und Gewerbefreiheit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gewerbefreiheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Handelsfreiheit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070203030901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102040401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1626" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4020861-8" />
+    </skos:Concept>
+</rdf:RDF>

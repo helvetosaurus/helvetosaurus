@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Lebenshaltungskosten</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Lebenskosten</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704050209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050305"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/274" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034866-0" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701050101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Einzelhandel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Brockenhaus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Detailhandel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Detailhandelsgeschäft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einzelhandelsbetrieb</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einzelhändler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einzelhändlerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kleinhandel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Laden</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkaufsstelle</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070101020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13200-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4180816-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4568557-5" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/18531-0" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/18532-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Europäische Kommission</skos:prefLabel>
+        <skos:altLabel xml:lang="de">EG-Kommission</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Kommission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kommission der Europäischen Gemeinschaften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kommission der Europäischen Union</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kommission EG</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kommission EU</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901010405"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4038" />
+    </skos:Concept>
+</rdf:RDF>

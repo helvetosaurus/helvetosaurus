@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401030209">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Pflanzenschutzrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Pflanzenschutzvorschrift</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsvorschrift für Pflanzenschutz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103020901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050606"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401020309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102010104"/>
+        <skos:scopeNote xml:lang="de">Regeln der Verwendung von Pflanzenschutzmitteln.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1595" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4261820-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gehaltsprämie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Alterszulage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Alterszuschlag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bonus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dienstalterszulage</skos:altLabel>
+        <skos:altLabel xml:lang="de">dreizehntes Monatsgehalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Festsetzung der Prämien</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gehaltszulage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gratifikation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Prämienlohnsystem</skos:altLabel>
+        <skos:altLabel xml:lang="de">Prämiensystem</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sonderzuwendung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weihnachtsgratifikation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuschlag</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2619" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12594-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4035239-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4175536-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beerenfrucht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Brombeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erdbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Heidelbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Himbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Johannisbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preiselbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">schwarze Johannisbeere</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stachelbeere</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4582" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4141816-5" />
+    </skos:Concept>
+</rdf:RDF>

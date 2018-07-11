@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140206030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">pflanzliches Öl</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Nussöl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Öl pflanzlichen Ursprungs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Palmöl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pflanzenöl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rapsöl</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sesamöl</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14020603010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14020603010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14020603010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14020603010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14020603010105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1270" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4174068-3" />
+    </skos:Concept>
+</rdf:RDF>

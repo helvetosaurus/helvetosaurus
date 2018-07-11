@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bewaffnung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kriegsmaterial</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rüstung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Waffe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020406"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020407"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020408"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2647" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15005-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139582-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4145624-5" />
+    </skos:Concept>
+</rdf:RDF>

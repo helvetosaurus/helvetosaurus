@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18030208">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schienenfahrzeug</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eisenbahnwagen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Güterwagen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lokomotive</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rollmaterial</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schienenfahrzeugbestand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zug</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K180101070101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4657" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13255-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4052371-8" />
+    </skos:Concept>
+</rdf:RDF>

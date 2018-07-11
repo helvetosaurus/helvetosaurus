@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0101010203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Extremsportart</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bungee-Jumping</skos:altLabel>
+        <skos:altLabel xml:lang="de">Canyoning</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020225"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4310389-3" />
+    </skos:Concept>
+</rdf:RDF>

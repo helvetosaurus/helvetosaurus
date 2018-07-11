@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030703">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Inlandsmarkt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Binnenmarkt</skos:altLabel>
+        <skos:altLabel xml:lang="de">einzelstaatlicher Markt</skos:altLabel>
+        <skos:altLabel xml:lang="de">heimischer Markt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Inlandmarkt</skos:altLabel>
+        <skos:altLabel xml:lang="de">nationaler Markt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060106"/>
+        <skos:scopeNote xml:lang="de">Mit dem entsprechenden Land verknüpfen</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1806" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29992-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4145575-7" />
+    </skos:Concept>
+</rdf:RDF>

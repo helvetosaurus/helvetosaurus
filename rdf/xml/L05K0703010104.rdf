@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703010104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">marktbeherrschende Stellung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">marktbeherrschendes Unternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Missbrauch einer marktbeherrschenden Stellung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2565" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4037627-8" />
+    </skos:Concept>
+</rdf:RDF>

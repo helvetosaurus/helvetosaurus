@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705030305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Renovation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fassadenerneuerung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gebäudemodernisierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gebäuderenovierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sanierung von Bauten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnungsmodernisierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnungsrenovierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020310"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020341"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020603"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1456" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4126531-2" />
+    </skos:Concept>
+</rdf:RDF>

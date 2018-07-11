@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Versicherungswesen</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K11"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K111001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100203" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063206-4" />
+    </skos:Concept>
+</rdf:RDF>

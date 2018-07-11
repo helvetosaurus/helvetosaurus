@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">OSZE</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Konferenz über Sicherheit und Zusammenarbeit in Europa</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konferenz von Belgrad</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konferenz von Madrid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konferenz von Wien</skos:altLabel>
+        <skos:altLabel xml:lang="de">KSZE</skos:altLabel>
+        <skos:altLabel xml:lang="de">KSZE-Folgekonferenz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Organisation für Sicherheit und Zusammenarbeit in Europa</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schlussakte von Helsinki</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K09"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020107"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3514" />
+    </skos:Concept>
+</rdf:RDF>

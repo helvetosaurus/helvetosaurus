@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08060303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verantwortlichkeit der Verwaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Staatshaftung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verantwortlichkeit der Beamtin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verantwortlichkeit des Beamten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verantwortlichkeit des Bundes</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010208"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4011" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077782-0" />
+    </skos:Concept>
+</rdf:RDF>

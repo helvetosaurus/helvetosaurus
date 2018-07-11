@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K010506060201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Lebensmittelkontrolle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fleischbeschau</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensmittelanalyse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensmittelinspektorat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensmittelüberwachung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensmitteluntersuchung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105060602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105050901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103021001"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/181" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4140844-5" />
+    </skos:Concept>
+</rdf:RDF>

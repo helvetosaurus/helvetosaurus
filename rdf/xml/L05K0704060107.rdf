@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704060107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Planwirtschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">zentralgeleitete Wirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zentralverwaltungswirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/657" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11061-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4046242-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4316012-8" />
+    </skos:Concept>
+</rdf:RDF>

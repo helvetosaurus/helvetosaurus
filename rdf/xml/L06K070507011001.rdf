@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070507011001">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Umstellung der Industrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">industrielle Strukturwandlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">industrielle Umrüstung</skos:altLabel>
+        <skos:altLabel xml:lang="de">industrielle Umstellungsmassnahme</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industrieverlagerung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umstellung der Unternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umstrukturierung der Industrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030311"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010111"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2936" />
+    </skos:Concept>
+</rdf:RDF>

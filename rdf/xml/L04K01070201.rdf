@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01070201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Aufenthaltsort</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Hauptwohnsitz</skos:altLabel>
+        <skos:altLabel xml:lang="de">ständiger Aufenthaltsort</skos:altLabel>
+        <skos:altLabel xml:lang="de">tatsächlicher Aufenthaltsort</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wohnort</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010702"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3460" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4143381-6" />
+    </skos:Concept>
+</rdf:RDF>

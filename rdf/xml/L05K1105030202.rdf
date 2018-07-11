@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1105030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">freier Preis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">frei ausgehandelter Preis</skos:altLabel>
+        <skos:altLabel xml:lang="de">freies Preisgefüge</skos:altLabel>
+        <skos:altLabel xml:lang="de">nicht gebundener Preis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisfreigabe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2678" />
+    </skos:Concept>
+</rdf:RDF>

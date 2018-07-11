@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Instandhaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Instandsetzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reparatur</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unterhalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wartung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070503010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020114"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/831" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12923-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4508317-4" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/12699-6" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030405">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Privilegien der Parlamentsmitglieder</skos:prefLabel>
+        <skos:altLabel xml:lang="de">parlamentarische Privilegien</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3049" />
+    </skos:Concept>
+</rdf:RDF>

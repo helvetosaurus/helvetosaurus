@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05060101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Aufenthalt von Ausländern/-innen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufenthalt von Ausländerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthalt von Ausländern</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthaltsbewilligung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthaltserlaubnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthaltsgenehmigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthaltsnachweis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Aufenthaltsrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über Aufenthalt und Niederlassung der Ausländer [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K130102010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4004" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003508-6" />
+    </skos:Concept>
+</rdf:RDF>

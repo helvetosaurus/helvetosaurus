@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K010401010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">AHV-Rente</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Rente der AHV</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K01040101010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040112"/>
+    </skos:Concept>
+</rdf:RDF>

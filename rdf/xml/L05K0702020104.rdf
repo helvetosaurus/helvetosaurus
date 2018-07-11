@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">erwerbstätige Bevölkerung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bevölkerung im erwerbsfähigen Alter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erwerbsbevölkerung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erwerbsperson</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010506"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2552" />
+    </skos:Concept>
+</rdf:RDF>

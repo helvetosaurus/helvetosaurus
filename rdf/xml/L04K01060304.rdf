@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gedächtnisfeier</skos:prefLabel>
+        <skos:altLabel xml:lang="de">700-Jahrfeier</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gedenkmünze</skos:altLabel>
+        <skos:altLabel xml:lang="de">historischer Gedenkanlass</skos:altLabel>
+        <skos:altLabel xml:lang="de">Jahrestag</skos:altLabel>
+        <skos:altLabel xml:lang="de">siebenhundert Jahre Eidgenossenschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sondermünze</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010603"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110302010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020417"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5322" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4156197-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0806020304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Regierungspräsident/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundespräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundespräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gemeindepräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gemeindepräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landammann</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ministerpräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ministerpräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsident des Regierungsrates</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsidentin des Regierungsrates</skos:altLabel>
+        <skos:altLabel xml:lang="de">Premier</skos:altLabel>
+        <skos:altLabel xml:lang="de">Premierminister</skos:altLabel>
+        <skos:altLabel xml:lang="de">Premierministerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungspräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungspräsidentin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020333"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5805" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16333-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4130304-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4031516-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11020302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Finanzhilfe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">finanzielle Unterstützung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kapitalhilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Subventionsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1102030201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1102030202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1104010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010415"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/922" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7629670-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050602">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">elektrotechnische Industrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektrogerät</skos:altLabel>
+        <skos:altLabel xml:lang="de">Elektrogeräteindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erzeugung von Elektroartikeln</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101010601"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1401" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4129471-3" />
+    </skos:Concept>
+</rdf:RDF>

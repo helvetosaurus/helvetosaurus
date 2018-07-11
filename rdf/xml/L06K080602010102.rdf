@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080602010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Regierungsprogramm</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Legislaturplanung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungsrichtlinien</skos:altLabel>
+        <skos:altLabel xml:lang="de">staatliche Planung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Von-Wattenwyl-Gespräche</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ziele des Bundesrates</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020334"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3063" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177414-0" />
+    </skos:Concept>
+</rdf:RDF>

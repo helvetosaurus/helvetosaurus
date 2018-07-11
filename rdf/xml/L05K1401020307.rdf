@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020307">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Melioration</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bodenverbesserung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140102030701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080206"/>
+        <skos:scopeNote xml:lang="de">hier nur im Sinn von Bodenverbesserung verstanden. Weitere Bereiche siehe RTs.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1483" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12024-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4038544-9" />
+    </skos:Concept>
+</rdf:RDF>

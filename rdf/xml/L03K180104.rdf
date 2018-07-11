@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K180104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beförderungsmittel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fahrzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transportmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrsmittel</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1804010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030105"/>
+        <skos:scopeNote xml:lang="de">Zu verwenden, wenn "Beförderungsmittel" in einem umfassenden Sinn thematisiert</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2015" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016320-9" />
+    </skos:Concept>
+</rdf:RDF>

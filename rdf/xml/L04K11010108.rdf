@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11010108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationale Liquidität</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010802"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010804"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11060201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1677" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29645-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4114038-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11010302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Handelsbilanz</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102030501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4633" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10784-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4023232-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4768702-2" />
+    </skos:Concept>
+</rdf:RDF>

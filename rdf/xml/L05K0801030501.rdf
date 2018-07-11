@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801030501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kandidat/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kandidat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kandidatin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlbewerber</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlbewerberin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlkandidat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlkandidatin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahlvorschlag</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5105" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131693-9" />
+    </skos:Concept>
+</rdf:RDF>

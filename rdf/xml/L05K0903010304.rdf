@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0903010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Präsidium EP</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Präsident des Europäischen Parlaments</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsident EP</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsidentin des Europäischen Parlaments</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsidentin EP</skos:altLabel>
+        <skos:altLabel xml:lang="de">Präsidium des Europäischen Parlaments</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsident EP</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsidentin EP</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsidium des Europäischen Parlaments</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsidium EP</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020333"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5133" />
+    </skos:Concept>
+</rdf:RDF>

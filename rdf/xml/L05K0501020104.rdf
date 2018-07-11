@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0501020104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Korruption</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Annahme von Geschenken durch Beamte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beamtenbestechung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bestechung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080601030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/245" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16193-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4032524-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4179814-4" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/29999-2" />
+    </skos:Concept>
+</rdf:RDF>

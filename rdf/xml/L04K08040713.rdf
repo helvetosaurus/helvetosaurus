@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040713">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Eidgenössische Elektrizitätskommission</skos:prefLabel>
+        <skos:altLabel xml:lang="de">ElCom</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080407"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

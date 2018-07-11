@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0102040902">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">sozio-kulturelle Einrichtung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">kulturelle Einrichtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kulturzentrum</skos:altLabel>
+        <skos:altLabel xml:lang="de">Quartierzentrum</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040407"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/851" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136812-5" />
+    </skos:Concept>
+</rdf:RDF>

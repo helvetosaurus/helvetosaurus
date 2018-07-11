@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Milizsystem</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Berufsarmee [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berufsparlament [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Milizarmee [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Milizparlament [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080701"/>
+        <skos:scopeNote xml:lang="de">mit dem jeweiligen Thema verbinden (z.B. Parlament, Armee)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2637" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0804">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Organisation der Bundesverwaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Verwaltungsgliederung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verwaltungsorganisation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regierungs- und Verwaltungsorganisationsgesetz [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verordnung über die Zuweisung der Ämter an die Departemente [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verwaltungsorganisationsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K08"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080408"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080409"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080407"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080601"/>
+        <skos:scopeNote xml:lang="de">Verwenden, wenn organisatorische Gliederung, die Aufgaben einzelner Ämter oder</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/362" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4300610-3" />
+    </skos:Concept>
+</rdf:RDF>

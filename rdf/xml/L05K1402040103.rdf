@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402040103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Denaturierung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020401"/>
+        <skos:scopeNote xml:lang="de">biologisch wirksame Substanzen durch chemische, physikalische oder mechanische</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/386" />
+    </skos:Concept>
+</rdf:RDF>

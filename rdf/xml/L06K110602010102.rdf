@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K110602010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Anlagefonds</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1106020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K11060201010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K11060201010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070303010102"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2005, zuvor Synonym zu "Kapitalanlagegesellschaft" (für frühere</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4195" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4027581-4" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12281-6" />
+    </skos:Concept>
+</rdf:RDF>

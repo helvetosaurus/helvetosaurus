@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0507020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">elektronische Unterschrift</skos:prefLabel>
+        <skos:altLabel xml:lang="de">digitale Signatur</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010104"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6370" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4269037-7" />
+    </skos:Concept>
+</rdf:RDF>

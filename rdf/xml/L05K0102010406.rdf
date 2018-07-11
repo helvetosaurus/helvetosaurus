@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0102010406">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Mietzinskontrolle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mietenstopp</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mietordnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mietpreisbindung</skos:altLabel>
+        <skos:altLabel xml:lang="de">niedrige Miete</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3380" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131846-8" />
+    </skos:Concept>
+</rdf:RDF>

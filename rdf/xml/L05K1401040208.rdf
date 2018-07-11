@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040208">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stillegung landwirtschaftlicher Betriebe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufgabe landwirtschaftlicher Betriebe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einstellung landwirtschaftlicher Tätigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliche Abfindung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5373" />
+    </skos:Concept>
+</rdf:RDF>

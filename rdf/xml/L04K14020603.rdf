@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020603">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fettkörper</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fett</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fettstoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reinfett</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040314"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/239" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14044-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4071189-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4137154-9" />
+    </skos:Concept>
+</rdf:RDF>

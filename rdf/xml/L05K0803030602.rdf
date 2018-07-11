@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803030602">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vizepräsident/in des Parlaments</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Nationalratsvizepräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nationalratsvizepräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsvizepräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsvizepräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ständeratsvizepräsident</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ständeratsvizepräsidentin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsident des Parlaments</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vizepräsidentin des Parlaments</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020333"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4694" />
+    </skos:Concept>
+</rdf:RDF>

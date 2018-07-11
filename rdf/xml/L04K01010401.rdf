@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Frauenförderung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beteiligung der Frauen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitbestimmung der Frauen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitwirkung der Frauen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103050101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2265" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4226107-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationales humanitäres Recht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Flüchtlingskonvention</skos:altLabel>
+        <skos:altLabel xml:lang="de">Genfer Abkommen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Genfer Konvention</skos:altLabel>
+        <skos:altLabel xml:lang="de">humanitäres Recht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schutz der Kriegsopfer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502020303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502020301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150114"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/564" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4156628-2" />
+    </skos:Concept>
+</rdf:RDF>

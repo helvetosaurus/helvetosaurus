@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">friedenserhaltende Mission</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Blaumützen</skos:altLabel>
+        <skos:altLabel xml:lang="de">friedenserhaltende Operation</skos:altLabel>
+        <skos:altLabel xml:lang="de">friedenssichernde Operation</skos:altLabel>
+        <skos:altLabel xml:lang="de">peace-keeping</skos:altLabel>
+        <skos:altLabel xml:lang="de">SMM</skos:altLabel>
+        <skos:altLabel xml:lang="de">Swiss Medical Unit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1504"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4679328-8" />
+    </skos:Concept>
+</rdf:RDF>

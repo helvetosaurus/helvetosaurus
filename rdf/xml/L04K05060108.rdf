@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05060108">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Mischehe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ehe mit einem ausländischen Staatsangehörigen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0103010304"/>
+        <skos:scopeNote xml:lang="de">Ehe von Angehörigen verschiedener Nationalitäten</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4007" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4125565-3" />
+    </skos:Concept>
+</rdf:RDF>

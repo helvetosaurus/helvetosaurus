@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07050303030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bundeshaus</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundesplatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundes-Rathaus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsgebäude</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070503030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030403"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4173377-0" />
+    </skos:Concept>
+</rdf:RDF>

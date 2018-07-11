@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationales Vertragswerk</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Deklaration einer zwischenstaatlichen Organisation</skos:altLabel>
+        <skos:altLabel xml:lang="de">internationale Urkunde</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050202"/>
+        <skos:scopeNote xml:lang="de">Umfasst Verträge und Verhaltenskodizes ebenso wie Entschliessungen, Aktionspläne</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3467" />
+    </skos:Concept>
+</rdf:RDF>

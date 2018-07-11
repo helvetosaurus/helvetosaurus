@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verkehrsgebühr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abgeltung der Wegebenutzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Flughafengebühr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Maut</skos:altLabel>
+        <skos:altLabel xml:lang="de">Road Pricing</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strassenbenützungsabgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strassenbenutzungsgebühr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strassenverkehrsabgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transitabgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrsabgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verschiffungsgebühr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wegegeld</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K180101010101"/>
+        <skos:scopeNote xml:lang="de">Entgelt für Benützung</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2301" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4206779-0" />
+    </skos:Concept>
+</rdf:RDF>

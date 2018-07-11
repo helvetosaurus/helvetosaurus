@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020308">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stellenangebot</skos:prefLabel>
+        <skos:altLabel xml:lang="de">offene Stelle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stellenausschreibung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stelleninserat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202030801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010211"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2126" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11278-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4172485-9" />
+    </skos:Concept>
+</rdf:RDF>

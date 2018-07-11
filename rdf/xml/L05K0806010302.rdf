@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0806010302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Departement</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Departementszuteilung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ministerium</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060103"/>
+        <skos:scopeNote xml:lang="de">nur verwenden für alle Departemente betreffende Fragen (z.B. Zuteilung an die</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/390" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4142071-8" />
+    </skos:Concept>
+</rdf:RDF>

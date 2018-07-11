@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fruchtgemüse</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aubergine</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einlegegurke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gurke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kürbis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Melone</skos:altLabel>
+        <skos:altLabel xml:lang="de">Riesenkürbis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Salatgurke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Speisekürbis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tomate</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zucchini</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1605" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4436392-8" />
+    </skos:Concept>
+</rdf:RDF>

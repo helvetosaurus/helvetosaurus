@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kernenergie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Atomenergie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Atompolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernenergiepolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernenergieprogramm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Atomgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010110"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/753" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14182-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4030318-4" />
+    </skos:Concept>
+</rdf:RDF>

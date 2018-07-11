@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11100114">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rückversicherung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Reassekuranz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K111001"/>
+        <skos:scopeNote xml:lang="de">Vertrag, durch den ein Versicherer von einem anderen teilweise oder vollständig</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2906" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13296-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4050860-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4516093-4" />
+    </skos:Concept>
+</rdf:RDF>

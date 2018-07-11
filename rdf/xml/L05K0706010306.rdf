@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010306">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Produktesicherheit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Produktsicherheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sicherheit des Produkts</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601030601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020203"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2003; ersetzt "Sicherheit des Produkts" (rückwirkend verwendet in</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4036" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/20306-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4246587-4" />
+    </skos:Concept>
+</rdf:RDF>

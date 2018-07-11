@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Erzeugergemeinschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erzeugerorganisation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erzeugervereinigung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050501"/>
+        <skos:scopeNote xml:lang="de">Freiwilliger Zusammenschluss von Landwirten, die in einer bestimmten Region die</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1201" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4152980-7" />
+    </skos:Concept>
+</rdf:RDF>

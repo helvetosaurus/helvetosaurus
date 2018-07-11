@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060209">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">religiöse Einrichtung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kirchengebäude</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kloster</skos:altLabel>
+        <skos:altLabel xml:lang="de">Messe (Liturgie)</skos:altLabel>
+        <skos:altLabel xml:lang="de">Minarett</skos:altLabel>
+        <skos:altLabel xml:lang="de">Moschee</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sakralgebäude</skos:altLabel>
+        <skos:altLabel xml:lang="de">Synagoge</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060212"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1454" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4347045-2" />
+    </skos:Concept>
+</rdf:RDF>

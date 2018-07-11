@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Elektrizitätsindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektrizitätswirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromerzeugungsindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromversorgungsindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stromwirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3783" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13076-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4129471-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4672855-7" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/12974-3" />
+    </skos:Concept>
+</rdf:RDF>

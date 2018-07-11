@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010307">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Haustier</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kleinhaustier</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schosstier</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030702"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601040802"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1919" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4023819-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401060303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fischereizone</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fischereigrenze</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010603"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140106030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010604"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4790" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017318-5" />
+    </skos:Concept>
+</rdf:RDF>

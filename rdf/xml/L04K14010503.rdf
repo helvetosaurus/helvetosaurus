@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010503">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">landwirtschaftlicher Betrieb</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bauernhof</skos:altLabel>
+        <skos:altLabel xml:lang="de">Farm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landwirtschaftsbetrieb</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040209"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/937" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4073995-8" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18329-2" />
+    </skos:Concept>
+</rdf:RDF>

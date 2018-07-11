@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0102010405">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Mietvertrag</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kündigungsrecht wegen Eigenbedarfs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mietdauer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mietvertrag für gewerbliche Räume</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140105040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4598" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4039168-1" />
+    </skos:Concept>
+</rdf:RDF>

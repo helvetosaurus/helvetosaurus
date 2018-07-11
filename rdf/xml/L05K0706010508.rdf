@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010508">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">neue Technologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">fortgeschrittene Technologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">High-Tech</skos:altLabel>
+        <skos:altLabel xml:lang="de">hochentwickelte Technik</skos:altLabel>
+        <skos:altLabel xml:lang="de">neuartige Technologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spitzentechnologie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020703"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050218"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3636" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/10464-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4194462-8" />
+    </skos:Concept>
+</rdf:RDF>

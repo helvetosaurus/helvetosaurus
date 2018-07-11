@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1203010107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Informatikberuf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anwendungsprogrammierer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Anwendungsprogrammiererin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Datenerfasser</skos:altLabel>
+        <skos:altLabel xml:lang="de">Datenerfasserin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informatiker</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informatikerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Programmierer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Programmiererin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Systemanalytiker</skos:altLabel>
+        <skos:altLabel xml:lang="de">Systemanalytikerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Systemdesigner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Systemdesignerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3607" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139395-8" />
+    </skos:Concept>
+</rdf:RDF>

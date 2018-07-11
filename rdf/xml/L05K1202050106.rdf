@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">privates Massenmedium</skos:prefLabel>
+        <skos:altLabel xml:lang="de">kommerzieller Rundfunk</skos:altLabel>
+        <skos:altLabel xml:lang="de">kommerzielles Fernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">kommerzielles Massenmedium</skos:altLabel>
+        <skos:altLabel xml:lang="de">privater Hörfunk</skos:altLabel>
+        <skos:altLabel xml:lang="de">privater Rundfunk</skos:altLabel>
+        <skos:altLabel xml:lang="de">privates Fernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Privatfernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Privatradio</skos:altLabel>
+        <skos:altLabel xml:lang="de">Privatsender</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020501"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3015" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047294-2" />
+    </skos:Concept>
+</rdf:RDF>

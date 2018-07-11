@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">strafbare Handlung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Delikt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesetzesübertretung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesetzesverletzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechtsverletzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbrechen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vergehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verstoss gegen das Gesetz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorschriftswidrigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuwiderhandlung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0501020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1432" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057799-5" />
+    </skos:Concept>
+</rdf:RDF>

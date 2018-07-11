@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kreditpolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kreditlaufzeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kreditvolumen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040406"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050702010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2495" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18698-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4032941-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4200015-4" />
+    </skos:Concept>
+</rdf:RDF>

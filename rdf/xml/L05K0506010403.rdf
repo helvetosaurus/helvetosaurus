@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506010403">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">biometrische Daten</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fingerabdruck</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020513"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L08K0706010501040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203040202"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2005</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4257613-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070302010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Cash Flow</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bruttospanne der Eigenfinanzierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kapitalfluss aus Umsatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">verfügbar erarbeitete Mittel</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1109020101"/>
+        <skos:scopeNote xml:lang="de">Überschuss, der einem Unternehmen nach Abzug aller Unkosten verbleibt und die</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5270" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12218-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136230-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4406568-1" />
+    </skos:Concept>
+</rdf:RDF>

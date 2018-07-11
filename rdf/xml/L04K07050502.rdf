@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Lederindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">ledererzeugende Industrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lederherstellung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705050201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705050202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705050203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705050204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1388" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13136-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4167095-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4540315-6" />
+    </skos:Concept>
+</rdf:RDF>

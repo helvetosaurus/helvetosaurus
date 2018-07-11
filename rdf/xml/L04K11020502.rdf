@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11020502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Haushaltsdefizit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausgabenüberschuss</skos:altLabel>
+        <skos:altLabel xml:lang="de">Budgetdefizit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Defizit in der Bundeskasse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Haushaltsfehlbetrag</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080305"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/368" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11586-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4127588-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4271666-4" />
+    </skos:Concept>
+</rdf:RDF>

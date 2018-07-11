@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Arbeitsgemeinschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gemeinschaftsunternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Joint Venture</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konsortium</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010201"/>
+        <skos:scopeNote xml:lang="de">verwenden für auf Zeit angelegte Arbeitsorganisation im Unternehmensbereich,</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3060" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4142888-2" />
+    </skos:Concept>
+</rdf:RDF>

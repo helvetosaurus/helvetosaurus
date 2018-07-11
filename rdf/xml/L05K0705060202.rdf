@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705060202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Elektrohaushaltsgerät</skos:prefLabel>
+        <skos:altLabel xml:lang="de">elektrisches Haushaltsgerät</skos:altLabel>
+        <skos:altLabel xml:lang="de">Elektrogerät im Haushalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gefrierschrank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geschirrspülmaschine</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kühlschrank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staubsauger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Waschmaschine</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050803"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3861" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14502-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4023740-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4113413-8" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13075-4" />
+    </skos:Concept>
+</rdf:RDF>

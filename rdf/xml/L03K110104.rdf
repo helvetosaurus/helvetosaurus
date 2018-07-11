@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Währungssystem</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Währungsordnung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010405"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010406"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020308"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4121891-7" />
+    </skos:Concept>
+</rdf:RDF>

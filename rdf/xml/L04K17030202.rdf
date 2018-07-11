@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wasserkraftwerk</skos:prefLabel>
+        <skos:altLabel xml:lang="de">hydroelektrische Anlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staudamm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staumauer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stausee</skos:altLabel>
+        <skos:altLabel xml:lang="de">Talsperrenkraftwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Nutzbarmachung der Wasserkräfte [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170507"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010504"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3782" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14039-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4032728-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4031088-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030503">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">nationales Parlament</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bundesparlament</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesversammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">eidgenössische Räte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803050301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803050303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803050302"/>
+        <skos:scopeNote xml:lang="de">für ausländisches Parlament mit entsprechendem Land verbinden</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2244" />
+    </skos:Concept>
+</rdf:RDF>

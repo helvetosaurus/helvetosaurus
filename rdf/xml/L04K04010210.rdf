@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010210">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">politischer Status</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040102"/>
+        <skos:scopeNote xml:lang="de">Bezieht sich auf Länder und Gebiete, deren politischer Status umstritten ist.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4275" />
+    </skos:Concept>
+</rdf:RDF>

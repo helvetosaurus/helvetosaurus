@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020207">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wurzelgemüse</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Karotte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Knollensellerie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mohrrübe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pastinake</skos:altLabel>
+        <skos:altLabel xml:lang="de">Radieschen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schwarzwurzel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Speiserübe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020805"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1607" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4190340-7" />
+    </skos:Concept>
+</rdf:RDF>

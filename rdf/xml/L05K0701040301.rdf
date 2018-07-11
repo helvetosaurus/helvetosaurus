@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701040301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zoll</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Zollabgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zölle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zollsatz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104050201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/502" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4137564-6" />
+    </skos:Concept>
+</rdf:RDF>

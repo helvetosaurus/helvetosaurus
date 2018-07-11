@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080303010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">GPK</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Geschäftsprüfungskommission</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08030301010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080307010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602010201"/>
+        <skos:scopeNote xml:lang="de">verwenden, wenn es um die Organisation oder die Umschreibung der Aufgaben der</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

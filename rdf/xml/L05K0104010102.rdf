@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0104010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Berufliche Vorsorge</skos:prefLabel>
+        <skos:altLabel xml:lang="de">BVG</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalvorsorge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zweite Säule</skos:altLabel>
+        <skos:altLabel xml:lang="de">Oberaufsichtskommission Berufliche Vorsorge [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704050211"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4214086-9" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070205020103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Humanisierung der Arbeitswelt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anreicherung der Arbeitsinhalte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Diversifizierung der Tätigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erweiterung des Aufgabenfeldes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Job Enrichment</skos:altLabel>
+        <skos:altLabel xml:lang="de">Job Rotation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbesserung der Arbeitsbedingungen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702050201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1273" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12625-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4193143-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4542840-2" />
+    </skos:Concept>
+</rdf:RDF>

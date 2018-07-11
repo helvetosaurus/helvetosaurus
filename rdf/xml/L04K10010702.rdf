@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10010702">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Katastrophenhilfe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Hilfe für Katastrophenopfer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050514"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0804090101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030201"/>
+        <skos:scopeNote xml:lang="de">für Hilfe im In- und Ausland verwenden, nicht für Organisation des</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3076" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029931-4" />
+    </skos:Concept>
+</rdf:RDF>

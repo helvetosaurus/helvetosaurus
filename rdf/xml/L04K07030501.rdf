@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Management</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Managementmethode</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1154" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12085-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4037278-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4346301-0" />
+    </skos:Concept>
+</rdf:RDF>

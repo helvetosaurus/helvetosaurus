@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803030701">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Parlamentssoziologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Frauenanteil im Parlament [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130205"/>
+        <skos:scopeNote xml:lang="de">Zusammensetzung des Parlaments nach Gruppen wie Beruf, Bildung, Alter oder</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701040114">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zollkontingent</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aufteilung von Zollkontingenten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eröffnung von Zollkontingenten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verwaltung von Zollkontingenten</skos:altLabel>
+        <skos:altLabel xml:lang="de">zollfreies Zollkontingent</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zollkontingent zu herabgesetztem Zollsatz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07010204010101"/>
+        <skos:scopeNote xml:lang="de">Unterwirft die Warenmenge, die unter Aussetzung der Zollsätze eingeführt werden</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/161" />
+    </skos:Concept>
+</rdf:RDF>

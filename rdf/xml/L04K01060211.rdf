@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060211">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Theologie</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1603"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3297" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15678-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4049426-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4049415-9" />
+    </skos:Concept>
+</rdf:RDF>

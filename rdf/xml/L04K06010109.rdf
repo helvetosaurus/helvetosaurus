@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010109">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">radioaktiver Abfall</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Atommüll</skos:altLabel>
+        <skos:altLabel xml:lang="de">nuklearer Abfall</skos:altLabel>
+        <skos:altLabel xml:lang="de">radioaktiver Abfallstoff</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/347" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048190-6" />
+    </skos:Concept>
+</rdf:RDF>

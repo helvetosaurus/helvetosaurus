@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">alternative Medizin</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Akupunktur</skos:altLabel>
+        <skos:altLabel xml:lang="de">alternative Heilkunde</skos:altLabel>
+        <skos:altLabel xml:lang="de">Alternativmedizin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erfahrungsmedizin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Homöopathie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Komplementärmedizin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Naturheilkunde</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010504"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3289" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112639-7" />
+    </skos:Concept>
+</rdf:RDF>

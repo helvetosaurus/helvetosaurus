@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Post</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Briefdienst</skos:altLabel>
+        <skos:altLabel xml:lang="de">Paketdienst</skos:altLabel>
+        <skos:altLabel xml:lang="de">Postdienst</skos:altLabel>
+        <skos:altLabel xml:lang="de">Postpäckchen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Postpaket</skos:altLabel>
+        <skos:altLabel xml:lang="de">Postverkehrsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1104010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120204010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080407"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999 (vorher ND zu Postdienst)</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4133" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13274-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4046886-0" />
+    </skos:Concept>
+</rdf:RDF>

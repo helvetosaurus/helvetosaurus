@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070306010701">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">multinationales Unternehmen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Multi</skos:altLabel>
+        <skos:altLabel xml:lang="de">multinationale Gesellschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703060107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110602010801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/828" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12062-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4075092-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4202362-2" />
+    </skos:Concept>
+</rdf:RDF>

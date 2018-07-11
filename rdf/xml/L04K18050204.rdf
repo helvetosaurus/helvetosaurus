@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18050204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Flussschifffahrt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Flussschiffahrt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rheinschifffahrt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802040901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1805010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802040601"/>
+        <skos:scopeNote xml:lang="de">Der Rechtschreibung angepasst 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2040" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13242-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006761-0" />
+    </skos:Concept>
+</rdf:RDF>

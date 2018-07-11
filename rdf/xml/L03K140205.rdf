@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K140205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">tierisches Erzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erzeugnis der Viehzucht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produkt tierischen Ursprungs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tierprodukt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020507"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020508"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402060302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100254" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4126999-8" />
+    </skos:Concept>
+</rdf:RDF>

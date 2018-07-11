@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070202030403">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmen für Temporärarbeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agentur für Zeitarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmen für Zeitarbeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vermittlung von Zeitarbeitskräften</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030214"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5207" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11203-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4074122-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4114390-5" />
+    </skos:Concept>
+</rdf:RDF>

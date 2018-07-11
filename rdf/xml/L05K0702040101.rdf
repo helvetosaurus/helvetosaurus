@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702040101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beteiligung der Arbeitnehmer/innen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beteiligung der Arbeitnehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beteiligung der Arbeitnehmerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">betriebliches Mitspracherecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitbeteiligung der Arbeitnehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitsprache der Arbeitnehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitwirkung der Arbeitnehmer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitwirkung der Arbeitnehmerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mitwirkungsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070204010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020329"/>
+        <skos:scopeNote xml:lang="de">Im Zusammenhang mit betrieblichen Entscheidungen zu verwenden; für finanzielle</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2266" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11030304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Wechselkurs</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Devisenkurs</skos:altLabel>
+        <skos:altLabel xml:lang="de">doppelter Wechselkurs</skos:altLabel>
+        <skos:altLabel xml:lang="de">monetärer Wert</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umrechnungskurs</skos:altLabel>
+        <skos:altLabel xml:lang="de">Frankenkurs [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1103030401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1103030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4390" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10773-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064921-0" />
+    </skos:Concept>
+</rdf:RDF>

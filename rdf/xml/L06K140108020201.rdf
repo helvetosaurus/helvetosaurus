@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140108020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Landmaschine</skos:prefLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliche Maschine</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftlicher Maschinenpark</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010802020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010802020102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1719" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034316-9" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14380-1" />
+    </skos:Concept>
+</rdf:RDF>

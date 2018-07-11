@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K060201010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Abgas</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Partikelemission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbrennungsgas</skos:altLabel>
+        <skos:altLabel xml:lang="de">Abgasvorschrift [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070501020902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010413"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070501020903"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070501020904"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1704010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020314"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1140" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4000123-4" />
+    </skos:Concept>
+</rdf:RDF>

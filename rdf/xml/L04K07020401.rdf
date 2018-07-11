@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07020401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beziehungen zwischen den Sozialpartnern</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beziehungen zwischen Arbeitgeber/innen und Arbeitnehmer/innen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sozialpartnerschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07020502010101"/>
+        <skos:scopeNote xml:lang="de">Gemeint sind Beziehungen zwischen Arbeitgeber/innen und Arbeitnehmer/innen und</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3209" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11314-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002617-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4121868-1" />
+    </skos:Concept>
+</rdf:RDF>

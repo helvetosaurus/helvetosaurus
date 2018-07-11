@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020413">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Linksradikalismus</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Linksextremismus</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08050201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1138" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136650-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16030104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ethik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Moral</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ethikkommission [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020221"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060109"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1989" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16709-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015602-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4253135-4" />
+    </skos:Concept>
+</rdf:RDF>

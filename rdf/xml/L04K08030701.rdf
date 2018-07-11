@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030701">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Generalsekretär/in der Bundesversammlung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Generalsekretär der Bundesversammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Generalsekretärin der Bundesversammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsdirektor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parlamentsdirektorin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803070102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803070101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803070104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803070103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803070105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5117" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Familienunterhalt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ernährer der Familie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ernährerin der Familie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Familienlasten</skos:altLabel>
+        <skos:altLabel xml:lang="de">unterhaltsberechtigte Person</skos:altLabel>
+        <skos:altLabel xml:lang="de">unterhaltsberechtigtes Kind</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0103010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5390" />
+    </skos:Concept>
+</rdf:RDF>

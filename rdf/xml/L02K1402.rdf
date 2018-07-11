@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">landwirtschaftliche Produkte</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agrarerzeugnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Agrarprodukt</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliches Erzeugnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliches Nebenerzeugnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landwirtschaftsprodukt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K14"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2734" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4068470-2" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14054-0" />
+    </skos:Concept>
+</rdf:RDF>

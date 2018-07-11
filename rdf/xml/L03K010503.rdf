@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010503">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">pharmazeutische Industrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arzneimittelproduktion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pharmaindustrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1415" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13002-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4045696-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05030103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gesetzbuch</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Amtliche Sammlung des Bundesrechts</skos:altLabel>
+        <skos:altLabel xml:lang="de">AS</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesetzessammlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kodifizierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">SR</skos:altLabel>
+        <skos:altLabel xml:lang="de">Systematische Sammlung des Bundesrechts</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Gesetzessammlungen und das Bundesblatt [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Publikationsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070206"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6023" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4157093-5" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705010205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">chemischer Alkohol</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aldehyd</skos:altLabel>
+        <skos:altLabel xml:lang="de">Äthylenglykol</skos:altLabel>
+        <skos:altLabel xml:lang="de">Diäthylenglykol</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fettalkohol</skos:altLabel>
+        <skos:altLabel xml:lang="de">Glyzerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industriealkohol</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1143" />
+    </skos:Concept>
+</rdf:RDF>

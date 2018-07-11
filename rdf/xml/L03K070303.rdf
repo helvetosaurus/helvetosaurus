@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechtsform einer Gesellschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gesellschaftsrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensrecht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0703"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030308"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030309"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030307"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030310"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030311"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030312"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070407"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100228" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4020646-4" />
+    </skos:Concept>
+</rdf:RDF>

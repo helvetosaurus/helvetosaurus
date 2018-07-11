@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04030308">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Videoüberwachung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050205"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2011.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4758780-5" />
+    </skos:Concept>
+</rdf:RDF>

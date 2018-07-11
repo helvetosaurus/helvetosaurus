@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Künstlerberuf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bildhauer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bildhauerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fotograf</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fotografin</skos:altLabel>
+        <skos:altLabel xml:lang="de">interpretierende Künstlerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">interpretierender Künstler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Künstler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Künstlerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Maler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Malerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Musiker</skos:altLabel>
+        <skos:altLabel xml:lang="de">Musikerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sänger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sängerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schauspieler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schauspielerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010604"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3598" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139550-5" />
+    </skos:Concept>
+</rdf:RDF>

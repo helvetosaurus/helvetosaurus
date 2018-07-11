@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1104010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Geschäftsbank</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beteiligungsbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Depositenbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Effektenbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Emissionsbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Handelsbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kapitalanlagebank</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4774" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4113720-6" />
+    </skos:Concept>
+</rdf:RDF>

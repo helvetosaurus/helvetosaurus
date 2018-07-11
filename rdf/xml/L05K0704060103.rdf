@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704060103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">gemischtwirtschaftliches System</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Public Private Partnership</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030308"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070115"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070117"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/654" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11043-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4249313-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4122121-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701040303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zolltarifschema</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Brüsseler Zolltarifschema</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tarifierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zollnomenklatur</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zollposition</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104030301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2069" />
+    </skos:Concept>
+</rdf:RDF>

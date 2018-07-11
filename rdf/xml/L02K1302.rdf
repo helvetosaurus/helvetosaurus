@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unterrichtswesen (allgemein)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausbildung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K13"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100218" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112628-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020343">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">flankierende Massnahmen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Begleitmassnahmen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070203030902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802020801"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

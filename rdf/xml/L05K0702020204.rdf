@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Führungskraft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beschäftigte in leitender Position</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beschäftigter in leitender Position</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kader</skos:altLabel>
+        <skos:altLabel xml:lang="de">leitende Angestellte</skos:altLabel>
+        <skos:altLabel xml:lang="de">leitender Angestellter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Manager</skos:altLabel>
+        <skos:altLabel xml:lang="de">Managerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorgesetzte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorgesetzter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Managerlohn [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202020401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070202020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5080" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4071497-4" />
+    </skos:Concept>
+</rdf:RDF>

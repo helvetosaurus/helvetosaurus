@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Führerschein</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fahrausweis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrerlaubnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Führerausweis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Führerausweisentzug</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2325" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4129962-0" />
+    </skos:Concept>
+</rdf:RDF>

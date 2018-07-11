@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kompetenzkonflikt</skos:prefLabel>
+        <skos:altLabel xml:lang="de">negativer Kompetenzkonflikt</skos:altLabel>
+        <skos:altLabel xml:lang="de">politischer Kompetenzstreit</skos:altLabel>
+        <skos:altLabel xml:lang="de">positiver Kompetenzkonflikt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuständigkeitsstreit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080704"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/94" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4164872-9" />
+    </skos:Concept>
+</rdf:RDF>

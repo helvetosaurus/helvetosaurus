@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705010105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">kosmetisches Erzeugnis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Körperpflegemittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Körperseife</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kosmetikum</skos:altLabel>
+        <skos:altLabel xml:lang="de">Parfüm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Riechmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schönheitsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schönheitsprodukt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Seife</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050805"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050810"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2744" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14735-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4032552-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4349933-8" />
+    </skos:Concept>
+</rdf:RDF>

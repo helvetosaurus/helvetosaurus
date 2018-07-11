@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010305">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Submissionswesen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Auftragswesen der öffentlichen Hand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Beschaffungswesen der öffentlichen Hand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesauftrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Durchführung der Auftragsvergabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Evaluation bei öffentlichen Beschaffungen</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentlicher Auftrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliches Auftragswesen</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliches Beschaffungswesen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatsauftrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Submission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verfahren zur Auftragsvergabe</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102040401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080603"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/20" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4043164-2" />
+    </skos:Concept>
+</rdf:RDF>

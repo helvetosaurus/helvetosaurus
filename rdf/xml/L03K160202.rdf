@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K160202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Forschungspolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Wissenschaftspolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Forschungsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1602"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010510"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010216"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1001021601"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2478" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10437-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4184587-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4245713-0" />
+    </skos:Concept>
+</rdf:RDF>

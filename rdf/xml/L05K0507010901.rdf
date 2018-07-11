@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0507010901">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Grundeigentum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Grundbesitz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Grundstück</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landeigentum</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050701090101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050701090102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050701090103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0102040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401070106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2813" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4072130-9" />
+    </skos:Concept>
+</rdf:RDF>

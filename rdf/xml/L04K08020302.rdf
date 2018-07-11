@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Evaluation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Assessment</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erfolgskontrolle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Überprüfung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirksamkeitsüberprüfung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirkungsstudie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wirkungsuntersuchung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0802030211"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070305010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703050205"/>
+        <skos:scopeNote xml:lang="de">Analyse und Bewertung eines Sachverhalts, bzw. Effizienz- und Erfolgskontrolle.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3085" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4071034-8" />
+    </skos:Concept>
+</rdf:RDF>

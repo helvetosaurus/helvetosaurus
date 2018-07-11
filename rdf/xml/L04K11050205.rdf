@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11050205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Einzelhandelspreis</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ladenpreis</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070101020104"/>
+        <skos:scopeNote xml:lang="de">Dient ausschliesslich zur Unterscheidung gegenüber "Grosshandelspreis",</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2652" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18555-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4166385-8" />
+    </skos:Concept>
+</rdf:RDF>

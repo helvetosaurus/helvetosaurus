@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">allgemeine Präferenzen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">allgemeine Zollpräferenzen</skos:altLabel>
+        <skos:altLabel xml:lang="de">allgemeines Präferenzsystem</skos:altLabel>
+        <skos:altLabel xml:lang="de">System der allgemeinen Präferenzen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07010204010105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040114"/>
+        <skos:scopeNote xml:lang="de">System von Vorzugszöllen, das die Industrieländer, darunter auch die Staaten der</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2590" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10714-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4175528-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4231956-0" />
+    </skos:Concept>
+</rdf:RDF>

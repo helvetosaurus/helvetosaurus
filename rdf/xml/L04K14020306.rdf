@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020306">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">verderbliches Lebensmittel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">verderbliche Ware</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050602"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050606"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/387" />
+    </skos:Concept>
+</rdf:RDF>

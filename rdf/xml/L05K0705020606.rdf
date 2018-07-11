@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705020606">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ofen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektroofen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Herdofen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lichtbogenofen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Martin-Ofen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Siemens-Martin-Ofen</skos:altLabel>
+        <skos:altLabel xml:lang="de">SM-Ofen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1077" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4137711-4" />
+    </skos:Concept>
+</rdf:RDF>

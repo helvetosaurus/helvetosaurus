@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07030304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">europäische Gesellschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Europäische Aktiengesellschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">SE</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020505"/>
+        <skos:scopeNote xml:lang="de">Entwurf eines europäischen Gesellschaftsstatuts, dessen Rechtsform jedem bereits</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4202" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18109-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4257750-0" />
+    </skos:Concept>
+</rdf:RDF>

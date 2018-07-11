@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11080104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Finanzplanung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Finanzplan</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2403" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017200-4" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Sprache</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Landessprache</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sprachengesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010306"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010307"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1302010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1580" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15676-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4056449-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4001807-6" />
+    </skos:Concept>
+</rdf:RDF>

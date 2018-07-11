@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">regionaler Verkehr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agglomerationsverkehr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Regionalverkehr</skos:altLabel>
+        <skos:altLabel xml:lang="de">S-Bahn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorortverkehr</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801010701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010216"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010220"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177433-4" />
+    </skos:Concept>
+</rdf:RDF>

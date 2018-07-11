@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803050301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">erste Kammer</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Assemblée nationale</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundestag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Repräsentantenhaus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unterhaus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Volkskammer</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080305030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:scopeNote xml:lang="de">Für ausländisches Parlament mit entsprechendem Land verbinden. Hinzugefügt 2007,</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5377" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4152902-9" />
+    </skos:Concept>
+</rdf:RDF>

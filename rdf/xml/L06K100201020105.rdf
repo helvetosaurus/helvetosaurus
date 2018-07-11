@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K100201020105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">diplomatischer Dienst</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Angehörige des diplomatischen Dienstes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Angehöriger des diplomatischen Dienstes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Botschafter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Botschafterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Botschaftspersonal</skos:altLabel>
+        <skos:altLabel xml:lang="de">Diplomat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Diplomatin</skos:altLabel>
+        <skos:altLabel xml:lang="de">diplomatische Vertreterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">diplomatischer Vertreter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesandte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gesandter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geschäftsträger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geschäftsträgerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konsul</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konsulin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3578" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4012407-1" />
+    </skos:Concept>
+</rdf:RDF>

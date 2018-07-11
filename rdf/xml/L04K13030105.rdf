@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13030105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Austausch im Bildungswesen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Austausch von Lehrkräften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Austausch von Studenten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Austausch von Studentinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schüleraustausch</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1303010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030119"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030120"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5176" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4180033-3" />
+    </skos:Concept>
+</rdf:RDF>

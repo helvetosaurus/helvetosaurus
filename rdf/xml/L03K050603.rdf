@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050603">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationales Wirtschaftsrecht</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070306010701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160204020204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010216"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4010" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10621-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4027461-5" />
+    </skos:Concept>
+</rdf:RDF>

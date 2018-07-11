@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010512">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">technologischer Wandel</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Anpassung an den technischen Fortschritt</skos:altLabel>
+        <skos:altLabel xml:lang="de">technischer Fortschritt</skos:altLabel>
+        <skos:altLabel xml:lang="de">technologische Entwicklung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030311"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5383" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10466-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4038177-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4214088-2" />
+    </skos:Concept>
+</rdf:RDF>

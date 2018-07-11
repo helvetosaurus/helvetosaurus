@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0501020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verbrechen gegen Sachen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eigentumsdelikt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K050102010208"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3944" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4013794-6" />
+    </skos:Concept>
+</rdf:RDF>

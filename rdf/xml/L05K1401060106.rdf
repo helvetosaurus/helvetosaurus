@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401060106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Weichtier</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Auster</skos:altLabel>
+        <skos:altLabel xml:lang="de">Jakobsmuschel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kalmar</skos:altLabel>
+        <skos:altLabel xml:lang="de">Miesmuschel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Muschel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pilgermuschel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tintenfisch</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401060204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/c_623f2583" />
+    </skos:Concept>
+</rdf:RDF>

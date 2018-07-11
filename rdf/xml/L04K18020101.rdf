@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beförderungstarif</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Transporttarif</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrstarif</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110503020101"/>
+        <skos:scopeNote xml:lang="de">Beförderungspreis, der mittels eines festen Schemas im voraus festgesetzt wird.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4379" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062975-2" />
+    </skos:Concept>
+</rdf:RDF>

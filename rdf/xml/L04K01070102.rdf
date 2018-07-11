@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01070102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Altersgliederung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Altersaufbau</skos:altLabel>
+        <skos:altLabel xml:lang="de">Altersgruppe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Altersklasse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Alterspyramide</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensalter</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080602030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704050108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3327" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19760-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4034834-9" />
+    </skos:Concept>
+</rdf:RDF>

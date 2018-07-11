@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Inflation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bekämpfung der Inflation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Inflationsrate</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stagflation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Teuerung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704050209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050309"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010108"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1421" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11506-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026887-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4136463-6" />
+    </skos:Concept>
+</rdf:RDF>

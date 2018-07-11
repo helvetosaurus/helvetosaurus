@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0108030401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zuwandererkind</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausländerkind</skos:altLabel>
+        <skos:altLabel xml:lang="de">dritte Ausländergeneration</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuwanderer der dritten Generation</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuwanderer der zweiten Generation</skos:altLabel>
+        <skos:altLabel xml:lang="de">zweite Ausländergeneration</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/760" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003752-6" />
+    </skos:Concept>
+</rdf:RDF>

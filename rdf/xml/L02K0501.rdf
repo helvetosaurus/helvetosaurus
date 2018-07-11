@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Strafrecht (allgemein)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Strafrecht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K05"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/573" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16198-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057795-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4268641-6" />
+    </skos:Concept>
+</rdf:RDF>

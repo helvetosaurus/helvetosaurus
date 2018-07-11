@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01080101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Flüchtling</skos:prefLabel>
+        <skos:altLabel xml:lang="de">politischer Flüchtling</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010801"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0108010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0108010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0108010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080310"/>
+        <skos:scopeNote xml:lang="de">Person, die durch politische (Zwangs-)Massnahmen, Kriege und existenzgefährdende</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2986" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15919-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017604-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4078868-4" />
+    </skos:Concept>
+</rdf:RDF>

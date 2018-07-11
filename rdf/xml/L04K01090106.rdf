@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01090106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">soziale Ungleichheit</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1420" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15718-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4055736-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4274816-1" />
+    </skos:Concept>
+</rdf:RDF>

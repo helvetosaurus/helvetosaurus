@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1801020502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fahrpersonal</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Chauffeur</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrzeugführer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fahrzeugführerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wagenführer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wagenführerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zugführer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zugführerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zugsbegleitung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zugspersonal</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K180102010101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2349" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4140163-3" />
+    </skos:Concept>
+</rdf:RDF>

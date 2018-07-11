@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kontrolle der Umweltbelastungen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bioindikator</skos:altLabel>
+        <skos:altLabel xml:lang="de">NABEL</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nationales Beobachtungsnetz für Luftfremdstoffe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Überwachung der Schadstoffemissionen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umweltüberwachung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601040401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601040402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601040403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/177" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15737-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026611-4" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/15742-2" />
+    </skos:Concept>
+</rdf:RDF>

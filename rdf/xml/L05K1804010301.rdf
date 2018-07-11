@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1804010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Flugzeug</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Luftfahrzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Luftfahrzeugbestand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Privatflugzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sportflugzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transportflugzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verkehrsflugzeug</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zivilflugzeug</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18040103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K180401030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020703"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4438" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14421-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4168246-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4017672-1" />
+    </skos:Concept>
+</rdf:RDF>

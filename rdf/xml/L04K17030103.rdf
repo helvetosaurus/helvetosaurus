@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kerntechnologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Atomtechnologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ausrüstung für Kernkraftwerke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kerntechnik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nukleartechnologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernenergieforschung [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nuklearforschung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150215"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402040101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4422" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4134381-5" />
+    </skos:Concept>
+</rdf:RDF>

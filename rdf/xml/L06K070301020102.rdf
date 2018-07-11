@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070301020102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">exklusiver Einkauf</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Einkaufskartell</skos:altLabel>
+        <skos:altLabel xml:lang="de">Exklusionsvertrag</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3006" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10940-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4127119-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4164937-0" />
+    </skos:Concept>
+</rdf:RDF>

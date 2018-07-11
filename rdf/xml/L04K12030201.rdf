@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12030201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Computer</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Datenverarbeitungsanlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">DV-Anlage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hardware</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kleinrechner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mikrocomputer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mikrorechner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Minicomputer</skos:altLabel>
+        <skos:altLabel xml:lang="de">PC</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personal Computer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechner</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1203010106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2157" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14751-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4070083-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4691000-1" />
+    </skos:Concept>
+</rdf:RDF>

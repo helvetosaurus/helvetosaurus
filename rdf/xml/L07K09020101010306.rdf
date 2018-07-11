@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020101010306">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stabex</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Stabex-Transfer</skos:altLabel>
+        <skos:altLabel xml:lang="de">System zur Stabilisierung der Ausfuhrerlöse</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K090201010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4247" />
+    </skos:Concept>
+</rdf:RDF>

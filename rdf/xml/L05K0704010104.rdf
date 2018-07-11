@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704010104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gemeinschaftsbeihilfe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beteiligung der Gemeinschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gemeinschaftshilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unterstützung durch die Gemeinschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0902020702"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/862" />
+    </skos:Concept>
+</rdf:RDF>

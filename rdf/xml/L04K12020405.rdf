@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12020405">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Medienrecht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gegendarstellung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Quellenschutz für Medienschaffende</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0503010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010201"/>
+        <skos:scopeNote xml:lang="de">nicht verwenden für Radio- und Fernsehgesetz oder Fernmeldegesetz (für diese</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4074661-6" />
+    </skos:Concept>
+</rdf:RDF>

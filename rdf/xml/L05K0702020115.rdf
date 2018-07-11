@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702020115">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Saisonarbeiter/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Saisonarbeiter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Saisonarbeiterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Saisonnier</skos:altLabel>
+        <skos:altLabel xml:lang="de">Saisonnierstatut</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010802"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050603"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080404"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4563" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11258-6" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4500109-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140103010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Agrarabschöpfung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abschöpfungsinstrument</skos:altLabel>
+        <skos:altLabel xml:lang="de">Abschöpfungssatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Erhebung der Abschöpfung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Festsetzung der Abschöpfung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050110"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104050201"/>
+        <skos:scopeNote xml:lang="de">Variable Zölle, die an den Gemeinschaftsgrenzen auf Importe aus Drittländern</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2591" />
+    </skos:Concept>
+</rdf:RDF>

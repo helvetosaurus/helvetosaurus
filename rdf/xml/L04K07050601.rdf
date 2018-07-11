@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">elektronische Industrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektronikindustrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1400" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18424-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4133005-5" />
+    </skos:Concept>
+</rdf:RDF>

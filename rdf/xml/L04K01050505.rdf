@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050505">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Einweisung in eine psychiatrische Klinik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Einweisung in eine Nervenheilanstalt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010505"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1480" />
+    </skos:Concept>
+</rdf:RDF>

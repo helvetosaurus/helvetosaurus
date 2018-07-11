@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05070201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Vertrag des Privatrechts</skos:prefLabel>
+        <skos:altLabel xml:lang="de">privatrechtlicher Vertrag</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vereinbarung des bürgerlichen Rechts</skos:altLabel>
+        <skos:altLabel xml:lang="de">vertragliche Verpflichtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertragsabschluss</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertragsunterzeichnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Integrationsvereinbarung [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kontrahierungszwang [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vertragszwang in der Krankenversicherung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050702"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0102010405"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11100113"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060310"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/164" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15982-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063270-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4126256-6" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/16039-0" />
+    </skos:Concept>
+</rdf:RDF>

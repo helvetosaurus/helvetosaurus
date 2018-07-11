@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Atomindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Atomwirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kernindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nuklearindustrie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601020301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1412" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13003-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4123505-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4131362-8" />
+    </skos:Concept>
+</rdf:RDF>

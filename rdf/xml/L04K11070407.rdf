@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070407">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmenssteuer</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Körperschaftssteuer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuer auf Einkommen aus Handel und Gewerbe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Steuer juristischer Personen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensbesteuerung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110704"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1107040701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302010206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070303"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2003; ersetzt Körperschaftssteuer (rückwirkend verwendet in Curia</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1331" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11679-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7678573-7" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11652-2" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11666-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7502163-8" />
+    </skos:Concept>
+</rdf:RDF>

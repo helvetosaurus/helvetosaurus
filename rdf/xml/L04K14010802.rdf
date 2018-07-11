@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010802">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">landwirtschaftliches Betriebsmittel (speziell)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Agrarinfrastruktur</skos:altLabel>
+        <skos:altLabel xml:lang="de">Agrartechnik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Landwirtschaftstechnologie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100249" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4252414-3" />
+    </skos:Concept>
+</rdf:RDF>

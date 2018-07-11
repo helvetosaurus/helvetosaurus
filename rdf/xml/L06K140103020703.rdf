@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140103020703">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Landwirtschaft in Berggebieten</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Alpwirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Berglandwirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/604" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4122069-9" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12936-4" />
+    </skos:Concept>
+</rdf:RDF>

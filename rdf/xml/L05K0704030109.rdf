@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704030109">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">touristisches Gebiet</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fremdenverkehrsgebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tourismusregion</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101010306"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3081" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4155366-4" />
+    </skos:Concept>
+</rdf:RDF>

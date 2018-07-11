@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140107020202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Nadelbaum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Nadelholz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tanne</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401070202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705040103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2415" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4171082-4" />
+    </skos:Concept>
+</rdf:RDF>

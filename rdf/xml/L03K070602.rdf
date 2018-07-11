@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070602">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Produktion</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erzeugung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Herstellung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industriemanagement</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionsausrichtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionsmanagement</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionsniveau</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionspolitik</skos:altLabel>
+        <skos:altLabel xml:lang="de">Produktionsvolumen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Umstrukturierung der Produktion</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0706"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060207"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060208"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060209"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060210"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060211"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060212"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060213"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060214"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060215"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060216"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060217"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060218"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704060203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020112"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07030202050201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040102"/>
+        <skos:scopeNote xml:lang="de">zu verwenden, wenn es um die Produktion im allgemeinen geht. Andernfalls die</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100260" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047347-8" />
+    </skos:Concept>
+</rdf:RDF>

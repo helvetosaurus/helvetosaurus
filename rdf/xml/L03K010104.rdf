@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Stellung der Frau</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Diskriminierung der Frau</skos:altLabel>
+        <skos:altLabel xml:lang="de">Frauenfrage</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lage der Frauen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Situation der Frau</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eidgenössische Kommission für Frauenfragen [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0107010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020507"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020408"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402031005"/>
+        <skos:scopeNote xml:lang="de">Im allgemeinen Sinn. Für die Teilbereiche verwende die speziellen Deskriptoren</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/81" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4018218-6" />
+    </skos:Concept>
+</rdf:RDF>

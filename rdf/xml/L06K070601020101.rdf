@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070601020101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Angleichung der Normen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Harmonisierung der Normen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kompatibilität des Materials</skos:altLabel>
+        <skos:altLabel xml:lang="de">kompatibles Material</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vereinheitlichung der Normen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3648" />
+    </skos:Concept>
+</rdf:RDF>

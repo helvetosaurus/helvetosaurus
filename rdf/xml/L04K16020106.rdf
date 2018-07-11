@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16020106">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Industrieforschung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">innerbetriebliche Forschung</skos:altLabel>
+        <skos:altLabel xml:lang="de">privatwirtschaftliche Forschung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050207"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020704"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2922" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18461-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026822-6" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4196893-1" />
+    </skos:Concept>
+</rdf:RDF>

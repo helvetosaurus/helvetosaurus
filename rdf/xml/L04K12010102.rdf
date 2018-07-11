@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12010102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Beruf in der Informationsbranche</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Archivar</skos:altLabel>
+        <skos:altLabel xml:lang="de">Archivarin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bibliothekar</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bibliothekarin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dokumentalist</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dokumentalistin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dokumentar</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dokumentarin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dolmetscher</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dolmetscherin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Medienarchivar</skos:altLabel>
+        <skos:altLabel xml:lang="de">Medienarchivarin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Übersetzer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Übersetzerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12010302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3585" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002865-3" />
+    </skos:Concept>
+</rdf:RDF>

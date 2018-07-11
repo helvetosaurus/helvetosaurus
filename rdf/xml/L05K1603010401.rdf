@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1603010401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bioethik</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160103010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050516"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020701"/>
+        <skos:scopeNote xml:lang="de">befasst sich mit sittlichen Fragen zu Geburt, Leben und Tod im Hinblick auf neue</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5169" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006791-9" />
+    </skos:Concept>
+</rdf:RDF>

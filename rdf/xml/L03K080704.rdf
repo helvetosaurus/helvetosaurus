@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080704">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kompetenzregelung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Befugnis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kompetenzverteilung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuständigkeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Finanzkompetenzen [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuständigkeitsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0807"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060308"/>
+        <skos:scopeNote xml:lang="de">zu kombinieren mit den entsprechenden Themen; für spezielle Fragen vorhandene</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2573" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/11164-1" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4333792-2" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">ständige Kommission</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010114"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010116"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080303010112"/>
+    </skos:Concept>
+</rdf:RDF>

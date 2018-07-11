@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04020314">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">paramilitärische Einheit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Grenztruppe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Militärpolizei</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sicherheitskräfte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402031401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402030705"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3437" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4137987-1" />
+    </skos:Concept>
+</rdf:RDF>

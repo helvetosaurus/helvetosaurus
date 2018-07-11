@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11040203">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">automatisierte Bankdienstleistung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">automatischer Bankschalter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Autoschalter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Banking</skos:altLabel>
+        <skos:altLabel xml:lang="de">e-banking</skos:altLabel>
+        <skos:altLabel xml:lang="de">Geldautomat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Homebanking</skos:altLabel>
+        <skos:altLabel xml:lang="de">Selbstbedienungsbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tele-Konto</skos:altLabel>
+        <skos:altLabel xml:lang="de">Tele-Überweisung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110302010202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3248" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18712-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4202584-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4125913-0" />
+    </skos:Concept>
+</rdf:RDF>

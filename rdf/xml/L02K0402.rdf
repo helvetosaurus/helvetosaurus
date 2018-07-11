@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0402">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verteidigung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Landesverteidigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verteidigung des Staatsgebiets</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K04"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100173" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063254-4" />
+    </skos:Concept>
+</rdf:RDF>

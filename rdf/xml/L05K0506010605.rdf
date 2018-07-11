@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506010605">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schweizer/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Inländer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Inländerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schweizerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060102"/>
+        <skos:scopeNote xml:lang="de">Zu verwenden, wenn der Aspekt Inländer/in bzw. Schweizer/in explizit Thema ist.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4133666-5" />
+    </skos:Concept>
+</rdf:RDF>

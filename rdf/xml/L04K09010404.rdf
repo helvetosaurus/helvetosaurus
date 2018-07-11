@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010404">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Gemeinschaftsrecht-nationales Recht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">innerstaatliches Recht-Gemeinschaftsrecht</skos:altLabel>
+        <skos:altLabel xml:lang="de">nationales Recht-Gemeinschaftsrecht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901040401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901040402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07010204040101"/>
+    </skos:Concept>
+</rdf:RDF>

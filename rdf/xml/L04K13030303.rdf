@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13030303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fernunterricht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bildungsfernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">E-Learning</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fernstudium</skos:altLabel>
+        <skos:altLabel xml:lang="de">Funkkolleg</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulfernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulfunk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Telekolleg</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K130205010502"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/779" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11371-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016867-0" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4154097-9" />
+    </skos:Concept>
+</rdf:RDF>

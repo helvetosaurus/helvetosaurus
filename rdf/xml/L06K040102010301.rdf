@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040102010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Palästina-Frage</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Autonomiegebiete Gazastreifen und Westjordanland</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gazastreifen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Intifada</skos:altLabel>
+        <skos:altLabel xml:lang="de">Jerusalem-Status</skos:altLabel>
+        <skos:altLabel xml:lang="de">Palästina</skos:altLabel>
+        <skos:altLabel xml:lang="de">Westbank</skos:altLabel>
+        <skos:altLabel xml:lang="de">Westjordanland-Frage</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K04010201030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K04010201030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030108"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03030110"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5930" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18285-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131913-8" />
+    </skos:Concept>
+</rdf:RDF>

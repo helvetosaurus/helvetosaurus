@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703050103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmensführung</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070305010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040303"/>
+        <skos:scopeNote xml:lang="de">verwenden für Art und Weise der Unternehmensführung, nicht für personelle Fragen</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1156" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12160-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4078619-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4126351-0" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0107010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">älterer Mensch</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Alter</skos:altLabel>
+        <skos:altLabel xml:lang="de">alter Mensch</skos:altLabel>
+        <skos:altLabel xml:lang="de">Altersfragen</skos:altLabel>
+        <skos:altLabel xml:lang="de">dritte Lebensphase</skos:altLabel>
+        <skos:altLabel xml:lang="de">Greis</skos:altLabel>
+        <skos:altLabel xml:lang="de">hohes Alter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lebensabend</skos:altLabel>
+        <skos:altLabel xml:lang="de">vierte Lebensphase</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010701020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050506"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040403"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2333" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15904-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4141482-2" />
+    </skos:Concept>
+</rdf:RDF>

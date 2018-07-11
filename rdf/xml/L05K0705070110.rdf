@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705070110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Neuordnung der Industrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">industrielle Erneuerung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Industriesanierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507011001"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010508"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020341"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010512"/>
+        <skos:scopeNote xml:lang="de">Bezieht sich auf einen Industriezweig oder auf die zwischenindustrielle Ebene.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3290" />
+    </skos:Concept>
+</rdf:RDF>

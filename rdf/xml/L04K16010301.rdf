@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K16010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Biologie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Bakteriologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Embryologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mikrobiologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Molekularbiologie</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K160103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1601030107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010501"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4921" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006851-1" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070204010501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Betriebsrat</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arbeitnehmervertreter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arbeitnehmervertreterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalkommission</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalrat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalvertreter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalvertreterin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unternehmensausschuss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6051" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11311-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006204-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4126757-6" />
+    </skos:Concept>
+</rdf:RDF>

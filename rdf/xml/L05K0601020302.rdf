@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0601020302">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Lagerung radioaktiver Abfälle</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Endlagerung von radioaktiven Abfällen</skos:altLabel>
+        <skos:altLabel xml:lang="de">NAGRA</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nationale Genossenschaft für die Lagerung radioaktiver Abfälle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zwischenlagerung von radioaktiven Abfällen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060102030201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06010109"/>
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701040110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zollabkommen</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4836" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4384293-8" />
+    </skos:Concept>
+</rdf:RDF>

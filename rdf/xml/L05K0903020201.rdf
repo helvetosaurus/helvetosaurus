@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0903020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Bedienstete/r EU</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Angestellte EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">Angestellter EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bedienstete der Europäischen Gemeinschaften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bedienstete EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bediensteter der Europäischen Gemeinschaften</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bediensteter EU</skos:altLabel>
+        <skos:altLabel xml:lang="de">EG-Bedienstete</skos:altLabel>
+        <skos:altLabel xml:lang="de">EG-Bediensteter</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Angestellte</skos:altLabel>
+        <skos:altLabel xml:lang="de">EU-Angestellter</skos:altLabel>
+        <skos:altLabel xml:lang="de">wissenschaftliche Mitarbeiterin EG</skos:altLabel>
+        <skos:altLabel xml:lang="de">wissenschaftlicher Mitarbeiter EG</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030202"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5251" />
+    </skos:Concept>
+</rdf:RDF>

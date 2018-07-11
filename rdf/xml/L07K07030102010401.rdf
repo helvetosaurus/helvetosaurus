@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07030102010401">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kartell</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kartellabsprache</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070304030601"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5267" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10923-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029785-8" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4203649-5" />
+    </skos:Concept>
+</rdf:RDF>

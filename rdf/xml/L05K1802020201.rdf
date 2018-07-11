@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1802020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kunstbauwerk</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Aquädukt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Brücke</skos:altLabel>
+        <skos:altLabel xml:lang="de">Damm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Deich</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hafendamm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ingenieurbauwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kai</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schleuse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Viadukt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K180202020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803020701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030106"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2206" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002509-3" />
+    </skos:Concept>
+</rdf:RDF>

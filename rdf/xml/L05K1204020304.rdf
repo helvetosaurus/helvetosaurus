@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1204020304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Zusammenfassung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Abstract</skos:altLabel>
+        <skos:altLabel xml:lang="de">Resumée</skos:altLabel>
+        <skos:altLabel xml:lang="de">Synopse</skos:altLabel>
+        <skos:altLabel xml:lang="de">Textverdichtung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12040203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/78" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4224911-9" />
+    </skos:Concept>
+</rdf:RDF>

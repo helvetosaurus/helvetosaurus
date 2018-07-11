@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070303010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Aktiengesellschaft</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07030301010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040105"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4190" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12174-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131978-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4047290-5" />
+    </skos:Concept>
+</rdf:RDF>

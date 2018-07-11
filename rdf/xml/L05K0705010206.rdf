@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705010206">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">chemisches Salz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ammoniak</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bromid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Chlorid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hydroxid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Jodid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kaliumchlorid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lithiumhydroxid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natriumhypochlorid</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natriumkarbonat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natron</skos:altLabel>
+        <skos:altLabel xml:lang="de">Natronbleichlauge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nitrat</skos:altLabel>
+        <skos:altLabel xml:lang="de">Salmiak</skos:altLabel>
+        <skos:altLabel xml:lang="de">Soda</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sulfat</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4062" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4171245-6" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01040408">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Sozialhilfe</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fürsorge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fürsorgegesetzgebung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fürsorgeleistungen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hilfe für sozial Benachteiligte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hilfe für wirtschaftlich Schwache</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hilfe zum Lebensunterhalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nothilfe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sozialfürsorge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über Fürsorgeleistungen an Auslandschweizer [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Zuständigkeitsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0109010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070405020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040212"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040215"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1004" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4055776-5" />
+    </skos:Concept>
+</rdf:RDF>

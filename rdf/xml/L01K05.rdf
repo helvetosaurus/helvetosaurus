@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K05">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Recht (allgemein)</skos:prefLabel>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0507"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0901"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100145" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048737-4" />
+    </skos:Concept>
+</rdf:RDF>

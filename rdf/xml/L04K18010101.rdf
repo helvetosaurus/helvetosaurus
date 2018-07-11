@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Durchgangsverkehr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Durchgangsverkehr von Gütern</skos:altLabel>
+        <skos:altLabel xml:lang="de">Durchgangsverkehr von Personen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gütertransit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personentransit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transitverkehr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über den Strassentransitverkehr im Alpengebiet [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1803020701"/>
+        <skos:scopeNote xml:lang="de">Beförderung durch ein Staatsgebiet, in dem weder der Ausgangs- noch der</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3614" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13509-4" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4185904-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4185901-7" />
+    </skos:Concept>
+</rdf:RDF>

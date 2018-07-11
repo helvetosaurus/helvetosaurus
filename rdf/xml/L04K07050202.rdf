@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Eisen- und Stahlindustrie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Eisenhütte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eisenhüttenindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Elektrostahlwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Giesserei</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hüttenindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Hüttenwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stahlerzeugung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stahlindustrie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stahlproduktion</skos:altLabel>
+        <skos:altLabel xml:lang="de">Stahlwerk</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strangguss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050416"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1417" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4014005-2" />
+    </skos:Concept>
+</rdf:RDF>

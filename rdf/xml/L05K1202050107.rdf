@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Programmaufsicht</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Konzessionsverletzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">UBI</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unabhängige Beschwerdeinstanz für Radio und Fernsehen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ombudsstelle für Radio und Fernsehen [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020403"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050402"/>
+    </skos:Concept>
+</rdf:RDF>

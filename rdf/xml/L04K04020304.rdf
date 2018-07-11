@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04020304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Armeeeinsatz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Armee-Einsatz</skos:altLabel>
+        <skos:altLabel xml:lang="de">Einsatz der Armee</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402030401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040303"/>
+        <skos:scopeNote xml:lang="de">Eingefügt 1999</skos:scopeNote>
+    </skos:Concept>
+</rdf:RDF>

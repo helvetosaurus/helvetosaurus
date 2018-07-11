@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechtsakt der Gemeinschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Rechtsakt EU</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0901"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010205"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010206"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5258" />
+    </skos:Concept>
+</rdf:RDF>

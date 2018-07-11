@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Sprachregion</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Sprachgebiet</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über Beiträge an die Kantone Graubünden und Tessin zur Förderung ihrer Kultur und Sprache [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über Finanzhilfen für die Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090204"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1205" />
+    </skos:Concept>
+</rdf:RDF>

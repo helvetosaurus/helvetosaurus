@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705060103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">elektronisches Bauteil</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Elektronenröhre</skos:altLabel>
+        <skos:altLabel xml:lang="de">elektronische Platine</skos:altLabel>
+        <skos:altLabel xml:lang="de">elektronisches Bauelement</skos:altLabel>
+        <skos:altLabel xml:lang="de">Halbleiter</skos:altLabel>
+        <skos:altLabel xml:lang="de">integrierter Schaltkreis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mikrochip</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mikroprozessor</skos:altLabel>
+        <skos:altLabel xml:lang="de">Transistor</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050601"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/50" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14472-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4014360-0" />
+    </skos:Concept>
+</rdf:RDF>

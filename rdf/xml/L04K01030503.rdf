@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030503">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">gleichgeschlechtliches Paar</skos:prefLabel>
+        <skos:altLabel xml:lang="de">eingetragene Partnerschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Partnerschaftsgesetz [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0103010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502040802"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/7414" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4120463-3" />
+    </skos:Concept>
+</rdf:RDF>

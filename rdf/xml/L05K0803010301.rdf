@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803010301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Parlamentsdebatte</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Detailberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Eintretensdebatte</skos:altLabel>
+        <skos:altLabel xml:lang="de">Öffentlichkeit der Debatten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Redezeit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verhandlungen der eidgenössischen Räte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080301030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0202030101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/338" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4173376-9" />
+    </skos:Concept>
+</rdf:RDF>

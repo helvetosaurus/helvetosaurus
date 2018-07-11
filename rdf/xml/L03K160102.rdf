@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K160102">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">exakte Naturwissenschaften</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1601"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010203"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3946" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15669-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4045956-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4193885-9" />
+    </skos:Concept>
+</rdf:RDF>

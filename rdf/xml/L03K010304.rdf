@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">künstliche Fortpflanzung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Fortpflanzungstechnologie</skos:altLabel>
+        <skos:altLabel xml:lang="de">In-vivo-Fertilisation</skos:altLabel>
+        <skos:altLabel xml:lang="de">künstliche Befruchtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">medizinisch assistierte Fortpflanzung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Reproduktionsmedizin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Samenbank</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010703040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K160103010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010703040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07060105010404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010206"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3307" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4197011-1" />
+    </skos:Concept>
+</rdf:RDF>

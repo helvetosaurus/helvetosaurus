@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701020109">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">interkantonale Zusammenarbeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Beziehungen zwischen den Kantonen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konferenz kantonaler Regierungsvertreter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konkordat</skos:altLabel>
+        <skos:altLabel xml:lang="de">HarmoS [USEPLUS]</skos:altLabel>
+        <skos:altLabel xml:lang="de">PECARO [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13030109"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08070102010708"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050218"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7671560-7" />
+    </skos:Concept>
+</rdf:RDF>

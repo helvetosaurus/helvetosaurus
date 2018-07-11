@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080602">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Exekutive</skos:prefLabel>
+        <skos:altLabel xml:lang="de">ausführende Gewalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Exekutivgewalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">vollziehende Gewalt</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0806"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060202"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060203"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0807"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3062" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131719-1" />
+    </skos:Concept>
+</rdf:RDF>

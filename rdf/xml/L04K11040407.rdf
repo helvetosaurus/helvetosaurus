@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11040407">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rediskont</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Rediskontierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rediskontsatz</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110404"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1103030102"/>
+        <skos:scopeNote xml:lang="de">Wiederverkauf diskontierter Wechsel durch eine Geschäftbank an die Notenbank.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2959" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4198009-8" />
+    </skos:Concept>
+</rdf:RDF>

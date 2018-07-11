@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ausbildung am Arbeitsplatz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">betriebliche Weiterbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">innerbetriebliche Ausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Personalausbildung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Training on the Job</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020206"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020205"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1073" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11366-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4069376-4" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4248043-7" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Informationsaustausch</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Informationstransfer</skos:altLabel>
+        <skos:altLabel xml:lang="de">Informationsübertragung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K120101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201010301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1204020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202020102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/616" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131113-9" />
+    </skos:Concept>
+</rdf:RDF>

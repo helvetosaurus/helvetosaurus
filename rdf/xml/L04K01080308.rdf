@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01080308">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Kolonisierungswanderung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Überfremdung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010803"/>
+        <skos:scopeNote xml:lang="de">Veränderungen in der Bevölkerung einer bestimmten Region durch Migrationen wie</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3322" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4508852-4" />
+    </skos:Concept>
+</rdf:RDF>

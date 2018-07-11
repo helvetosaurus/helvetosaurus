@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Abschöpfung bei der Einfuhr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Einfuhrabschöpfung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010101"/>
+        <skos:scopeNote xml:lang="de">Erhebung einer Abgabe auf die Einfuhr von Agrarerzeugnissen, um deren Preise auf</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3167" />
+    </skos:Concept>
+</rdf:RDF>

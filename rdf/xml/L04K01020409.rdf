@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01020409">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">öffentliche Infrastruktur</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gemeinschaftseinrichtung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Infrastruktur der öffentlichen Hand</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliche Einrichtung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010204"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0102040901"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0102040902"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705030103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806011101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01020407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020202"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/847" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026944-9" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Redefreiheit</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502010501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060409"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1202040302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1619" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13662-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4038463-9" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4047160-3" />
+    </skos:Concept>
+</rdf:RDF>

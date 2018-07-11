@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040101010202">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">SALT-Abkommen</skos:prefLabel>
+        <skos:altLabel xml:lang="de">SALT</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verhandlungen über die Begrenzung strategischer Waffensysteme</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4794" />
+    </skos:Concept>
+</rdf:RDF>

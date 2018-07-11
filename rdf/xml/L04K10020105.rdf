@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10020105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">internationale Sanktion</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Blockade</skos:altLabel>
+        <skos:altLabel xml:lang="de">Repressalie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sanktion auf internationaler Ebene</skos:altLabel>
+        <skos:altLabel xml:lang="de">UNO-Sanktion</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010209"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3483" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4146020-0" />
+    </skos:Concept>
+</rdf:RDF>

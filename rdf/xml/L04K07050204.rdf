@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050204">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">technische Einrichtungen und Geräte</skos:prefLabel>
+        <skos:altLabel xml:lang="de">mechanische Geräte und Anlagen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020402"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705060104"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 2001 (vorher Synonym zu "mechanische Geräte und Anlagen"</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1834" />
+    </skos:Concept>
+</rdf:RDF>

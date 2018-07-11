@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050517">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Patient/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Patient</skos:altLabel>
+        <skos:altLabel xml:lang="de">Patientin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rechte des Patienten</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0105051701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01050508"/>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044903-8" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11050312">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Veröffentlichung der Preise</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Öffentlichkeit der Preise</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisangabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisauszeichnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisbekanntgabe</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisschild</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/233" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4115618-3" />
+    </skos:Concept>
+</rdf:RDF>

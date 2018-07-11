@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170403">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Erdölindustrie (speziell)</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erdölgesellschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mineralölkonzern</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ölgesellschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1704"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17040301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17040303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17040302"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100265" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015186-4" />
+    </skos:Concept>
+</rdf:RDF>

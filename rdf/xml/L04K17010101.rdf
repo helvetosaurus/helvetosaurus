@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17010101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Substitutionsbrennstoff</skos:prefLabel>
+        <skos:altLabel xml:lang="de">alternativer Brennstoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ersatzbrennstoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ersatzkraftstoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kraftstoff auf Aceton-Butylen-Basis</skos:altLabel>
+        <skos:altLabel xml:lang="de">Kraftstoff ohne Erdölkomponente</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1701010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170501"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020210"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705070305"/>
+        <skos:scopeNote xml:lang="de">Brennstoffe, die nicht aus Erdöl gewonnen werden.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6044" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4755069-7" />
+    </skos:Concept>
+</rdf:RDF>

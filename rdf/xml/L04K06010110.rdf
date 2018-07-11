@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010110">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">radioaktiver Ausstoss</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010601"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020312"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030104"/>
+    </skos:Concept>
+</rdf:RDF>

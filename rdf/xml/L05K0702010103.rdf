@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Lohn</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Arbeitslohn</skos:altLabel>
+        <skos:altLabel xml:lang="de">Arbeitsvergütung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Besoldung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bezüge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Dienstbezüge</skos:altLabel>
+        <skos:altLabel xml:lang="de">Entgelt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Entlöhnung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Gehalt</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verdienst</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vergütung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Managerlohn [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070201010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070201010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070201010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070201010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040502"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507020201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020111"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070408"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3273" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4036229-2" />
+    </skos:Concept>
+</rdf:RDF>

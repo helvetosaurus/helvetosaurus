@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1705">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">sanfte Energie</skos:prefLabel>
+        <skos:altLabel xml:lang="de">alternative Energie</skos:altLabel>
+        <skos:altLabel xml:lang="de">alternative Energiequelle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ersatzenergie</skos:altLabel>
+        <skos:altLabel xml:lang="de">neue Energiequelle</skos:altLabel>
+        <skos:altLabel xml:lang="de">Substitutionsenergie</skos:altLabel>
+        <skos:altLabel xml:lang="de">weiche Energie</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ökostrom [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K17"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170504"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170506"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170507"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170508"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K170303010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050402"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100267" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4068598-6" />
+    </skos:Concept>
+</rdf:RDF>

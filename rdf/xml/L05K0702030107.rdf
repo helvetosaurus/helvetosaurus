@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">vorgezogener Ruhestand</skos:prefLabel>
+        <skos:altLabel xml:lang="de">freiwilliges Ausscheiden aus dem Erwerbsleben</skos:altLabel>
+        <skos:altLabel xml:lang="de">Frührente</skos:altLabel>
+        <skos:altLabel xml:lang="de">progressive Pensionierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">schrittweiser Eintritt in den Ruhestand</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorbezug der Rente</skos:altLabel>
+        <skos:altLabel xml:lang="de">vorgezogenes Altersgeld</skos:altLabel>
+        <skos:altLabel xml:lang="de">Vorruhestand</skos:altLabel>
+        <skos:altLabel xml:lang="de">vorzeitige Pensionierung</skos:altLabel>
+        <skos:altLabel xml:lang="de">vorzeitige Versetzung in der Ruhestand</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3626" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11253-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139078-7" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4122404-8" />
+    </skos:Concept>
+</rdf:RDF>

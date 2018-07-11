@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010105">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Blumenkultur</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Blume</skos:altLabel>
+        <skos:altLabel xml:lang="de">Blumenzucht</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010101"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1031" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4067765-5" />
+        <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/12960-0" />
+    </skos:Concept>
+</rdf:RDF>

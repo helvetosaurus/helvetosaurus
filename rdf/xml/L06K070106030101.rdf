@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070106030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Konsumenteninformation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Konsumentenberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Preisanschreibepflicht</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbraucheraufklärung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbraucherberatung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verbraucherinformation</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701060301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07010603010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07010603010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701010304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0706010306"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1425" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/29901-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4066409-0" />
+    </skos:Concept>
+</rdf:RDF>

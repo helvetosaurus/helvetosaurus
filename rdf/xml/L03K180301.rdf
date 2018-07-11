@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K180301">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Strassenverkehr</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Kraftverkehr</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strassentransport</skos:altLabel>
+        <skos:altLabel xml:lang="de">Strassenrechnung [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1803"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18030105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705020701"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1110010801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020406"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020407"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1802040601"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3127" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4057931-1" />
+    </skos:Concept>
+</rdf:RDF>

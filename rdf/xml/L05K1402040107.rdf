@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402040107">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schlachtung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Betäubung von Schlachttieren</skos:altLabel>
+        <skos:altLabel xml:lang="de">Viehschlachtung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K14010404010201"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402030102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060104080201"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1857" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4116389-8" />
+    </skos:Concept>
+</rdf:RDF>

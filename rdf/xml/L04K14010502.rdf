@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010502">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">landwirtschaftliches Grundeigentum</skos:prefLabel>
+        <skos:altLabel xml:lang="de">ländlicher Besitz</skos:altLabel>
+        <skos:altLabel xml:lang="de">landwirtschaftliches Grundstück</skos:altLabel>
+        <skos:altLabel xml:lang="de">bäuerliches Bodenrecht [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K140105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010504"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070105"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140105050102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0507010901"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401070106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040209"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2814" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4445089-8" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18329-2" />
+    </skos:Concept>
+</rdf:RDF>

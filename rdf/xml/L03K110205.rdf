@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110205">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Einnahmen der öffentlichen Hand</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Einnahmen des Bundes</skos:altLabel>
+        <skos:altLabel xml:lang="de">Finanzierung des Haushalts</skos:altLabel>
+        <skos:altLabel xml:lang="de">Haushaltsmittel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatseinnahme</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020501"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020502"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020505"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020503"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020504"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110801"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040301"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1012" />
+    </skos:Concept>
+</rdf:RDF>

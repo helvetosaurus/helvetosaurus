@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0104">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">sozialer Schutz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">soziale Sicherheit</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K01"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010404"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010402"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010403"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100214" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4055732-7" />
+    </skos:Concept>
+</rdf:RDF>

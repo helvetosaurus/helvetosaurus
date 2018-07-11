@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080601">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Verwaltung</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Administration</skos:altLabel>
+        <skos:altLabel xml:lang="de">öffentliche Verwaltung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0806"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060114"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120102010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0807010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0804"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030114"/>
+        <skos:scopeNote xml:lang="de">verwenden für allgemeine Fragen (siehe auch Unterbegriffe). Wenn einzelne Ämter</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/77" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13413-3" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063317-2" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4162941-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04030303">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Staatsschutz</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Gefährdung der Staatssicherheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Staatssicherheit</skos:altLabel>
+        <skos:altLabel xml:lang="de">Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit [USEPLUS]</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0403030304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050205"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3993" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4182674-7" />
+    </skos:Concept>
+</rdf:RDF>

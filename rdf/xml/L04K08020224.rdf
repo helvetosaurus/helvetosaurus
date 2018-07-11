@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020224">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Reduktion</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Verminderung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Verringerung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080202"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080108"/>
+        <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4177306-8" />
+    </skos:Concept>
+</rdf:RDF>

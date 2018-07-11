@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Friedenspolitik</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Erhaltung des Friedens</skos:altLabel>
+        <skos:altLabel xml:lang="de">Friede</skos:altLabel>
+        <skos:altLabel xml:lang="de">Friedenssicherung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Konfliktprävention</skos:altLabel>
+        <skos:altLabel xml:lang="de">Sicherung des Friedens</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wahrung des Friedens</skos:altLabel>
+        <skos:altLabel xml:lang="de">Weltfriede</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0401"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010304"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020312"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1743" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16497-5" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4019411-5" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4679328-8" />
+    </skos:Concept>
+</rdf:RDF>

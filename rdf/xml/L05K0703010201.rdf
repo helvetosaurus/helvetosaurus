@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unternehmenszusammenschluss</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Absprache zwischen Erzeugern</skos:altLabel>
+        <skos:altLabel xml:lang="de">assoziiertes Unternehmen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Betriebszusammenschluss</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070301020101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07030302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050401"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703010206"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3060" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4321280-3" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Schadstoff</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mikroschadstoff</skos:altLabel>
+        <skos:altLabel xml:lang="de">Spurenverunreinigung</skos:altLabel>
+        <skos:altLabel xml:lang="de">umweltverschmutzender Stoff</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0602010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2521" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4051933-8" />
+    </skos:Concept>
+</rdf:RDF>

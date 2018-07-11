@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202020101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Fernmeldegerät</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Ausrüstung für Nachrichtenübermittlung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Breitbandkabel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Fernsprechleitung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Glasfaser</skos:altLabel>
+        <skos:altLabel xml:lang="de">Glasfaserkabel</skos:altLabel>
+        <skos:altLabel xml:lang="de">Koaxialkabel</skos:altLabel>
+        <skos:altLabel xml:lang="de">optischer Leiter</skos:altLabel>
+        <skos:altLabel xml:lang="de">Telefonleitung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Telekommunikationsausrüstung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Telekommunikationsleitung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020201"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120202010101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120202010102"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3860" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14490-1" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4201700-2" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4146532-5" />
+    </skos:Concept>
+</rdf:RDF>

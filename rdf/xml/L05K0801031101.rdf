@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801031101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Unvereinbarkeit</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Inkompatibilität</skos:altLabel>
+        <skos:altLabel xml:lang="de">Unvereinbarkeit von Funktionen</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010311"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080701010104"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020339"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080304"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806020301"/>
+        <skos:scopeNote xml:lang="de">Unvereinbarkeit eines politischen Amtes mit einem andern politischen Amt (z.B.</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1336" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4229520-8" />
+    </skos:Concept>
+</rdf:RDF>

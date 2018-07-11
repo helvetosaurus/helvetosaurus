@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13010207">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">schulische Mobilität</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Mobilität der Schüler</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mobilität der Schülerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mobilität der Studenten</skos:altLabel>
+        <skos:altLabel xml:lang="de">Mobilität der Studentinnen</skos:altLabel>
+        <skos:altLabel xml:lang="de">Schulwechsel</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1303010501"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1950" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4180230-5" />
+    </skos:Concept>
+</rdf:RDF>

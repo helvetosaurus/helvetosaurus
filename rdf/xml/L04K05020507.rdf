@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020507">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Rechte der Frau</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Frauenrechte</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050205"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020305"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010104"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/585" />
+    </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704010201">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Ankurbelung der Wirtschaft</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Impulsprogramm</skos:altLabel>
+        <skos:altLabel xml:lang="de">Revitalisierung der Wirtschaft</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wiederbelebung der Wirtschaft</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110901060101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020303"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3194" />
+    </skos:Concept>
+</rdf:RDF>

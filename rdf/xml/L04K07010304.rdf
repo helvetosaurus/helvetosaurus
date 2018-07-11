@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010304">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Angebot und Nachfrage</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Angebot</skos:altLabel>
+        <skos:altLabel xml:lang="de">Nachfrage</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070103"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010303"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704060106"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11050304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2128" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4001997-4" />
+    </skos:Concept>
+</rdf:RDF>

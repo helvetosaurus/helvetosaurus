@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1501">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Nichtregierungsorganisation</skos:prefLabel>
+        <skos:altLabel xml:lang="de">NGO</skos:altLabel>
+        <skos:altLabel xml:lang="de">NRO</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K15"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150101"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150102"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150103"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150104"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150105"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150106"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150107"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150108"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150109"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150110"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150111"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150112"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150113"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150114"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150115"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150116"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K150117"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1503"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101030204"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1502"/>
+        <skos:scopeNote xml:lang="de">weitere Nichtregierungsorganisationen siehe unter ihrem Namen oder Abkürzung</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100289" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4131014-7" />
+    </skos:Concept>
+</rdf:RDF>

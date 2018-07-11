@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030101">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Altersrentner/in</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Altersrentner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Altersrentnerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pensionär</skos:altLabel>
+        <skos:altLabel xml:lang="de">Pensionärin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rentenempfänger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rentenempfängerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rentner</skos:altLabel>
+        <skos:altLabel xml:lang="de">Rentnerin</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ruhegehaltsempfänger</skos:altLabel>
+        <skos:altLabel xml:lang="de">Ruhegehaltsempfängerin</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020301"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104010101"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401010102"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030203"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010401"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3623" />
+        <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19637-0" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4377395-3" />
+        <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4155554-5" />
+    </skos:Concept>
+</rdf:RDF>

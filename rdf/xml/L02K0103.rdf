@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0103">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">Familie (allgemein)</skos:prefLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K01"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010303"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010302"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010301"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010305"/>
+        <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010304"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100208" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016397-0" />
+    </skos:Concept>
+</rdf:RDF>

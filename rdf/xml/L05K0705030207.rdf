@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705030207">
+        <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
+        <skos:prefLabel xml:lang="de">energetische Sanierung von Gebäuden</skos:prefLabel>
+        <skos:altLabel xml:lang="de">Wärmedämmung</skos:altLabel>
+        <skos:altLabel xml:lang="de">Wärmeisolierung</skos:altLabel>
+        <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050302"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010107"/>
+        <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010103"/>
+        <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1516" />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064200-8" />
+    </skos:Concept>
+</rdf:RDF>
