@@ -28,7 +28,11 @@ the Helvetisierung mainly documents of the parliamentary services and the federa
 slogans, registries and dossier divisions. To check how often a word had been used, we were able to make use of 
 databases of the parliamentary services, The parliamentary offenses since 1983 in the full text.
 
-Quelle: https://bartoc.org/en/node/675">https://bartoc.org/en/node/675
+Quelle: https://bartoc.org/en/node/675
+
+## Status
+
+Der Thesaurus wird nicht mehr weitergeführt. Dies ist ein Snapshot der letzten Version 9.0.
 
 ## EuroVoc – Rechtlicher Hinweis
 
