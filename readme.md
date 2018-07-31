@@ -55,3 +55,7 @@ Quelle: http://eurovoc.europa.eu/drupal/?q=de/node/67&cl=en
 
 © 2018: <a href="http://eurovoc.europa.eu/">Europäische Union</a>, <a href="https://www.parlament.ch">Das Schweizer 
 Parlament</a> und <a href="https://www.sozialarchiv.ch">Schweizerisches Sozialarchiv</a> | Version 9.0
+
+## Dump
+
+https://raw.githubusercontent.com/helvetosaurus/helvetosaurus/master/rdf/xml/helvetosaurus.rdf
