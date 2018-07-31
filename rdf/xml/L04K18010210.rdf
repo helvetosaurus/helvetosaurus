@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010210">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18010210">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Individualverkehr</skos:prefLabel>
         <skos:altLabel xml:lang="de">privater Verkehr</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010219"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4516" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026748-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

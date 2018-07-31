@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803050302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0803050302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">zweite Kammer</skos:prefLabel>
         <skos:altLabel xml:lang="de">Bundesrat (Deutschland)</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:scopeNote xml:lang="de">Für ausländisches Parlament mit entsprechendem Land verbinden. Hinzugefügt 2007,</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/425" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136849-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

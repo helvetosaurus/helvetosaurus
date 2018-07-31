@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gemeinschaftsorgan</skos:prefLabel>
         <skos:altLabel xml:lang="de">Organ der Union</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030102"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030106"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1451" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

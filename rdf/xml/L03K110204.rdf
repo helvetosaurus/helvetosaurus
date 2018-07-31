@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110204">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110204">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Haushaltsplan der Gemeinschaft</skos:prefLabel>
         <skos:altLabel xml:lang="de">EG-Haushaltsplan</skos:altLabel>
@@ -18,5 +18,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030106"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140103010104"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5051" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

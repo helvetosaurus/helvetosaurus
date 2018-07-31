@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09020207">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09020207">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Fonds EU</skos:prefLabel>
         <skos:altLabel xml:lang="de">EG-Fonds</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010204"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704010104"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

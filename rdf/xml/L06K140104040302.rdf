@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140104040302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140104040302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kostenbeiträge an Viehhalter/innen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Kostenbeiträge an Viehhalter</skos:altLabel>
         <skos:altLabel xml:lang="de">Kostenbeiträge an Viehhalterinnen</skos:altLabel>
         <skos:altLabel xml:lang="de">Viehhalterbeiträge</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040403"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0603030102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0603030102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ozonschicht</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06030301"/>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020316"/>
         <skos:scopeNote xml:lang="de">in der Stratosphäre</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4130365-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

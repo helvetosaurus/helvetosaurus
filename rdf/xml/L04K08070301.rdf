@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gesetzesevaluation</skos:prefLabel>
         <skos:altLabel xml:lang="de">Vollzugsforschung</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020302"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08030207"/>
         <skos:scopeNote xml:lang="de">verwenden für die Untersuchung der Wirkungen staatlicher Massnahmen</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020208">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020208">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Monokultur</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010202"/>
@@ -12,5 +12,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4142" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4137447-2" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18986-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

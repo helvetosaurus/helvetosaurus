@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070110">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070110">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Automobilsteuer</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110701"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070104030102"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11070104"/>
         <skos:scopeNote xml:lang="de">Einmalige Importsteuer auf Autos. Als Deskriptor hinzugefügt 2007.</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

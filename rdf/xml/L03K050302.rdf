@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Recht (speziell)</skos:prefLabel>
         <skos:altLabel xml:lang="de">objektives Recht</skos:altLabel>
@@ -26,5 +26,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030112"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100145" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4048737-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

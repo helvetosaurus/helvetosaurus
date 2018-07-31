@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0105051201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0105051201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Stammzellenforschung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Embryonenforschung</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:scopeNote xml:lang="de">Hinzugefügt 2003</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/7955" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7656209-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

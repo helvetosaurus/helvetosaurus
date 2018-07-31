@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03040102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03040102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Grosser Maghreb</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030401"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0304010202"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0304010201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3407" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

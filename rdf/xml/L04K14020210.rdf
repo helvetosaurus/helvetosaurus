@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020210">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020210">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">nachwachsender Rohstoff</skos:prefLabel>
         <skos:altLabel xml:lang="de">Biorohstoff</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17050101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010101"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4171069-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

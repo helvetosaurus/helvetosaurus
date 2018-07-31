@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050501030103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050501030103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Bundesverwaltungsgericht</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0505010301"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060304"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2003</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1548" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

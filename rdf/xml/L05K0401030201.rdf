@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0401030201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0401030201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">humanitäre Intervention</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010302"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4202065-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

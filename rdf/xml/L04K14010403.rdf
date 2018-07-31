@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010403">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14010403">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Lenkung der Agrarproduktion</skos:prefLabel>
         <skos:altLabel xml:lang="de">Produktionslenkung in der Landwirtschaft</skos:altLabel>
@@ -25,5 +25,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040315"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040104"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2972" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

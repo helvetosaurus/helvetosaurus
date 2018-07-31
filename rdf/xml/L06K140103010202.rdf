@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140103010202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140103010202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">ergänzende produktbezogene Beihilfe der EG</skos:prefLabel>
         <skos:altLabel xml:lang="de">Ergänzungsbeihilfe</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070103090401"/>
         <skos:scopeNote xml:lang="de">Erlaubt es, die Verbraucherpreise relativ niedrig zu halten und gleichzeitig den</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/870" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

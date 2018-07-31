@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Preis (allgemein)</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K11"/>
@@ -14,5 +14,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110505"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100207" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047097-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

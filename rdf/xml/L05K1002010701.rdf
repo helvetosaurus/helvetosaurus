@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1002010701">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1002010701">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gipfeltreffen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Gipfelkonferenz</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704020110"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3637" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136586-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

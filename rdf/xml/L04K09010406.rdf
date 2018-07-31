@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010406">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010406">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Zuständigkeit der Gemeinschaft</skos:prefLabel>
         <skos:altLabel xml:lang="de">Zuständigkeit EG</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901040601"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080704"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/36" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

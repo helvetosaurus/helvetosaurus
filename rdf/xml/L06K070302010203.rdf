@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070302010203">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070302010203">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Defizit in der Betriebsrechnung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Fehlbetrag eines Betriebs</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11020502"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110403010202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010303"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

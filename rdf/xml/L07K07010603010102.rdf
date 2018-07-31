@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07010603010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07010603010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Warentest</skos:prefLabel>
         <skos:altLabel xml:lang="de">Produktevergleich</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070106030101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601030201"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064605-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

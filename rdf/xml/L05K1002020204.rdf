@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1002020204">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1002020204">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Europäische Konvention</skos:prefLabel>
         <skos:altLabel xml:lang="de">Charta des Europarates</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0502020201"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0904"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3472" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

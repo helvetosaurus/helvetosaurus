@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K060201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K060201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Schadensfaktor</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0602"/>
@@ -14,5 +14,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020101"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020106"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2090" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040101010502">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040101010502">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Nuklearmacht</skos:prefLabel>
         <skos:altLabel xml:lang="de">Atommacht</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401010105"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020101"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4143328-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

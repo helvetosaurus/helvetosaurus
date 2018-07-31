@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18030103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18030103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">internationaler Güterkraftverkehr</skos:prefLabel>
         <skos:altLabel xml:lang="de">internationaler Lastwagenverkehr</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801020204"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18010105"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4520" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

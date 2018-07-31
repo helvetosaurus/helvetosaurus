@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05040107">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05040107">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verjährung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Verwirkung</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050401"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070202"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4187781-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

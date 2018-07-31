@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070501020903">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070501020903">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Schwefeldioxid</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010209"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060201010101"/>
         <skos:scopeNote xml:lang="de">Wenn der Schadstoffcharakter interessiert, benutze "Abgas"</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1878" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K110403010202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K110403010202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Konkurs</skos:prefLabel>
         <skos:altLabel xml:lang="de">Konkursverfahren</skos:altLabel>
@@ -19,5 +19,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12302-3" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4072843-2" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4533490-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

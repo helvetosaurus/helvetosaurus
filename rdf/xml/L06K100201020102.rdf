@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K100201020102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K100201020102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Beobachterstatus</skos:prefLabel>
         <skos:altLabel xml:lang="de">diplomatische Beobachterin</skos:altLabel>
         <skos:altLabel xml:lang="de">diplomatischer Beobachter</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5756" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

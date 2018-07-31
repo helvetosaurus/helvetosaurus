@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010801">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010801">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Asylpolitik</skos:prefLabel>
         <skos:altLabel xml:lang="de">Flüchtlingspolitik</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01080103"/>
         <skos:scopeNote xml:lang="de">Zu verwenden für allgemeine Aspekte der Politik gegenüber Asylbewerbern.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4199676-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

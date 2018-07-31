@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03030504">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03030504">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Nordkorea</skos:prefLabel>
         <skos:altLabel xml:lang="de">Demokratische Volksrepublik Korea</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030305"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/236" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/17569-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

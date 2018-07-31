@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0502010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0502010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Stimm- und Wahlrecht des Einzelnen</skos:prefLabel>
         <skos:altLabel xml:lang="de">allgemeines Wahlrecht</skos:altLabel>
@@ -19,5 +19,5 @@
         <skos:scopeNote xml:lang="de">Zu verwenden für das Stimm- und Wahlrecht der/des einzelnen Staatsbürgers/-in.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4322" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4064302-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

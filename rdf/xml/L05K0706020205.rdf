@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706020205">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706020205">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Umschlagen und Heben von Gütern</skos:prefLabel>
         <skos:altLabel xml:lang="de">Güterumschlag</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12681-4" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4135274-9" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4199475-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

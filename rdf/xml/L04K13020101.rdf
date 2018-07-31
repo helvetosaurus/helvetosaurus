@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">fächerübergreifender Unterricht</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/791" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4153520-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701060206">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701060206">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">persönliche Habe</skos:prefLabel>
         <skos:altLabel xml:lang="de">Artikel für den privaten Gebrauch</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05070114"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010404"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5317" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020201040101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020201040101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ausgesteuerte/r</skos:prefLabel>
         <skos:altLabel xml:lang="de">Ausgesteuerte</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030406"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020114"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050602010204">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K050602010204">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Meeresgewässer</skos:prefLabel>
         <skos:altLabel xml:lang="de">Hohe See</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020102"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/605" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4246788-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

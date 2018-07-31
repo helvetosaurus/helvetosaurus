@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Eltern</skos:prefLabel>
         <skos:altLabel xml:lang="de">Mutter</skos:altLabel>
@@ -18,5 +18,5 @@
         <skos:scopeNote xml:lang="de">Hinzugefügt 2003; vorher Synonym zu Verwandtschaft (rückwirkend verwendet in</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2239" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4014516-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

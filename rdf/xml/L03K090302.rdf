@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K090302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Europäischer öffentlicher Dienst</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0903"/>
@@ -11,5 +11,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09030202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080601"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5130" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

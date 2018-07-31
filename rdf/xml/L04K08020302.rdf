@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Evaluation</skos:prefLabel>
         <skos:altLabel xml:lang="de">Assessment</skos:altLabel>
@@ -36,5 +36,5 @@
         <skos:scopeNote xml:lang="de">Analyse und Bewertung eines Sachverhalts, bzw. Effizienz- und Erfolgskontrolle.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3085" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4071034-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

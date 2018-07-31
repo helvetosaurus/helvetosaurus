@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010902">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010902">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">sozio-kulturelle Gruppe</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0109"/>
@@ -13,5 +13,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01090204"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060105"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3487" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

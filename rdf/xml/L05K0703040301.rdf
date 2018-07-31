@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703040301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0703040301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Betriebsmodernisierung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Umstrukturierung</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040207"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020341"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1956" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

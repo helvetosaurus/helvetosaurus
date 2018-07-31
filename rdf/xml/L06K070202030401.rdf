@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070202030401">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070202030401">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">private Arbeitsvermittlungsstelle</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702020304"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702030210"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

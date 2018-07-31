@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040204010107">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040204010107">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Unterseeboot mit atomarer Bewaffnung</skos:prefLabel>
         <skos:altLabel xml:lang="de">atomgetriebenes Unterseeboot</skos:altLabel>
         <skos:altLabel xml:lang="de">Atom-U-Boot</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402040101"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4295778-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

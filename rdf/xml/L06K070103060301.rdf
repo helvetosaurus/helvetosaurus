@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070103060301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070103060301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Präferenzabkommen EG-EFTA</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030603"/>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010401"/>
         <skos:scopeNote xml:lang="de">Für andere Präferenzabkommen verwende "Präferenzzoll" und entsprechendes</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

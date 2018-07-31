@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0106030106">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0106030106">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Sitten und Gebräuche</skos:prefLabel>
         <skos:altLabel xml:lang="de">Brauchtum</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01060408"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4098" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4008017-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

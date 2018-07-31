@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705030102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705030102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Baugerät</skos:prefLabel>
         <skos:altLabel xml:lang="de">Bagger</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14366-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136602-5" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4183574-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

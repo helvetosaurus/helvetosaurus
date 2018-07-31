@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010203">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09010203">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Richtlinie EU</skos:prefLabel>
         <skos:altLabel xml:lang="de">Gemeinschaftsrichtlinie</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901020304"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0901020305"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K09010103"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

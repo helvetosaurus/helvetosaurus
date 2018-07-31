@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040203100501">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K040203100501">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">militärischer Frauendienst</skos:prefLabel>
         <skos:altLabel xml:lang="de">FHD</skos:altLabel>
         <skos:altLabel xml:lang="de">MFD</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402031005"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020303"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

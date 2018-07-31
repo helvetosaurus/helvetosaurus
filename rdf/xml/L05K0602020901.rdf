@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0602020901">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0602020901">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Treibhausgas</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020209"/>
@@ -15,5 +15,5 @@
         <skos:scopeNote xml:lang="de">Zu verwenden, wenn die Treibhausgase in ihrer Gesamtheit thematisiert werden</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5650" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4438735-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

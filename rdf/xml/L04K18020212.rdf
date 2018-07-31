@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020212">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18020212">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verkehrswirtschaft</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040602"/>
         <skos:scopeNote xml:lang="de">Untersuchung des Beförderungsbedarfs und der zu seiner Befriedigung geeigneten</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4062992-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

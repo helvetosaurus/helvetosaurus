@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020206">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401020206">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">intensive Landwirtschaft</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010202"/>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140105010201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/636" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4324701-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

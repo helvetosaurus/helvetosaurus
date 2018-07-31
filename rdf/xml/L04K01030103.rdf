@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01030103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ehe</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010301"/>
@@ -17,5 +17,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15937-1" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4013630-9" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4013657-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

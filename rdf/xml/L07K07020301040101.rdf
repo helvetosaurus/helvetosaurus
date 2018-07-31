@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020301040101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020301040101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">flexibles Rentenalter</skos:prefLabel>
         <skos:altLabel xml:lang="de">flexible Altersgrenze</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11253-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4139078-7" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4122404-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

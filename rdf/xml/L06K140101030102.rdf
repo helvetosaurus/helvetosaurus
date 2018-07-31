@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140101030102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140101030102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Maul- und Klauenseuche</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401010301"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4169138-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

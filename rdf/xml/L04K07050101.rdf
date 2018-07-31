@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Parachemie</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070501"/>
@@ -19,5 +19,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0705010110"/>
         <skos:scopeNote xml:lang="de">Aus dem Französischen entlehnte Bezeichnung, die die Herstellung chemischer</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3798" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

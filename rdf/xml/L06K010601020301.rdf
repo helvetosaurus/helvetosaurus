@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K010601020301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K010601020301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">italienisch-sprachige Schweiz</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0106010203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03010101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0301010117"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

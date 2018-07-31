@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030309">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030309">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Marktordnung</skos:prefLabel>
         <skos:altLabel xml:lang="de">einzelstaatliche Marktordnung</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070102010103"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2182" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4130890-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

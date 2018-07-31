@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K03">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K03">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">geographische Gliederung</skos:prefLabel>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0304"/>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0301"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0302"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0306"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

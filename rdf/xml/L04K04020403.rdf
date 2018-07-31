@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04020403">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04020403">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">dual use-Güter</skos:prefLabel>
         <skos:altLabel xml:lang="de">Güter mit doppeltem Verwendungszweck</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020102"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0402020501"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4802443-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

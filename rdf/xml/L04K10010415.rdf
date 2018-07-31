@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10010415">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K10010415">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Wirtschaftshilfe</skos:prefLabel>
         <skos:altLabel xml:lang="de">handelspolitische Massnahmen in der Entwicklungszusammenarbeit</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010215"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/899" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4190054-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

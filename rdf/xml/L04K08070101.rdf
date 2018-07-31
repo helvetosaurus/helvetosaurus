@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08070101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Staatsorgane</skos:prefLabel>
         <skos:altLabel xml:lang="de">öffentliche Hand</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2588" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/13413-3" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4182661-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

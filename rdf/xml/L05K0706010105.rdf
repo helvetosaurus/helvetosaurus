@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">technische Keramik</skos:prefLabel>
         <skos:altLabel xml:lang="de">Feinkeramik</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14772-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4030282-9" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4128683-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

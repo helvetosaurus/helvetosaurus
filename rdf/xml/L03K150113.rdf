@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K150113">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K150113">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Rat der Gemeinden Europas</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1501"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01010309"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

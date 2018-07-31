@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Fernsehen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Fernsehsender</skos:altLabel>
@@ -21,5 +21,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13655-0" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016825-6" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4509874-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

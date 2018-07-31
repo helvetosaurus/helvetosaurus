@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07010501010901">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07010501010901">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Sonntagsverkauf</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070105010109"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205030209"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2005</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

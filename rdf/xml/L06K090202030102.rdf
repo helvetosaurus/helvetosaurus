@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K090202030102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K090202030102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">gemeinschaftliche Position</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0902020301"/>
         <skos:scopeNote xml:lang="de">Haltung der EU-Mitgliedstaaten gegenüber einem politischen Problem oder einer</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4065" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

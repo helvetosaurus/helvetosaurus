@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01020418">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01020418">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verstädterung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Urbanisierung</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4618" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10512-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063234-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

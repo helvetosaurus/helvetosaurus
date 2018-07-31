@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070313">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11070313">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Steuerübereinkommen</skos:prefLabel>
         <skos:altLabel xml:lang="de">bilaterales Steuerübereinkommen</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002020205"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10020201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3261" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

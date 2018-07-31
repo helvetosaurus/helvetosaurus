@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040315">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040315">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verwertungsorganisation für landwirtschaftliche Produkte</skos:prefLabel>
         <skos:altLabel xml:lang="de">Butyra</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010403"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060110"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

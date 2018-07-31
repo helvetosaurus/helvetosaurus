@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050205">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050205">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Recht des Einzelnen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Grundfreiheiten</skos:altLabel>
@@ -34,5 +34,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/538" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/15998-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4525992-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

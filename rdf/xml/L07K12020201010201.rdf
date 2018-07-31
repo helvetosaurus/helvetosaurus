@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K12020201010201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K12020201010201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Mobiltelefon</skos:prefLabel>
         <skos:altLabel xml:lang="de">Autotelefon</skos:altLabel>
@@ -20,5 +20,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18081-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4338635-0" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7523237-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

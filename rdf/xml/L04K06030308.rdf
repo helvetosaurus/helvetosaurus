@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06030308">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06030308">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Meereslebewesen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Meeresfauna</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:altLabel xml:lang="de">Tierwelt des Meeres</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060303"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3149" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

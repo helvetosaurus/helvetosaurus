@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0104010904">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0104010904">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Taggeldversicherung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Krankentaggeldversicherung</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040107"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K111001130401"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

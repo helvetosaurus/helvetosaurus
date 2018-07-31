@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0201010403">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0201010403">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Helvetik</skos:prefLabel>
         <skos:altLabel xml:lang="de">1798-1803</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02010104"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2013</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

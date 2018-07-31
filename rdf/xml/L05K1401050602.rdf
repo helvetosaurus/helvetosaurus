@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401050602">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401050602">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">junge/r landwirtschaftliche/r Betriebsinhaber/in</skos:prefLabel>
         <skos:altLabel xml:lang="de">junge Landwirtin</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040202"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2981" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030204">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702030204">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">atypische Beschäftigung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020302"/>
@@ -13,5 +13,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19491-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4127448-9" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4129996-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

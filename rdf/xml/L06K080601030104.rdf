@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080601030104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080601030104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Personalentwicklung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010301"/>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K08060103010403"/>
         <skos:scopeNote xml:lang="de">zu verwenden im Bereich der öffentlichen Hand</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4121465-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

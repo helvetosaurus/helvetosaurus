@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05060205">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05060205">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gegenseitigkeit</skos:prefLabel>
         <skos:altLabel xml:lang="de">Gegenseitigkeit der Rechte</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0506020501"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/552" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4156285-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

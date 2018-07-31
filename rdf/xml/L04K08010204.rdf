@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010204">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08010204">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Volksinitiative</skos:prefLabel>
         <skos:altLabel xml:lang="de">eidgenössische Initiative</skos:altLabel>
@@ -30,5 +30,5 @@
         <skos:scopeNote xml:lang="de">Wenn es um die Volksinitiative als politisches Mittel und politisches Recht</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2363" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4063810-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

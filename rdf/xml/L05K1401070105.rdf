@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401070105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401070105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Waldbau</skos:prefLabel>
         <skos:altLabel xml:lang="de">Forstkultur</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12961-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017966-7" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4316384-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

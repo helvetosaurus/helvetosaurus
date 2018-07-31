@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06030305">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06030305">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">freie Natur</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060303"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0603030501"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3150" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

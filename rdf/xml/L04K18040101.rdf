@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18040101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K18040101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Flughafen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Flughafenanlage</skos:altLabel>
@@ -22,5 +22,5 @@
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4154752-4" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4285638-3" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/29846-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

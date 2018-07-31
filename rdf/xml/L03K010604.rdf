@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010604">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010604">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kunst</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0106"/>
@@ -21,5 +21,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15655-4" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4033422-3" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4114333-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

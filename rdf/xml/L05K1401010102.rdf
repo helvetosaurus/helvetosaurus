@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Anbau von Frühobst und Frühgemüse</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14010101"/>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402020203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020204"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

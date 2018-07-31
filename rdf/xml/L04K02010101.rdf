@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K02010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K02010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Neuzeit</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K020101"/>
@@ -11,5 +11,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0201010102"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4171678-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Nachrichtendienst des Bundes</skos:prefLabel>
         <skos:altLabel xml:lang="de">strategischer Nachrichtendienst</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04030303"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080403020101"/>
         <skos:scopeNote xml:lang="de">Nur zu verwenden, wenn es um die Verwaltungsabteilung Nachrichtendienst des</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

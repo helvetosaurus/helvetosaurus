@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1203030101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1203030101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Entwendung von Hard- und Software</skos:prefLabel>
         <skos:altLabel xml:lang="de">Entwendung von Computerprogrammen</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020403"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3033" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7507234-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

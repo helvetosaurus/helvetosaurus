@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K050201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">politische Grundrechte</skos:prefLabel>
         <skos:altLabel xml:lang="de">politische Freiheit</skos:altLabel>
@@ -17,5 +17,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020107"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020108"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3900" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

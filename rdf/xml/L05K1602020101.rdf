@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1602020101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1602020101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">BRITE</skos:prefLabel>
         <skos:altLabel xml:lang="de">BRITE-Programm</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020201"/>
         <skos:scopeNote xml:lang="de">Grundlagenforschung im Bereich der industriellen Technologien in Europa</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

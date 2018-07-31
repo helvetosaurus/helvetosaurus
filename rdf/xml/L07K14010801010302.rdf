@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K14010801010302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K14010801010302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Mutterkuh</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140108010103"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4638" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4170897-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

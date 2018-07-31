@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120205010104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120205010104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kabelfernsehen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Verkabelung</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4428" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13656-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4029109-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

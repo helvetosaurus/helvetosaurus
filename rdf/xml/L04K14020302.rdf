@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K14020302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">behandeltes Lebensmittel</skos:prefLabel>
         <skos:altLabel xml:lang="de">Functional Food</skos:altLabel>
@@ -24,5 +24,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020303"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1258" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4211974-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020213">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020213">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">von Menschen verursachte Katastrophe</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0601030201"/>
         <skos:scopeNote xml:lang="de">Verwenden, wenn die Verursachung thematisiert wird</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/412" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

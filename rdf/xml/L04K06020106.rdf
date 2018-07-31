@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020106">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06020106">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">umweltgefährdende Mikroorganismen</skos:prefLabel>
         <skos:altLabel xml:lang="de">umweltgefährdende Organismen</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060201"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L08K0706010501040201"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07060105010402"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

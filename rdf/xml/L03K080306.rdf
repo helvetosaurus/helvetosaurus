@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080306">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080306">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Parlamentsreform</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0803"/>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08060204"/>
         <skos:scopeNote xml:lang="de">nicht verwenden für nur auf ein Thema bezogene Veränderung (z.B. bei Revision</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4173381-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K01080102010201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K01080102010201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kirchenasyl</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010801020102"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7507448-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

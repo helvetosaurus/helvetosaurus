@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030203">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K030203">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Portugal Regionen</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0302"/>
@@ -14,5 +14,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020305"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020306"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K03020307"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

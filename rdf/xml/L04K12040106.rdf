@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12040106">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12040106">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Phonothek</skos:prefLabel>
         <skos:altLabel xml:lang="de">Landesphonothek</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K02020502"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/451" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4195926-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

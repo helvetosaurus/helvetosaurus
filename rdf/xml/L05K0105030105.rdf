@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0105030105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0105030105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Narkotikum</skos:prefLabel>
         <skos:altLabel xml:lang="de">Barbiturat</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010102010201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4306" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4171167-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

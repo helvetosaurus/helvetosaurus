@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12020105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K12020105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Speichermedium</skos:prefLabel>
         <skos:altLabel xml:lang="de">Informationsträger</skos:altLabel>
@@ -18,5 +18,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14752-4" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077653-0" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4192018-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

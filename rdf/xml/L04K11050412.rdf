@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11050412">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11050412">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">reduzierter Preis</skos:prefLabel>
         <skos:altLabel xml:lang="de">ermässigter Preis</skos:altLabel>
@@ -22,5 +22,5 @@
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/12788-0" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/12793-0" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4175627-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

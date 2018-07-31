@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070204010402">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070204010402">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Aussperrung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0702040104"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1689" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4003876-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

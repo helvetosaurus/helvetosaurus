@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1601040207">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1601040207">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Vulkanologie</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16010402"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020214"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4770" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4188776-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

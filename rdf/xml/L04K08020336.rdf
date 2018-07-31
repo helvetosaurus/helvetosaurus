@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020336">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020336">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Revolution</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4730" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4049680-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

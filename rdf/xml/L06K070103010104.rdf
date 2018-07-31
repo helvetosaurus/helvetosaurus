@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070103010104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070103010104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ausgleichsfinanzierung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701030101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110103"/>
         <skos:scopeNote xml:lang="de">Finanzierung eines vorübergehenden Ausfuhrdefizits</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1006" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08030101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">parlamentarische Abstimmung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Abstimmungsverfahren im Parlament</skos:altLabel>
@@ -20,5 +20,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080102"/>
         <skos:scopeNote xml:lang="de">Deskriptor und seine Unterbegriffe nicht für einzelne Abstimmungen verwenden,</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4762" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

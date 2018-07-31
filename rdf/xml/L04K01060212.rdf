@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060212">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01060212">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">religiöses Symbol</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010602"/>
@@ -12,5 +12,5 @@
         <skos:scopeNote xml:lang="de">Hinzugefügt 2007</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/c_57946f1a" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7502415-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

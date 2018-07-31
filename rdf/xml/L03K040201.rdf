@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K040201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verteidigungspolitik</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0402"/>
@@ -19,5 +19,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K10010210"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K040101010202"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2464" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

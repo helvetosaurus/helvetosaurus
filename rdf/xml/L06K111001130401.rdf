@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K111001130401">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K111001130401">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Taggeld</skos:prefLabel>
         <skos:altLabel xml:lang="de">Arbeitslosentaggeld [USEPLUS]</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1110011304"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0104010904"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

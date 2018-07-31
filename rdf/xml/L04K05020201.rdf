@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05020201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Amnesty International</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020112"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1664" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

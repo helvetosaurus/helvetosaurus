@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020106">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020106">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kontiguitätszone</skos:prefLabel>
         <skos:altLabel xml:lang="de">angrenzende Zone</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:scopeNote xml:lang="de">Meeresstreifen, der sich jenseits der Hoheitsgewässer in einer Entfernung von</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5143" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4393004-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

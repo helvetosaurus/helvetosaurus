@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801030304">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801030304">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Proporzwahl</skos:prefLabel>
         <skos:altLabel xml:lang="de">Listenwahl</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K080103030401"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3977" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4187753-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

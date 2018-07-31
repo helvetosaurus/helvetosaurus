@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">zentraler Grossmarkt</skos:prefLabel>
         <skos:altLabel xml:lang="de">Grossmarkt</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:scopeNote xml:lang="de">Marktform, deren Ziel die Verkürzung der Absatzwege durch Verringerung der Zahl</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3217" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4711716-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

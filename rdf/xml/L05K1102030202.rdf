@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1102030202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1102030202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Subvention</skos:prefLabel>
         <skos:altLabel xml:lang="de">Ausgleichszahlung</skos:altLabel>
@@ -23,5 +23,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/712" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4058345-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

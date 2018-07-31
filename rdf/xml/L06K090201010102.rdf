@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K090201010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K090201010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Abkommen von Jaunde</skos:prefLabel>
         <skos:altLabel xml:lang="de">Abkommen von Jaunde I</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:altLabel xml:lang="de">Jaunde-Abkommen</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0902010101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/200" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

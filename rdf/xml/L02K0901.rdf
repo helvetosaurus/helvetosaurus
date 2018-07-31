@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0901">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0901">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Europarecht</skos:prefLabel>
         <skos:altLabel xml:lang="de">Europäisches Recht</skos:altLabel>
@@ -18,5 +18,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/525" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/16182-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4153206-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

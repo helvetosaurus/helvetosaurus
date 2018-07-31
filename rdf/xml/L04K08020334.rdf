@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020334">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020334">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Programm</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
@@ -20,5 +20,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13010310"/>
         <skos:scopeNote xml:lang="de">Für spezielle Programme sind die genauen Bezeichnungen zu verwenden (z.B.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4047394-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

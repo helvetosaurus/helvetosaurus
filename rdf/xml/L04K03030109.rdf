@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03030109">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03030109">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Jemen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Arabische Republik Jemen</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030301"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4775" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/17624-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

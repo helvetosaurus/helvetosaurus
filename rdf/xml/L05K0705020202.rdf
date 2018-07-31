@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705020202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705020202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Erzeugnis der Eisen- und Stahlindustrie</skos:prefLabel>
         <skos:altLabel xml:lang="de">Eisenerzeugnis</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3824" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/19051-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4182860-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

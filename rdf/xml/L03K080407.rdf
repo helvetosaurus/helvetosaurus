@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080407">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K080407">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">UVEK</skos:prefLabel>
         <skos:altLabel xml:lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</skos:altLabel>
@@ -26,5 +26,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K12020202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1801021103"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999 (vorher EVED)</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

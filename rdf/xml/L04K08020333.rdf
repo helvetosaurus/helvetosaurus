@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020333">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020333">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Präsidium</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
@@ -22,5 +22,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806020304"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0803030602"/>
         <skos:scopeNote xml:lang="de">Präsidium einer Organisation, z.B. OSZE (hinzugefügt 1999)</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

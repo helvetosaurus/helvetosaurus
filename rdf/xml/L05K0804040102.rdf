@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0804040102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0804040102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Bundesamt für Flüchtlinge</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08040401"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010801020101"/>
         <skos:scopeNote xml:lang="de">Am 1.1.2005 zusammengelegt mit dem Bundesamt für Zuwanderung, Integration und</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

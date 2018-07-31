@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1303">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1303">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Bildung (speziell)</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K13"/>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1302"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100217" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006650-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

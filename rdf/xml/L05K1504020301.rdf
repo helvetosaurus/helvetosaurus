@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1504020301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1504020301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Internationaler Strafgerichtshof</skos:prefLabel>
         <skos:altLabel xml:lang="de">Jugoslawien-Strafgerichtshof</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040203"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2009, zuvor Synonym zu Internationaler Gerichtshof.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/7193" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

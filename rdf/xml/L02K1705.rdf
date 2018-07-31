@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1705">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1705">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">sanfte Energie</skos:prefLabel>
         <skos:altLabel xml:lang="de">alternative Energie</skos:altLabel>
@@ -31,5 +31,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070601050402"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100267" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4068598-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

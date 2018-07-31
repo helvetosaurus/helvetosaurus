@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Handelsgeschäft</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070101"/>
@@ -15,5 +15,5 @@
         <skos:scopeNote xml:lang="de">Abschluss einer mit Geld oder entsprechender Gegenleistung verbundenen</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5268" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4158993-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

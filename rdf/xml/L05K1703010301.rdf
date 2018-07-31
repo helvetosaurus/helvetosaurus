@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703010301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1703010301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Brennstoffanreicherung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17030103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1703010401"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/776" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

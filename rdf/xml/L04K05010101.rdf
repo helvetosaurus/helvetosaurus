@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K05010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Aberkennung von Rechten</skos:prefLabel>
         <skos:altLabel xml:lang="de">Aberkennung der bürgerlichen Ehrenrechte</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05020101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2631" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

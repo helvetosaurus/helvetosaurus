@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140105010201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140105010201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Flächenproduktivität</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401050102"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401020206"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2727" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4154526-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

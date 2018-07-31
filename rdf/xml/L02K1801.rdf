@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1801">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K1801">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Organisation des Verkehrs (allgemein)</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K18"/>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180102"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K180101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100238" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

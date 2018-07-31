@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070304030401">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070304030401">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Verlagerung der Tätigkeit von Unternehmen ins Ausland</skos:prefLabel>
         <skos:altLabel xml:lang="de">Arbeitsplatzverlagerung ins Ausland</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:altLabel xml:lang="de">Verlagerung von Arbeitsplätzen ins Ausland</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0703040304"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070402020101"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

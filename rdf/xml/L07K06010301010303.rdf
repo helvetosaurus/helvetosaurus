@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K06010301010303">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K06010301010303">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Küstenstreifen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Küste</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0704030106"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1683" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4033469-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

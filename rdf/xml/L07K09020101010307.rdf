@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020101010307">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020101010307">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Sysmin</skos:prefLabel>
         <skos:altLabel xml:lang="de">Beihilfesystem für Bergbauerzeugnisse</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K170201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4355" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4344692-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

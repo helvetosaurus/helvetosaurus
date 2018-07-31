@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010507">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K010507">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Medizinprodukt</skos:prefLabel>
         <skos:altLabel xml:lang="de">Hilfsmittel für Behinderte</skos:altLabel>
@@ -17,5 +17,5 @@
         <skos:scopeNote xml:lang="de">Arzneimittel sind keine Medizinprodukte. Ein Medizinprodukt ist ein Erzeugnis</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5636" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4024018-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

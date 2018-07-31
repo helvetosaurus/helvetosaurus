@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1104020501">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1104020501">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">nachrichtenlose Vermögen</skos:prefLabel>
         <skos:altLabel xml:lang="de">herrenlose Vermögen</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0201010409"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4467134-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

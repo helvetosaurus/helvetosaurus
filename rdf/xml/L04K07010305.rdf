@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010305">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010305">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Submissionswesen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Auftragswesen der öffentlichen Hand</skos:altLabel>
@@ -33,5 +33,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080603"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/20" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4043164-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

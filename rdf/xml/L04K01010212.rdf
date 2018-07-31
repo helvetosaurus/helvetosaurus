@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010212">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01010212">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Selbstverteidigung der Bürger/innen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Bürgerwehr</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040303"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040304"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4196366-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

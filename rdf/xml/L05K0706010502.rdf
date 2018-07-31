@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010502">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0706010502">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">CSEM</skos:prefLabel>
         <skos:altLabel xml:lang="de">Centre Suisse d'Electronique et de Microtechnique</skos:altLabel>
         <skos:altLabel xml:lang="de">Schweizerisches Forschungszentrum für Mikrotechnik</skos:altLabel>
         <skos:altLabel xml:lang="de">Schweizerisches Zentrum für Elektronik und Mikroelektronik</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060105"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

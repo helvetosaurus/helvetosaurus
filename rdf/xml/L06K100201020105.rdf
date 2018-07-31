@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K100201020105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K100201020105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">diplomatischer Dienst</skos:prefLabel>
         <skos:altLabel xml:lang="de">Angehörige des diplomatischen Dienstes</skos:altLabel>
@@ -26,5 +26,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010304"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3578" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4012407-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

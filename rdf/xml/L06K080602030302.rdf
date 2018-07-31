@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080602030302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080602030302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Regierungssoziologie</skos:prefLabel>
         <skos:altLabel xml:lang="de">Frauenanteil in der Regierung [USEPLUS]</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01070103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130205"/>
         <skos:scopeNote xml:lang="de">Zusammensetzung der Regierung nach Gruppen wie Beruf, Bildung, Alter oder</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

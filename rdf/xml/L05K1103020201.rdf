@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1103020201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1103020201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Euro-Dollar</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11030202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1101010102"/>
         <skos:scopeNote xml:lang="de">Dollarguthaben bei nichtamerikanischen Banken oder Unternehmen, die von diesen</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015692-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

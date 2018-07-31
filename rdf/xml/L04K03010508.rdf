@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010508">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010508">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Türkei</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030105"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401020101"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0401020102"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

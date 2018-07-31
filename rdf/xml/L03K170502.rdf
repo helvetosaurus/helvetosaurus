@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170502">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K170502">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Biogas</skos:prefLabel>
         <skos:altLabel xml:lang="de">Biomethan</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:scopeNote xml:lang="de">Gasgemisch, das über den Weg der Fermentierung aus dem Zerfall organischer</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4900" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4006796-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

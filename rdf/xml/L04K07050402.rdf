@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050402">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07050402">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Halbstoff- und Papierindustrie</skos:prefLabel>
         <skos:altLabel xml:lang="de">papiererzeugende Industrie</skos:altLabel>
@@ -21,5 +21,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13117-0" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044527-6" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4303003-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

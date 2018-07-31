@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010407">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010407">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Tschechoslowakei</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030104"/>
@@ -12,5 +12,5 @@
         <skos:scopeNote xml:lang="de">verwenden wenn beide Staaten oder wenn der gemeinsame Staat vor 1993 gemeint</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4411" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16828-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

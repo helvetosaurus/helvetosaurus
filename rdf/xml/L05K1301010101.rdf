@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1301010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1301010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Maturität</skos:prefLabel>
         <skos:altLabel xml:lang="de">Europäisches Abitur</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13020502"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/446" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4160223-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

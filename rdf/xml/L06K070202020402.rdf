@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070202020402">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070202020402">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">mittlere Führungskraft</skos:prefLabel>
         <skos:altLabel xml:lang="de">Führungskraft mittlerer Position</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12081-0" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4120753-1" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4114008-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

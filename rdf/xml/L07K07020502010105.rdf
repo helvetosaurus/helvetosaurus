@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020502010105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020502010105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Zufriedenheit bei der Arbeit</skos:prefLabel>
         <skos:altLabel xml:lang="de">Befriedigung bei der Arbeit</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/15837-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4002818-5" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4144817-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

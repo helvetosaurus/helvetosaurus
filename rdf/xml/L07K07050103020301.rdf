@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07050103020301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07050103020301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Farbstoff</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070501030203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1402040203"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/6038" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016465-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

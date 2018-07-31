@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07040602">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07040602">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Wirtschaftsform</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070406"/>
@@ -25,5 +25,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1603010301"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18020212"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16030103"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

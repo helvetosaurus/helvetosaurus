@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K03010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Andorra</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K030101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1874" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/17011-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

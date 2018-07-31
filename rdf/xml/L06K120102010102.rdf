@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120102010102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K120102010102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Meldepflicht</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1201020101"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2001</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4126047-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

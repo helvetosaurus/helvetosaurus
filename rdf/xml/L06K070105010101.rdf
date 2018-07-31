@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">ambulanter Handel</skos:prefLabel>
         <skos:altLabel xml:lang="de">ambulantes Gewerbe</skos:altLabel>
@@ -21,5 +21,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/13470-5" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4318479-0" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4057929-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705070105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705070105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Industrieinfrastruktur</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050701"/>
@@ -11,5 +11,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010502"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070507010503"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1434" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

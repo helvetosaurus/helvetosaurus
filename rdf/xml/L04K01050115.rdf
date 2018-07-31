@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050115">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K01050115">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">seltene Krankheit</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K010501"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2013</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/c_cbdf29ef" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4180919-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

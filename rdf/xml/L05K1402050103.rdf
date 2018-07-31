@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402050103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402050103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Frischfleisch</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020501"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020304"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4689" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4436387-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

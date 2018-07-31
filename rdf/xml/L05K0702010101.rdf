@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">zusätzliche Vergütung</skos:prefLabel>
         <skos:altLabel xml:lang="de">aussertarifliche Vergütung</skos:altLabel>
@@ -17,5 +17,5 @@
         <skos:scopeNote xml:lang="de">Entlöhnung in Form von Geld, Naturalien oder anderen Leistungen, die über das</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3556" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4181813-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

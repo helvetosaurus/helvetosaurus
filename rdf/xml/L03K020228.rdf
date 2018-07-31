@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K020228">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K020228">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Presseschau</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0202"/>
         <skos:scopeNote xml:lang="de">Zusammenstellung von Artikeln (lose Blätter oder als Heft)</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4175662-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070501020904">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070501020904">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Stickoxid</skos:prefLabel>
         <skos:altLabel xml:lang="de">NO2</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K060201010101"/>
         <skos:scopeNote xml:lang="de">Wenn der Schadstoffcharakter interessiert, benutze "Abgas" (5216)</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2213" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

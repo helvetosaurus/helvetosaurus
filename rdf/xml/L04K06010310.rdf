@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010310">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K06010310">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Klimapolitik</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K060103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020209"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/7547705-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

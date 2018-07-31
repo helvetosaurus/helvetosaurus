@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0401">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0401">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">internationales Gleichgewicht</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K04"/>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040102"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K040104"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100172" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

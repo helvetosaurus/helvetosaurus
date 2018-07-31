@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1101010801">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1101010801">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">internationale Währung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11010108"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1103030101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1973" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

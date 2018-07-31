@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010308">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0702010308">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Lohnzession</skos:prefLabel>
         <skos:altLabel xml:lang="de">Lohnabtretung</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07020103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0504030201"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4168061-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

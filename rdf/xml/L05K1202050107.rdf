@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050107">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1202050107">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Programmaufsicht</skos:prefLabel>
         <skos:altLabel xml:lang="de">Konzessionsverletzung</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08020313"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0806010103"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K050402"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

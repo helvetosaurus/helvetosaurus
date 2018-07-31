@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402030202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">dehydriertes Lebensmittel</skos:prefLabel>
         <skos:altLabel xml:lang="de">Trockenkost</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140204010105"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2752" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4284492-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

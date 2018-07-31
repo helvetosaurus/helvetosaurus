@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11090104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K11090104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">internationale Investition</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110901"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1494" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

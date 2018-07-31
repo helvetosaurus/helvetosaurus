@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701020302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701020302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Handelsvolumen</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010203"/>
@@ -11,5 +11,5 @@
         <skos:scopeNote xml:lang="de">Falls erforderlich, mit Einfuhr oder Ausfuhr verknüpfen.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4748" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4377483-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

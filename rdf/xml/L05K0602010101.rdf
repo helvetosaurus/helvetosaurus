@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0602010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0602010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">luftverunreinigender Stoff</skos:prefLabel>
         <skos:altLabel xml:lang="de">Luftschadstoff</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K07050102080101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2522" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4168291-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

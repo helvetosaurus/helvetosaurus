@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Inflation</skos:prefLabel>
         <skos:altLabel xml:lang="de">Bekämpfung der Inflation</skos:altLabel>
@@ -23,5 +23,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/11506-6" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4026887-1" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4136463-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0109010104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0109010104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Klasse der Besitzlosen</skos:prefLabel>
         <skos:altLabel xml:lang="de">benachteiligte soziale Gruppe</skos:altLabel>
@@ -16,5 +16,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0101020301"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2873" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/16663-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

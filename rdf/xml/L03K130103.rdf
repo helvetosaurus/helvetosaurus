@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K130103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K130103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Organisation des Unterrichtswesens (speziell)</skos:prefLabel>
         <skos:altLabel xml:lang="de">Organisation des Hochschulwesens</skos:altLabel>
@@ -21,5 +21,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K13010310"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130301"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100219" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

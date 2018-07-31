@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020503020501">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07020503020501">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">gleitende Arbeitszeit</skos:prefLabel>
         <skos:altLabel xml:lang="de">Gleitzeit</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070205030205"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1259" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4157575-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

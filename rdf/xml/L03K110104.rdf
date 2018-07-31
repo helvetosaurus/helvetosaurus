@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Währungssystem</skos:prefLabel>
         <skos:altLabel xml:lang="de">Währungsordnung</skos:altLabel>
@@ -21,5 +21,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K15040302"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701020308"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4121891-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

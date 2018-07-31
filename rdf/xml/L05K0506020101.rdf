@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">ausschliessliche Wirtschaftszone</skos:prefLabel>
         <skos:altLabel xml:lang="de">Zweihundertmeilenzone</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:scopeNote xml:lang="de">Zone, die sich über die Hoheitsgewässer hinaus bis zu einer Entfernung von 200</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4791" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4132791-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,9 +3,9 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020101010304">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K09020101010304">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Abkommen von Lome IV</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K090201010103"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

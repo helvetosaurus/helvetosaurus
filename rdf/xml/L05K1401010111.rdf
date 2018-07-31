@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010111">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401010111">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ölpflanzenbau</skos:prefLabel>
         <skos:altLabel xml:lang="de">Olivenanbau</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020206"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2131" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4318643-9" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

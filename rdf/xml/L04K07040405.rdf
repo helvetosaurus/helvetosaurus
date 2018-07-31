@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07040405">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07040405">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">wirtschaftliche Erhebung</skos:prefLabel>
         <skos:altLabel xml:lang="de">Konjunkturtest</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070101030901"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/770" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4164999-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

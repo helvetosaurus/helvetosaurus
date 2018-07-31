@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030306">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030306">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Wirtschafts- und Sozialausschuss EU</skos:prefLabel>
         <skos:altLabel xml:lang="de">Generalsekretariat WSA</skos:altLabel>
         <skos:altLabel xml:lang="de">WSA</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K090303"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

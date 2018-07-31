@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705040202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0705040202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Pappe</skos:prefLabel>
         <skos:altLabel xml:lang="de">Karton</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07050402"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3883" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4044549-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

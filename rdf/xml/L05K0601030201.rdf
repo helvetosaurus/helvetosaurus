@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0601030201">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0601030201">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Industriegefahren</skos:prefLabel>
         <skos:altLabel xml:lang="de">Industrieunfall</skos:altLabel>
@@ -20,5 +20,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K06020213"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4076" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4077920-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

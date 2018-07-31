@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1201020101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1201020101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Auskunftspflicht</skos:prefLabel>
         <skos:altLabel xml:lang="de">Informationspflicht</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K120102010102"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2003; vorher Synonym zu Informationsrecht (= Suchbegriff für frühere</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4112631-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

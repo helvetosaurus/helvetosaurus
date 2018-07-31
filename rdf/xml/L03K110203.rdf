@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110203">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K110203">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Haushaltsausgabe</skos:prefLabel>
         <skos:altLabel xml:lang="de">Ausgaben des Bundes</skos:altLabel>
@@ -26,5 +26,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11080305"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04020109"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/394" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

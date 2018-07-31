@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030504">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030504">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">freihändig vergebener Auftrag</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010305"/>
         <skos:scopeNote xml:lang="de">Möglichkeit der öffentlichen Verwaltung, einen Auftrag nach Gutdünken zu</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

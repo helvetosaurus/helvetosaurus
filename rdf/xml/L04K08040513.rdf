@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040513">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08040513">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Eidgenössische Finanzmarktaufsicht</skos:prefLabel>
         <skos:altLabel xml:lang="de">FINMA</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11040206"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K110601"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2007</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1701010103">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1701010103">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gasohol</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K17010101"/>
         <skos:scopeNote xml:lang="de">Vor allem in den USA vermarkteter Kraftstoff, der aus 90% Benzin und 10% Äthanol</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3738" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4460729-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

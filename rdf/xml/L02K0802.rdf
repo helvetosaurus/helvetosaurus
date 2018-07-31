@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0802">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L02K0802">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">politisches Leben (allgemein)</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L01K08"/>
@@ -13,5 +13,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080203"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080202"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100142" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

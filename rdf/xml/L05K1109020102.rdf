@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1109020102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1109020102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Finanzierungsart</skos:prefLabel>
         <skos:altLabel xml:lang="de">Finanzierungsmechanismus</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K11090201"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K110902010201"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/1952" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

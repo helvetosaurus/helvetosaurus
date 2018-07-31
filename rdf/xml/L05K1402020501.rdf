@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020501">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1402020501">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Getreide für die menschliche Ernährung</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K14020205"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K140202050101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5361" />
         <skos:closeMatch rdf:resource="http://zbw.eu/stw/descriptor/14945-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

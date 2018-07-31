@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070601">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070601">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Technologie und technische Regelungen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Technik</skos:altLabel>
@@ -15,5 +15,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07060105"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/100261" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4059205-4" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

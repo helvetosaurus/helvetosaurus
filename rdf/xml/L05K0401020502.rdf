@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0401020502">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0401020502">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">gerechter Krieg</skos:prefLabel>
         <skos:altLabel xml:lang="de">ungerechter Krieg</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K04010205"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 2009.</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4136037-0" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

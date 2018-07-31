@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0104010901">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0104010901">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Managed Care</skos:prefLabel>
         <skos:altLabel xml:lang="de">Managed Health Care</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K010401090102"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4461436-6" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

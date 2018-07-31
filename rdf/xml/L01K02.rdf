@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K02">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L01K02">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Dokumenttyp</skos:prefLabel>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0201"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1204"/>
         <skos:scopeNote xml:lang="de">Die Verwendung der untergeordneten Formdeskriptoren ist abhängig von der Datei;</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

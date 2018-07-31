@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010303">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K04010303">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">friedenserhaltende Mission</skos:prefLabel>
         <skos:altLabel xml:lang="de">Blaumützen</skos:altLabel>
@@ -18,5 +18,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K100108"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1504"/>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4679328-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

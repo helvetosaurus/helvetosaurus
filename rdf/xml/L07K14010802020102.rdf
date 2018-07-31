@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K14010802020102">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K14010802020102">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">landwirtschaftliches Fahrzeug</skos:prefLabel>
         <skos:altLabel xml:lang="de">landwirtschaftliches Kraftfahrzeug</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401080202"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4655" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4234784-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

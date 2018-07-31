@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070101030401">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070101030401">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Umweltzeichen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Öko-Label</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/18557-3" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4270637-3" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/7732328-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

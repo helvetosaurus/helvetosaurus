@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07030202050202">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L07K07030202050202">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Rentabilität</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070302020502"/>
@@ -12,5 +12,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/12295-2" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4049495-0" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4175829-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

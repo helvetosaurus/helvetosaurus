@@ -3,10 +3,10 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L08K0201010102010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L08K0201010102010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">ab 1980</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L07K02010101020101"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L09K020101010201010101"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

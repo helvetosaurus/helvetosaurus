@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040208">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1401040208">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Stillegung landwirtschaftlicher Betriebe</skos:prefLabel>
         <skos:altLabel xml:lang="de">Aufgabe landwirtschaftlicher Betriebe</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401030104"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1401040103"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/5373" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

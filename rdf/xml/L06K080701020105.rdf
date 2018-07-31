@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701020105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K080701020105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Föderation</skos:prefLabel>
         <skos:altLabel xml:lang="de">föderalistischer Staat</skos:altLabel>
@@ -14,5 +14,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/16314-4" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4017754-3" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4165243-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

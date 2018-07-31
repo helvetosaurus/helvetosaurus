@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801020405">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0801020405">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Allgemeine Volksinitiative</skos:prefLabel>
         <skos:altLabel xml:lang="de">Einheitsinitiative</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08010204"/>
         <skos:scopeNote xml:lang="de">Die 2003 in die Verfassung aufgenommenen Bestimmungen zur Allgemeinen</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

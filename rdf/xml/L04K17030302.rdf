@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K17030302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Elektrizitätsmarkt</skos:prefLabel>
         <skos:altLabel xml:lang="de">Stromhandel</skos:altLabel>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010307"/>
         <skos:scopeNote xml:lang="de">Hinzugefügt 1999</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4328181-3" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

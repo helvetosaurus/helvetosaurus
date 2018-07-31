@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010403">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010403">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Zolltarif</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K070104"/>
@@ -19,5 +19,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701040115"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4380" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4191029-1" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030602">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0701030602">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">aussergemeinschaftlicher Handel</skos:prefLabel>
         <skos:altLabel xml:lang="de">aussergemeinschaftlicher Wirtschaftsverkehr</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L06K070103010105"/>
         <skos:scopeNote xml:lang="de">Handel der EG-Länder mit Nicht-EG-Ländern</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/618" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

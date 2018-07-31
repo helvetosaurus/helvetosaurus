@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K07010302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Einfuhrpolitik</skos:prefLabel>
         <skos:altLabel xml:lang="de">autonome Einfuhrregelung</skos:altLabel>
@@ -25,5 +25,5 @@
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/10838-0" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4015185-2" />
         <skos:broadMatch rdf:resource="http://d-nb.info/gnd/4145522-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

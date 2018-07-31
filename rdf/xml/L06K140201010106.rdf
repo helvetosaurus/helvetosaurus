@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140201010106">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K140201010106">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Branntwein</skos:prefLabel>
         <skos:altLabel xml:lang="de">Armagnac</skos:altLabel>
@@ -26,5 +26,5 @@
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/601" />
         <skos:exactMatch rdf:resource="http://zbw.eu/stw/descriptor/14983-6" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4182358-8" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

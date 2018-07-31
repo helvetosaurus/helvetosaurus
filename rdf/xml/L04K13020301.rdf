@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020301">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K13020301">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ausbildung im Sozialwesen</skos:prefLabel>
         <skos:altLabel xml:lang="de">Höhere Fachschule im Sozialbereich</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:altLabel xml:lang="de">Schule für Sozialpädagogik</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K130203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K01040405"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

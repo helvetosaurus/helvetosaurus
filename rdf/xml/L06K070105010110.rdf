@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010110">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L06K070105010110">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Ladensterben</skos:prefLabel>
         <skos:altLabel xml:lang="de">Lädelisterben</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0701050101"/>
         <skos:scopeNote xml:lang="de">Bezeichnung für das gehäufte Auftreten von Gechäftsaufgaben insbesondere</skos:scopeNote>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

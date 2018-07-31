@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1805010101">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K1805010101">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Fähre</skos:prefLabel>
         <skos:altLabel xml:lang="de">Fährschiff</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K18050101"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/985" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4127897-5" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

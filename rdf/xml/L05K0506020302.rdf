@@ -3,12 +3,12 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020302">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0506020302">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Exterritorialität</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K05060203"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K1002010202"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/951" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4016056-7" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

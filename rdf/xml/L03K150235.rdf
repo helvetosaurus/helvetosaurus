@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K150235">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K150235">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">OCAM</skos:prefLabel>
         <skos:altLabel xml:lang="de">Afro-madagassische Organisation für wirtschaftliche Zusammenarbeit</skos:altLabel>
@@ -13,5 +13,5 @@
         <skos:altLabel xml:lang="de">UAMCE</skos:altLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K1502"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/2102" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

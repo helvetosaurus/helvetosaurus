@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020409">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K08020409">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Kommunitarismus</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L03K080204"/>
@@ -12,5 +12,5 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K08070106"/>
         <skos:scopeNote xml:lang="de">Politische Strömung, die - ausgehend von der Idee des Gemeinwohls und</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4313395-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

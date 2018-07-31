@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030503">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L04K09030503">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Europäische Wirtschafts- und Währungsunion</skos:prefLabel>
         <skos:altLabel xml:lang="de">WWU</skos:altLabel>
@@ -11,5 +11,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L05K0903050301"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4602" />
         <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4309802-2" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

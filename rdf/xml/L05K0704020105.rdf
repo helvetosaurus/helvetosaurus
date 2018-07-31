@@ -3,11 +3,11 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020105">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L05K0704020105">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Gruppe der 77</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07040201"/>
         <skos:scopeNote xml:lang="de">Umfasst jene Staaten der dritten Welt, die 1967 an der Konferenz von Algier</skos:scopeNote>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/3675" />
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>

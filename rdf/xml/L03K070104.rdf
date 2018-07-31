@@ -3,7 +3,7 @@
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
-    <skos:Concept rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070104">
+    <rdf:Description rdf:about="http://helvetoraurus.sozialarchiv.ch/L03K070104">
         <skos:inScheme rdf:resource="http://helvetoraurus.sozialarchiv.ch/"/>
         <skos:prefLabel xml:lang="de">Zollwesen</skos:prefLabel>
         <skos:broader rdf:resource="http://helvetoraurus.sozialarchiv.ch/L02K0701"/>
@@ -12,5 +12,5 @@
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010403"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010401"/>
         <skos:narrower rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K07010404"/>
-    </skos:Concept>
+    </rdf:Description>
 </rdf:RDF>
