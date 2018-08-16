@@ -12,6 +12,6 @@
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020202"/>
         <skos:related rdf:resource="http://helvetoraurus.sozialarchiv.ch/L04K16020109"/>
         <skos:exactMatch rdf:resource="http://eurovoc.europa.eu/4255" />
-        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4272502-1 " />
+        <skos:exactMatch rdf:resource="http://d-nb.info/gnd/4272502-1" />
     </rdf:Description>
 </rdf:RDF>
